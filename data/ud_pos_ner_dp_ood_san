@@ -1,0 +1,7578 @@
+1	sarga	_	_	2	Tatpurusha
+2	Adi	_	_	3	Tatpurusha
+3	kft	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	fk	_	_	2	Tatpurusha
+2	veda	_	_	3	Bahuvrihi
+3	Adi	_	_	8	Comp_root
+4	sarva	_	_	5	Tatpurusha
+5	deva	_	_	6	Tatpurusha
+6	suKa	_	_	7	Tatpurusha
+7	Avaham	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	Bukti	_	_	2	Dvandva
+2	mukti	_	_	3	Tatpurusha
+3	pradam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	kAla	_	_	2	Dvandva
+2	agni	_	_	3	Tatpurusha
+3	rUpa	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	saMsAra	_	_	2	Tatpurusha
+2	sAgara	_	_	3	Tatpurusha
+3	uttAra	_	_	4	Tatpurusha
+4	nAvam	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	kAla	_	_	3	Dvandva
+2	agni	_	_	3	Dvandva
+3	rudraH	_	_	6	Comp_root
+4	vidyA	_	_	5	Tatpurusha
+5	sAram	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	vaMSAnucarita	_	_	2	Bahuvrihi
+2	AdeH	_	_	8	Comp_root
+3	matsya	_	_	4	Dvandva
+4	kUrmma	_	_	5	Bahuvrihi
+5	Adi	_	_	6	Tatpurusha
+6	rUpa	_	_	7	Tatpurusha
+7	Dfk	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	fk	_	_	4	Dvandva
+2	yajuH	_	_	4	Dvandva
+3	sAma	_	_	4	Dvandva
+4	aTarva	_	_	5	Bahuvrihi
+5	AKyAH	_	_	8	Comp_root
+6	veda	_	_	7	Tatpurusha
+7	aNgAni	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	nyAya	_	_	3	Dvandva
+2	vEdyaka	_	_	3	Dvandva
+3	gAnDarvam	_	_	8	Comp_root
+4	Danuz	_	_	5	Tatpurusha
+5	vedaH	_	_	8	Comp_root
+6	arTa	_	_	7	Tatpurusha
+7	SAstra	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	na	_	_	2	Tatpurusha
+2	dfSyam	_	_	8	Comp_root
+3	na	_	_	4	Tatpurusha
+4	grAhyam	_	_	8	Comp_root
+5	a	_	_	7	Bahuvrihi
+6	gotra	_	_	7	Dvandva
+7	caraRam	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	matsya	_	_	2	Bahuvrihi
+2	Adi	_	_	3	Tatpurusha
+3	rUpa	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	matsya	_	_	2	Tatpurusha
+2	avatAra	_	_	3	Tatpurusha
+3	varRanam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	matsya	_	_	2	Bahuvrihi
+2	Adi	_	_	3	Tatpurusha
+3	rUpa	_	_	7	Comp_root
+4	sarga	_	_	5	Bahuvrihi
+5	Adi	_	_	6	Tatpurusha
+6	kAraRam	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	atIta	_	_	2	Tatpurusha
+2	kalpa	_	_	3	Tatpurusha
+3	ante	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	eka	_	_	2	Tatpurusha
+2	SfNga	_	_	3	Tatpurusha
+3	DaraH	_	_	6	Comp_root
+4	niyuta	_	_	5	Bahuvrihi
+5	yojanaH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	brahma	_	_	2	Dvandva
+2	veda	_	_	3	Tatpurusha
+3	praharttAram	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	veda	_	_	2	Dvandva
+2	mantra	_	_	3	Bahuvrihi
+3	AdyAn	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	kUrma	_	_	2	Tatpurusha
+2	avatAra	_	_	3	Tatpurusha
+3	varRanam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	kzIra	_	_	2	Tatpurusha
+2	abDi	_	_	3	Tatpurusha
+3	gam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	kzIra	_	_	2	Tatpurusha
+2	abDi	_	_	3	Tatpurusha
+3	maTana	_	_	4	Tatpurusha
+4	arTam	_	_	7	Comp_root
+5	amfta	_	_	6	Tatpurusha
+6	arTam	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	kArya	_	_	2	Tatpurusha
+2	arTa	_	_	3	Tatpurusha
+3	gOrave	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	PaRi	_	_	2	Tatpurusha
+2	niHSvAsa	_	_	3	Tatpurusha
+3	santaptAH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	jamBa	_	_	2	Bahuvrihi
+2	AdyAH	_	_	6	Comp_root
+3	strI	_	_	4	Tatpurusha
+4	rUpa	_	_	5	Tatpurusha
+5	Dfk	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	candra	_	_	2	Tatpurusha
+2	rUpa	_	_	3	Tatpurusha
+3	DaraH	_	_	6	Comp_root
+4	arka	_	_	5	Dvandva
+5	indunA	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	sva	_	_	2	Tatpurusha
+2	rUpa	_	_	3	Tatpurusha
+3	sTaH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	tri	_	_	2	Tatpurusha
+2	diva	_	_	3	Tatpurusha
+3	sTAH	_	_	6	Comp_root
+4	tri	_	_	5	Tatpurusha
+5	divam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	varAha	_	_	2	Bahuvrihi
+2	adi	_	_	3	Tatpurusha
+3	avatAra	_	_	4	Tatpurusha
+4	varRanam	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	Darma	_	_	2	Dvandva
+2	deva	_	_	3	Bahuvrihi
+3	Adi	_	_	4	Tatpurusha
+4	rakzA	_	_	5	Tatpurusha
+5	kft	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	jita	_	_	4	Bahuvrihi
+2	deva	_	_	4	Dvandva
+3	yajYa	_	_	4	Tatpurusha
+4	BAgaH	_	_	9	Comp_root
+5	sarva	_	_	6	Tatpurusha
+6	deva	_	_	8	Tatpurusha
+7	aDikAra	_	_	8	Tatpurusha
+8	kft	_	_	9	Comp_root
+9	DUMMY	CompNo	_	0	root
+
+1	sva	_	_	2	Tatpurusha
+2	pada	_	_	3	Tatpurusha
+3	sTAn	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	BU	_	_	2	Tatpurusha
+2	BAra	_	_	3	Tatpurusha
+3	haraRAya	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	deva	_	_	2	Dvandva
+2	vipra	_	_	3	Bahuvrihi
+3	Adi	_	_	4	Tatpurusha
+4	pAlakaH	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	Sastra	_	_	2	Tatpurusha
+2	pAra	_	_	3	Tatpurusha
+3	gaH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	sahasra	_	_	2	Bahuvrihi
+2	bAhuH	_	_	6	Comp_root
+3	sarva	_	_	4	Tatpurusha
+4	urvI	_	_	5	Tatpurusha
+5	patiH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	pitf	_	_	2	Tatpurusha
+2	nASa	_	_	3	Tatpurusha
+3	aBimarzitaH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	mahat	_	_	2	Tatpurusha
+2	purARe	_	_	7	Comp_root
+3	varAha	_	_	4	Dvandva
+4	nfsiMha	_	_	5	Bahuvrihi
+5	Adi	_	_	6	Tatpurusha
+6	avatAraH	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	SrIrAma	_	_	2	Tatpurusha
+2	avatAra	_	_	3	Tatpurusha
+3	varRanam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	Bukti	_	_	2	Dvandva
+2	mukti	_	_	3	Tatpurusha
+3	dam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	vizRu	_	_	2	Tatpurusha
+2	nABi	_	_	3	Tatpurusha
+3	abja	_	_	4	Tatpurusha
+4	jaH	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	yajYa	_	_	2	Tatpurusha
+2	viGna	_	_	3	Tatpurusha
+3	vinASAya	_	_	6	Comp_root
+4	viSvAmitra	_	_	5	Tatpurusha
+5	arTitaH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	astra	_	_	2	Dvandva
+2	SastrARi	_	_	6	Comp_root
+3	tAqakA	_	_	4	Tatpurusha
+4	anta	_	_	5	Tatpurusha
+5	kft	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	vIrya	_	_	2	Bahuvrihi
+2	SulkAm	_	_	6	Comp_root
+3	na	_	_	5	Tatpurusha
+4	yoni	_	_	5	Tatpurusha
+5	jAm	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	pitf	_	_	2	Bahuvrihi
+2	Adi	_	_	3	Tatpurusha
+3	vacanam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	vasizWa	_	_	2	Bahuvrihi
+2	AdIn	_	_	6	Comp_root
+3	rAma	_	_	5	Tatpurusha
+4	rAjya	_	_	5	Tatpurusha
+5	aBizecane	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	rAma	_	_	3	Tatpurusha
+2	rAjya	_	_	3	Tatpurusha
+3	aBizecanam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	catur	_	_	2	Dvandva
+2	daSa	_	_	3	Tatpurusha
+3	samAH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	sarva	_	_	2	Tatpurusha
+2	loka	_	_	5	Tatpurusha
+3	na	_	_	4	Tatpurusha
+4	priyam	_	_	5	Tatpurusha
+5	kari	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	satya	_	_	2	Tatpurusha
+2	pASa	_	_	3	Tatpurusha
+3	nibadDaH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	rAma	_	_	3	Dvandva
+2	lakzmaRa	_	_	3	Dvandva
+3	sItAH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	sUta	_	_	3	Dvandva
+2	mAgaDa	_	_	3	Dvandva
+3	vandinaH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	tEla	_	_	2	Tatpurusha
+2	droRi	_	_	3	Tatpurusha
+3	sTam	_	_	6	Comp_root
+4	sarayU	_	_	5	Tatpurusha
+5	tawe	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	yuzmad	_	_	2	Tatpurusha
+2	AdeSa	_	_	3	Tatpurusha
+3	pratIkzakaH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	cIra	_	_	2	Dvandva
+2	jawA	_	_	3	Tatpurusha
+3	DaraH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	catur	_	_	2	Dvandva
+2	daSa	_	_	3	Tatpurusha
+3	sahasrakEH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	hastan	_	_	4	Dvandva
+2	aSva	_	_	4	Dvandva
+3	raTa	_	_	4	Dvandva
+4	pAdAtam	_	_	7	Comp_root
+5	yama	_	_	6	Tatpurusha
+6	kzayam	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	Kara	_	_	2	Bahuvrihi
+2	Adi	_	_	3	Tatpurusha
+3	hantuH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	rAma	_	_	2	Dvandva
+2	lakzmaRa	_	_	3	Tatpurusha
+3	raktasya	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	svarRa	_	_	2	Tatpurusha
+2	citra	_	_	3	Tatpurusha
+3	mfgaH	_	_	7	Comp_root
+4	rAma	_	_	5	Dvandva
+5	lakzmaRa	_	_	6	Tatpurusha
+6	karzakaH	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	SrIrAma	_	_	2	Tatpurusha
+2	avatAra	_	_	3	Tatpurusha
+3	kaTanam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	pUrva	_	_	3	Dvandva
+2	paScima	_	_	3	Dvandva
+3	uttara	_	_	4	Tatpurusha
+4	mArga	_	_	5	Tatpurusha
+5	gAH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	rAma	_	_	2	Tatpurusha
+2	vArttA	_	_	3	Tatpurusha
+3	SravAt	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	aSoka	_	_	2	Tatpurusha
+2	vanikA	_	_	3	Tatpurusha
+3	gatAm	_	_	6	Comp_root
+4	laNkA	_	_	5	Tatpurusha
+5	gatAm	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	Sata	_	_	2	Tatpurusha
+2	yojana	_	_	3	Tatpurusha
+3	vistIrRe	_	_	6	Comp_root
+4	lavaRa	_	_	5	Tatpurusha
+5	abDO	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	jIvana	_	_	2	Tatpurusha
+2	arTAya	_	_	6	Comp_root
+3	rAma	_	_	4	Tatpurusha
+4	kAryya	_	_	5	Tatpurusha
+5	prasidDaye	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	Sata	_	_	2	Tatpurusha
+2	yojana	_	_	3	Tatpurusha
+3	vistIrRam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	pAna	_	_	2	Tatpurusha
+2	BUmI	_	_	3	Bahuvrihi
+3	AdO	_	_	6	Comp_root
+4	cintA	_	_	5	Tatpurusha
+5	parAyaRaH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	kAka	_	_	2	Tatpurusha
+2	akzi	_	_	3	Tatpurusha
+3	pAtana	_	_	4	Tatpurusha
+4	kaTAm	_	_	7	Comp_root
+5	Soka	_	_	6	Tatpurusha
+6	ha	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	daSagrIva	_	_	2	Tatpurusha
+2	darSana	_	_	3	Tatpurusha
+3	upAyam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	tat	_	_	2	Tatpurusha
+2	pAlAn	_	_	6	Comp_root
+3	danta	_	_	4	Dvandva
+4	naKa	_	_	5	Bahuvrihi
+5	AdiBiH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	sItA	_	_	2	Tatpurusha
+2	kaTA	_	_	3	Tatpurusha
+3	amftena	_	_	7	Comp_root
+4	kAma	_	_	5	Tatpurusha
+5	vahni	_	_	6	Tatpurusha
+6	gam	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	saNgrAma	_	_	2	Tatpurusha
+2	udData	_	_	3	Tatpurusha
+3	rAkzasaH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	Sara	_	_	3	Dvandva
+2	Sakti	_	_	3	Dvandva
+3	gadA	_	_	4	Bahuvrihi
+4	AdiBiH	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	naKa	_	_	3	Dvandva
+2	danta	_	_	3	Dvandva
+3	SilA	_	_	4	Bahuvrihi
+4	AdiBiH	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	hasti	_	_	4	Dvandva
+2	aSva	_	_	4	Dvandva
+3	raTa	_	_	4	Dvandva
+4	pAdAtam	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	karRa	_	_	2	Dvandva
+2	nAsA	_	_	3	Tatpurusha
+3	vihInaH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	a	_	_	2	Bahuvrihi
+2	vraRO	_	_	6	Comp_root
+3	mAruti	_	_	4	Tatpurusha
+4	AnIta	_	_	5	Tatpurusha
+5	parvate	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	Darmma	_	_	2	Dvandva
+2	kAma	_	_	3	Bahuvrihi
+3	AdIn	_	_	6	Comp_root
+4	duzwa	_	_	5	Tatpurusha
+5	nigrahaRe	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	sarva	_	_	2	Tatpurusha
+2	Darmma	_	_	3	Bahuvrihi
+3	paraH	_	_	6	Comp_root
+4	sarva	_	_	5	Bahuvrihi
+5	sasyA	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	na	_	_	2	Tatpurusha
+2	kAla	_	_	3	Tatpurusha
+3	maraRam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	brahman	_	_	3	Tatpurusha
+2	Atman	_	_	3	Tatpurusha
+3	jaH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	deva	_	_	2	Tatpurusha
+2	prArTita	_	_	3	Tatpurusha
+3	rAma	_	_	4	Tatpurusha
+4	uktaH	_	_	7	Comp_root
+5	lavaRa	_	_	6	Tatpurusha
+6	arddanaH	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	duzwa	_	_	2	Tatpurusha
+2	ganDarvam	_	_	6	Comp_root
+3	sinDu	_	_	4	Tatpurusha
+4	tIra	_	_	5	Tatpurusha
+5	nivAsinam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	daSan	_	_	2	Tatpurusha
+2	varza	_	_	3	Tatpurusha
+3	sahasrARi	_	_	7	Comp_root
+4	daSan	_	_	5	Tatpurusha
+5	varza	_	_	6	Tatpurusha
+6	SatAni	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	sa	_	_	2	Bahuvrihi
+2	pOraH	_	_	10	Comp_root
+3	sa	_	_	5	Bahuvrihi
+4	anu	_	_	5	Tatpurusha
+5	jaH	_	_	10	Comp_root
+6	sItA	_	_	7	Tatpurusha
+7	putraH	_	_	10	Comp_root
+8	janapada	_	_	9	Tatpurusha
+9	anvitaH	_	_	10	Comp_root
+10	DUMMY	CompNo	_	0	root
+
+1	SrIhari	_	_	2	Tatpurusha
+2	vaMSa	_	_	3	Tatpurusha
+3	varRanam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	hari	_	_	2	Tatpurusha
+2	vaMSam	_	_	7	Comp_root
+3	vizRu	_	_	4	Tatpurusha
+4	nABi	_	_	6	Tatpurusha
+5	ambu	_	_	6	Tatpurusha
+6	jAt	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	BAra	_	_	2	Tatpurusha
+2	avatAra	_	_	3	Tatpurusha
+3	arTam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	vivAha	_	_	2	Tatpurusha
+2	samaya	_	_	3	Tatpurusha
+3	IritAH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	sarva	_	_	2	Tatpurusha
+2	sva	_	_	3	Tatpurusha
+3	BUtaH	_	_	7	Comp_root
+4	BU	_	_	5	Tatpurusha
+5	BAra	_	_	6	Tatpurusha
+6	haraRAya	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	kzema	_	_	2	Tatpurusha
+2	karI	_	_	6	Comp_root
+3	na	_	_	4	Tatpurusha
+4	eka	_	_	5	Bahuvrihi
+5	bAhuH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	yaSodA	_	_	2	Tatpurusha
+2	pati	_	_	3	Tatpurusha
+3	nandAya	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	yamala	_	_	2	Dvandva
+2	arjuna	_	_	3	Tatpurusha
+3	maDye	_	_	6	Comp_root
+4	yamala	_	_	5	Dvandva
+5	arjunO	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	vfndA	_	_	2	Tatpurusha
+2	vana	_	_	3	Tatpurusha
+3	gataH	_	_	6	Comp_root
+4	yamunA	_	_	5	Tatpurusha
+5	hradAt	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	raTa	_	_	2	Tatpurusha
+2	sTaH	_	_	7	Comp_root
+3	kaMsa	_	_	4	Tatpurusha
+4	ukta	_	_	5	Tatpurusha
+5	akrUra	_	_	6	Tatpurusha
+6	saMstutaH	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	deva	_	_	3	Dvandva
+2	ganDarva	_	_	3	Dvandva
+3	yakzARAm	_	_	6	Comp_root
+4	jana	_	_	5	Tatpurusha
+5	arddanaH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	Siva	_	_	2	Tatpurusha
+2	putraH	_	_	6	Comp_root
+3	mayUra	_	_	4	Tatpurusha
+4	Dvaja	_	_	5	Tatpurusha
+5	pAtataH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	vESAKa	_	_	2	Tatpurusha
+2	mAsa	_	_	3	Tatpurusha
+3	dvAdaSyAm	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	nandi	_	_	3	Dvandva
+2	vinAyaka	_	_	3	Dvandva
+3	skanda	_	_	4	Bahuvrihi
+4	muKAH	_	_	7	Comp_root
+5	tArkzya	_	_	6	Bahuvrihi
+6	AdiBiH	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	Siva	_	_	2	Bahuvrihi
+2	AdyEH	_	_	6	Comp_root
+3	uzA	_	_	4	Bahuvrihi
+4	Adi	_	_	5	Tatpurusha
+5	yuk	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	ugrasena	_	_	2	Bahuvrihi
+2	Adi	_	_	3	Tatpurusha
+3	yAdavEH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	anirudDa	_	_	3	Tatpurusha
+2	Atman	_	_	3	Tatpurusha
+3	jaH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	kOrava	_	_	2	Tatpurusha
+2	unmAda	_	_	3	Tatpurusha
+3	nASanaH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	na	_	_	2	Tatpurusha
+2	eka	_	_	3	Bahuvrihi
+3	mUrttiH	_	_	6	Comp_root
+4	rukmiRi	_	_	5	Bahuvrihi
+5	AdiBiH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	mahat	_	_	2	Tatpurusha
+2	purARe	_	_	6	Comp_root
+3	hari	_	_	4	Tatpurusha
+4	vaMSa	_	_	5	Tatpurusha
+5	varRanam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	kuru	_	_	2	Dvandva
+2	pARqava	_	_	3	Tatpurusha
+3	utpatti	_	_	4	Bahuvrihi
+4	Adi	_	_	5	Tatpurusha
+5	kaTanam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	kfzRa	_	_	2	Tatpurusha
+2	mAhAtmya	_	_	3	Tatpurusha
+3	lakzaRam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	vizRu	_	_	2	Tatpurusha
+2	nABi	_	_	3	Tatpurusha
+3	abja	_	_	4	Tatpurusha
+4	jaH	_	_	7	Comp_root
+5	brahman	_	_	6	Tatpurusha
+6	putraH	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	SataSfNga	_	_	2	Tatpurusha
+2	ASrama	_	_	3	Tatpurusha
+3	pade	_	_	6	Comp_root
+4	BAryA	_	_	5	Tatpurusha
+5	yogAt	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	brahma	_	_	2	Tatpurusha
+2	astra	_	_	3	Bahuvrihi
+3	AdIn	_	_	6	Comp_root
+4	Sastra	_	_	5	Tatpurusha
+5	viSAradAH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	go	_	_	2	Tatpurusha
+2	graha	_	_	3	Bahuvrihi
+3	AdIn	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	saptan	_	_	2	Tatpurusha
+2	akzOhiRI	_	_	3	Tatpurusha
+3	ISaH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	ekAdaSan	_	_	2	Tatpurusha
+2	akzOhiRI	_	_	3	Tatpurusha
+3	ISam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	BU	_	_	3	Tatpurusha
+2	sUcI	_	_	3	Tatpurusha
+3	agram	_	_	6	Comp_root
+4	saNgrahaRa	_	_	5	Tatpurusha
+5	udyataH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	mahat	_	_	2	Tatpurusha
+2	purARe	_	_	6	Comp_root
+3	Adiparvan	_	_	4	Bahuvrihi
+4	Adi	_	_	5	Tatpurusha
+5	varRanam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	kuru	_	_	2	Dvandva
+2	pARqava	_	_	3	Tatpurusha
+3	saNgrAma	_	_	4	Tatpurusha
+4	varRanam	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	BIzma	_	_	2	Dvandva
+2	droRa	_	_	3	Bahuvrihi
+3	AdikAn	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	deva	_	_	2	Dvandva
+2	asura	_	_	3	Tatpurusha
+3	samam	_	_	7	Comp_root
+4	kuru	_	_	5	Dvandva
+5	pARqava	_	_	6	Tatpurusha
+6	senayoH	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	svar	_	_	2	Tatpurusha
+2	sTa	_	_	3	Tatpurusha
+3	devAnAm	_	_	6	Comp_root
+4	prIti	_	_	5	Tatpurusha
+5	vardDanam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	hasti	_	_	4	Dvandva
+2	aSva	_	_	4	Dvandva
+3	raTa	_	_	4	Dvandva
+4	pAdAtam	_	_	8	Comp_root
+5	anyonya	_	_	6	Tatpurusha
+6	astra	_	_	7	Tatpurusha
+7	nipAtitam	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	vasu	_	_	2	Tatpurusha
+2	uktaH	_	_	8	Comp_root
+3	vasu	_	_	4	Tatpurusha
+4	lokAya	_	_	8	Comp_root
+5	Sara	_	_	6	Tatpurusha
+6	SayyA	_	_	7	Tatpurusha
+7	gataH	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	yama	_	_	2	Tatpurusha
+2	rAzwra	_	_	3	Tatpurusha
+3	vivarDanam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	virAwa	_	_	2	Dvandva
+2	drupada	_	_	3	Bahuvrihi
+3	AdyAH	_	_	6	Comp_root
+4	droRa	_	_	5	Tatpurusha
+5	sAgare	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	mahat	_	_	2	Tatpurusha
+2	senA	_	_	7	Comp_root
+3	hasti	_	_	6	Bahuvrihi
+4	aSva	_	_	6	Bahuvrihi
+5	raTa	_	_	6	Bahuvrihi
+6	pattinI	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	Dfzwadyumna	_	_	2	Tatpurusha
+2	Sara	_	_	3	Tatpurusha
+3	AkrAntaH	_	_	6	Comp_root
+4	mahI	_	_	5	Tatpurusha
+5	tale	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	Sastra	_	_	2	Bahuvrihi
+2	Sastri	_	_	9	Comp_root
+3	mahat	_	_	4	Tatpurusha
+4	rOdram	_	_	9	Comp_root
+5	deva	_	_	6	Dvandva
+6	asura	_	_	7	Tatpurusha
+7	raRa	_	_	8	Bahuvrihi
+8	upamam	_	_	9	Comp_root
+9	DUMMY	CompNo	_	0	root
+
+1	karRa	_	_	2	Dvandva
+2	arjuna	_	_	3	Bahuvrihi
+3	AKye	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	aSvatTAman	_	_	2	Tatpurusha
+2	astra	_	_	3	Tatpurusha
+3	nirddagDam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	datta	_	_	4	Bahuvrihi
+2	udaka	_	_	3	Dvandva
+3	Dana	_	_	4	Bahuvrihi
+4	AdikaH	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	pARqava	_	_	2	Tatpurusha
+2	carita	_	_	3	Tatpurusha
+3	varRanam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	na	_	_	2	Tatpurusha
+2	Darmma	_	_	3	Tatpurusha
+3	nASAya	_	_	6	Comp_root
+4	nimittai	_	_	5	Tatpurusha
+5	kftya	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	vipra	_	_	2	Tatpurusha
+2	SApa	_	_	3	Tatpurusha
+3	vyAjena	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	datta	_	_	4	Bahuvrihi
+2	udaka	_	_	3	Dvandva
+3	Dana	_	_	4	Bahuvrihi
+4	AdikaH	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	saMsAra	_	_	3	Tatpurusha
+2	na	_	_	3	Tatpurusha
+3	nityatAm	_	_	6	Comp_root
+4	azwan	_	_	5	Tatpurusha
+5	Satam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	indra	_	_	2	Tatpurusha
+2	AnIta	_	_	3	Tatpurusha
+3	raTa	_	_	4	Tatpurusha
+4	ArUQaH	_	_	7	Comp_root
+5	sa	_	_	6	Bahuvrihi
+6	anujaH	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	budDa	_	_	2	Bahuvrihi
+2	Adi	_	_	3	Tatpurusha
+3	ayavatAra	_	_	4	Tatpurusha
+4	kaTanam	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	mAyA	_	_	2	Dvandva
+2	moha	_	_	3	Bahuvrihi
+3	svarUpaH	_	_	6	Comp_root
+4	SudDodana	_	_	5	Tatpurusha
+5	sutaH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	veda	_	_	2	Dvandva
+2	Darmma	_	_	3	Bahuvrihi
+3	Adi	_	_	4	Bahuvrihi
+4	varjitAH	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	kali	_	_	2	Tatpurusha
+2	yuga	_	_	3	Tatpurusha
+3	ante	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	Darmma	_	_	2	Tatpurusha
+2	kaYcuka	_	_	3	Tatpurusha
+3	saMvItAH	_	_	7	Comp_root
+4	na	_	_	5	Tatpurusha
+5	Darma	_	_	6	Bahuvrihi
+6	rucayaH	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	na	_	_	2	Tatpurusha
+2	saNKyAtAH	_	_	7	Comp_root
+3	atIta	_	_	5	Dvandva
+4	na	_	_	5	Tatpurusha
+5	Agata	_	_	6	Bahuvrihi
+6	AdayaH	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	daSan	_	_	2	Tatpurusha
+2	avatAra	_	_	3	Bahuvrihi
+3	AKyAn	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	Darmma	_	_	3	Dvandva
+2	na	_	_	3	Tatpurusha
+3	Darmma	_	_	4	Tatpurusha
+4	vyavasTAnam	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	mahat	_	_	2	Tatpurusha
+2	purARe	_	_	7	Comp_root
+3	budDa	_	_	4	Dvandva
+4	kalki	_	_	5	Tatpurusha
+5	avatAra	_	_	6	Tatpurusha
+6	varRanam	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	sfzwi	_	_	2	Tatpurusha
+2	vizayaka	_	_	3	Tatpurusha
+3	varRanam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	jagat	_	_	2	Tatpurusha
+2	sarga	_	_	3	Bahuvrihi
+3	AdikAm	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	na	_	_	2	Tatpurusha
+2	vyaktam	_	_	6	Comp_root
+3	rAtri	_	_	4	Dvandva
+4	dina	_	_	5	Bahuvrihi
+5	Adikam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	mahat	_	_	2	Tatpurusha
+2	purARe	_	_	6	Comp_root
+3	jagat	_	_	4	Tatpurusha
+4	sarga	_	_	5	Tatpurusha
+5	varRanam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	svAyamBuva	_	_	2	Tatpurusha
+2	vaMSa	_	_	3	Tatpurusha
+3	varRanam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	kzatra	_	_	3	Tatpurusha
+2	pUrva	_	_	3	Tatpurusha
+3	jaH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	muni	_	_	2	Tatpurusha
+2	gaREH	_	_	6	Comp_root
+3	sa	_	_	5	Bahuvrihi
+4	apsaras	_	_	5	Tatpurusha
+5	gaREH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	na	_	_	2	Tatpurusha
+2	pfTak	_	_	4	Bahuvrihi
+3	Darmma	_	_	4	Tatpurusha
+4	caraRAH	_	_	7	Comp_root
+5	mahat	_	_	6	Tatpurusha
+6	tapaH	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	daSan	_	_	2	Tatpurusha
+2	varza	_	_	3	Tatpurusha
+3	sahasrARi	_	_	7	Comp_root
+4	samudra	_	_	5	Tatpurusha
+5	salile	_	_	6	Tatpurusha
+6	SayAH	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	muKa	_	_	2	Tatpurusha
+2	ja	_	_	4	Tatpurusha
+3	agni	_	_	4	Dvandva
+4	marudByAm	_	_	7	Comp_root
+5	druma	_	_	6	Tatpurusha
+6	kzayam	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	sa	_	_	3	Bahuvrihi
+2	cara	_	_	3	Dvandva
+3	acaram	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	mahat	_	_	2	Tatpurusha
+2	purARe	_	_	6	Comp_root
+3	jagat	_	_	4	Tatpurusha
+4	sarga	_	_	5	Tatpurusha
+5	varRanam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	kaSyapa	_	_	2	Tatpurusha
+2	vaMSa	_	_	3	Tatpurusha
+3	varRanam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	Seza	_	_	3	Dvandva
+2	vAsuki	_	_	3	Dvandva
+3	takzakAH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	kroDa	_	_	2	Tatpurusha
+2	vaSa	_	_	3	Tatpurusha
+3	gAH	_	_	6	Comp_root
+4	DarA	_	_	5	Tatpurusha
+5	utTAH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	go	_	_	2	Dvandva
+2	mahizI	_	_	3	Bahuvrihi
+3	Adi	_	_	8	Comp_root
+4	DarA	_	_	5	Tatpurusha
+5	utpannAH	_	_	8	Comp_root
+6	tfRa	_	_	7	Bahuvrihi
+7	AdayaH	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	pAda	_	_	3	Tatpurusha
+2	na	_	_	3	Tatpurusha
+3	prakzAlanAt	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	sarga	_	_	2	Tatpurusha
+2	vizayaka	_	_	3	Tatpurusha
+3	varRanam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	svAhA	_	_	2	Dvandva
+2	agni	_	_	3	Tatpurusha
+3	jaH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	vyADi	_	_	5	Dvandva
+2	jarA	_	_	5	Dvandva
+3	Soka	_	_	5	Dvandva
+4	tfzRA	_	_	5	Dvandva
+5	kroDAH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	nArada	_	_	2	Bahuvrihi
+2	Adi	_	_	3	Tatpurusha
+3	uktAH	_	_	7	Comp_root
+4	snAna	_	_	5	Bahuvrihi
+5	Adi	_	_	6	Bahuvrihi
+6	pUrvikAH	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	svAyamBuva	_	_	2	Bahuvrihi
+2	AdyAH	_	_	8	Comp_root
+3	vizRu	_	_	4	Bahuvrihi
+4	AdeH	_	_	8	Comp_root
+5	Bukti	_	_	6	Dvandva
+6	mukti	_	_	7	Tatpurusha
+7	dAH	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	mahat	_	_	2	Tatpurusha
+2	purARe	_	_	6	Comp_root
+3	jagat	_	_	4	Tatpurusha
+4	sarga	_	_	5	Tatpurusha
+5	varRanam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	sAmAnya	_	_	2	Tatpurusha
+2	pUjA	_	_	3	Tatpurusha
+3	kaTanam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	na	_	_	2	Tatpurusha
+2	Darma	_	_	3	Bahuvrihi
+3	AdIn	_	_	9	Comp_root
+4	kanda	_	_	8	Dvandva
+5	nAla	_	_	8	Dvandva
+6	padma	_	_	8	Dvandva
+7	keSara	_	_	8	Dvandva
+8	karRikAH	_	_	9	Comp_root
+9	DUMMY	CompNo	_	0	root
+
+1	fk	_	_	2	Tatpurusha
+2	veda	_	_	3	Bahuvrihi
+3	Adyam	_	_	11	Comp_root
+4	kfta	_	_	5	Bahuvrihi
+5	Adyam	_	_	11	Comp_root
+6	sattva	_	_	7	Bahuvrihi
+7	Adi	_	_	11	Comp_root
+8	arkka	_	_	9	Bahuvrihi
+9	Adi	_	_	10	Tatpurusha
+10	maRqalam	_	_	11	Comp_root
+11	DUMMY	CompNo	_	0	root
+
+1	ISAna	_	_	2	Tatpurusha
+2	anugraha	_	_	4	Tatpurusha
+3	Asana	_	_	4	Tatpurusha
+4	mUrttikAm	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	Siva	_	_	2	Tatpurusha
+2	mUrttaye	_	_	6	Comp_root
+3	sa	_	_	5	Bahuvrihi
+4	aNga	_	_	5	Dvandva
+5	vaktram	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	ISAna	_	_	3	Bahuvrihi
+2	Adi	_	_	3	Bahuvrihi
+3	vaktrakam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	agni	_	_	4	Dvandva
+2	ISa	_	_	4	Dvandva
+3	asura	_	_	4	Dvandva
+4	vAyu	_	_	5	Tatpurusha
+5	gAn	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	sarva	_	_	2	Tatpurusha
+2	mUrtti	_	_	3	Tatpurusha
+3	mantraH	_	_	7	Comp_root
+4	trE	_	_	5	Tatpurusha
+5	lokya	_	_	6	Tatpurusha
+6	mohanaH	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	saNgrAma	_	_	2	Bahuvrihi
+2	AdO	_	_	6	Comp_root
+3	jaya	_	_	4	Bahuvrihi
+4	Adi	_	_	5	Tatpurusha
+5	dA	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	caturTI	_	_	2	Bahuvrihi
+2	anta	_	_	4	Dvandva
+3	namas	_	_	4	Bahuvrihi
+4	antakAH	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	sarva	_	_	2	Tatpurusha
+2	mantra	_	_	3	Tatpurusha
+3	pUjanAt	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	tila	_	_	3	Bahuvrihi
+2	Gfta	_	_	3	Bahuvrihi
+3	AdyEH	_	_	9	Comp_root
+4	Darmma	_	_	7	Dvandva
+5	kAma	_	_	7	Dvandva
+6	arTa	_	_	7	Dvandva
+7	mokza	_	_	8	Tatpurusha
+8	dAH	_	_	9	Comp_root
+9	DUMMY	CompNo	_	0	root
+
+1	mahat	_	_	2	Tatpurusha
+2	purARe	_	_	7	Comp_root
+3	vAsudeva	_	_	4	Bahuvrihi
+4	Adi	_	_	5	Tatpurusha
+5	pUjA	_	_	6	Tatpurusha
+6	kaTanam	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	snAna	_	_	2	Tatpurusha
+2	viDi	_	_	3	Tatpurusha
+3	kaTanam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	kriyA	_	_	2	Bahuvrihi
+2	Adi	_	_	3	Tatpurusha
+3	arTam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	yoga	_	_	2	Tatpurusha
+2	pIWa	_	_	3	Bahuvrihi
+3	AditaH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	dik	_	_	2	Tatpurusha
+2	pAla	_	_	3	Tatpurusha
+3	paryantAn	_	_	6	Comp_root
+4	pitf	_	_	5	Tatpurusha
+5	gaRAn	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	mahat	_	_	2	Tatpurusha
+2	purARe	_	_	6	Comp_root
+3	snAna	_	_	4	Tatpurusha
+4	viDi	_	_	5	Tatpurusha
+5	kaTanam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	pUjA	_	_	2	Tatpurusha
+2	viDi	_	_	3	Tatpurusha
+3	kaTanam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	nABi	_	_	2	Tatpurusha
+2	maDya	_	_	3	Tatpurusha
+3	sTam	_	_	7	Comp_root
+4	caRqa	_	_	5	Tatpurusha
+5	anila	_	_	6	Bahuvrihi
+6	Atmankam	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	hft	_	_	3	Tatpurusha
+2	paNka	_	_	3	Tatpurusha
+3	ja	_	_	4	Tatpurusha
+4	maDya	_	_	5	Tatpurusha
+5	sTam	_	_	8	Comp_root
+6	tejas	_	_	7	Tatpurusha
+7	niDim	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	aDa	_	_	3	Dvandva
+2	UrdDva	_	_	3	Dvandva
+3	tiryak	_	_	4	Tatpurusha
+4	gABiH	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	hft	_	_	2	Tatpurusha
+2	padma	_	_	3	Tatpurusha
+3	vyApiBiH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	suzumnA	_	_	2	Tatpurusha
+2	yoni	_	_	3	Tatpurusha
+3	mArgeRa	_	_	7	Comp_root
+4	sarva	_	_	5	Tatpurusha
+5	nAqI	_	_	6	Tatpurusha
+6	visarppiBiH	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	varmma	_	_	3	Dvandva
+2	astra	_	_	3	Dvandva
+3	locane	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	bAha	_	_	4	Dvandva
+2	Uru	_	_	4	Dvandva
+3	jAnu	_	_	4	Dvandva
+4	pAdakam	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	ganDa	_	_	2	Dvandva
+2	puzpa	_	_	3	Tatpurusha
+3	anvite	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	vahni	_	_	2	Tatpurusha
+2	dik	_	_	3	Bahuvrihi
+3	muKAH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	na	_	_	2	Tatpurusha
+2	Darma	_	_	3	Bahuvrihi
+3	AdIni	_	_	8	Comp_root
+4	pUrva	_	_	5	Bahuvrihi
+5	AdO	_	_	8	Comp_root
+6	yoga	_	_	7	Tatpurusha
+7	pIWake	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	sUryya	_	_	2	Bahuvrihi
+2	Adi	_	_	3	Tatpurusha
+3	maRqalam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	DUpa	_	_	3	Dvandva
+2	dIpa	_	_	3	Dvandva
+3	nEvedyAni	_	_	6	Comp_root
+4	puRqarIkAkza	_	_	5	Tatpurusha
+5	vidyayA	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	azwan	_	_	2	Bahuvrihi
+2	akzara	_	_	3	Bahuvrihi
+3	AdyEH	_	_	6	Comp_root
+4	vimukti	_	_	5	Tatpurusha
+5	BAk	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	eka	_	_	2	Tatpurusha
+2	mUrtti	_	_	3	Tatpurusha
+3	arccanam	_	_	7	Comp_root
+4	navan	_	_	5	Tatpurusha
+5	vyUha	_	_	6	Tatpurusha
+6	arccanam	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	tarjjanI	_	_	2	Bahuvrihi
+2	AdO	_	_	6	Comp_root
+3	Siras	_	_	5	Dvandva
+4	lalAwa	_	_	5	Dvandva
+5	vaktrake	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	hft	_	_	5	Dvandva
+2	nABi	_	_	5	Dvandva
+3	guhya	_	_	5	Dvandva
+4	jAnu	_	_	5	Dvandva
+5	aNGrO	_	_	8	Comp_root
+6	pUrva	_	_	7	Bahuvrihi
+7	Adikam	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	navan	_	_	3	Tatpurusha
+2	ap	_	_	3	Tatpurusha
+3	je	_	_	8	Comp_root
+4	navan	_	_	5	Tatpurusha
+5	mUrttyA	_	_	8	Comp_root
+6	navan	_	_	7	Tatpurusha
+7	vyUham	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	mahat	_	_	2	Tatpurusha
+2	purARe	_	_	8	Comp_root
+3	Adi	_	_	4	Tatpurusha
+4	mUrti	_	_	5	Bahuvrihi
+5	Adi	_	_	6	Tatpurusha
+6	pUjA	_	_	7	Tatpurusha
+7	viDiH	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	kuRqa	_	_	2	Tatpurusha
+2	nirmARa	_	_	3	Bahuvrihi
+3	Adi	_	_	4	Tatpurusha
+4	viDiH	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	sarva	_	_	2	Tatpurusha
+2	kAma	_	_	3	Tatpurusha
+3	BAk	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	sattva	_	_	2	Bahuvrihi
+2	Adi	_	_	3	Tatpurusha
+3	saYjYA	_	_	8	Comp_root
+4	pUrvA	_	_	5	Tatpurusha
+5	ASA	_	_	8	Comp_root
+6	dvAdaSan	_	_	7	Tatpurusha
+7	aNgulam	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	azwan	_	_	2	Tatpurusha
+2	aNgulA	_	_	8	Comp_root
+3	dvi	_	_	4	Tatpurusha
+4	aNgulA	_	_	8	Comp_root
+5	catur	_	_	6	Tatpurusha
+6	aNgula	_	_	7	Tatpurusha
+7	vistftA	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	daSan	_	_	2	Tatpurusha
+2	aNgulA	_	_	8	Comp_root
+3	zaw	_	_	5	Dvandva
+4	catur	_	_	5	Dvandva
+5	dva	_	_	6	Tatpurusha
+6	aNgula	_	_	7	Tatpurusha
+7	agragA	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	paScimA	_	_	2	Tatpurusha
+2	ASA	_	_	3	Tatpurusha
+3	vyavasTitA	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	aSvatTa	_	_	2	Tatpurusha
+2	patra	_	_	3	Tatpurusha
+3	sadfSI	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	turyya	_	_	2	Tatpurusha
+2	aNgula	_	_	3	Bahuvrihi
+3	AyatA	_	_	7	Comp_root
+4	paYcadaSan	_	_	5	Tatpurusha
+5	aNgula	_	_	6	Bahuvrihi
+6	Ayatam	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	eka	_	_	2	Tatpurusha
+2	hastasya	_	_	8	Comp_root
+3	dvi	_	_	4	Tatpurusha
+4	guRam	_	_	8	Comp_root
+5	dvi	_	_	6	Tatpurusha
+6	kara	_	_	7	Bahuvrihi
+7	Adizu	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	eka	_	_	2	Bahuvrihi
+2	tri	_	_	3	Bahuvrihi
+3	meKalam	_	_	6	Comp_root
+4	vartula	_	_	5	Bahuvrihi
+5	Adi	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	kuRqa	_	_	2	Tatpurusha
+2	ardDam	_	_	6	Comp_root
+3	koRa	_	_	4	Tatpurusha
+4	BAga	_	_	5	Tatpurusha
+5	ardDam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	bAhu	_	_	2	Tatpurusha
+2	daRqa	_	_	3	Tatpurusha
+3	pramARam	_	_	6	Comp_root
+4	homa	_	_	5	Tatpurusha
+5	arTam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	saptan	_	_	2	Bahuvrihi
+2	paYca	_	_	3	Bahuvrihi
+3	aNgulam	_	_	6	Comp_root
+4	catur	_	_	5	Tatpurusha
+5	asram	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	caturTa	_	_	2	Tatpurusha
+2	aMSam	_	_	6	Comp_root
+3	Seza	_	_	4	Tatpurusha
+4	ardDa	_	_	5	Tatpurusha
+5	ardDam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	tri	_	_	2	Tatpurusha
+2	BAga	_	_	3	Tatpurusha
+3	vistAram	_	_	7	Comp_root
+4	aNguzWaka	_	_	6	Bahuvrihi
+5	sama	_	_	6	Bahuvrihi
+6	Ayatam	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	catur	_	_	2	Tatpurusha
+2	aNgula	_	_	3	Tatpurusha
+3	vistAram	_	_	6	Comp_root
+4	paYcan	_	_	5	Tatpurusha
+5	aNgulam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	dakziRa	_	_	2	Bahuvrihi
+2	Adi	_	_	3	Tatpurusha
+3	krameRa	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	praRava	_	_	2	Bahuvrihi
+2	Adi	_	_	4	Tatpurusha
+3	namas	_	_	4	Bahuvrihi
+4	antena	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	garBADAna	_	_	2	Bahuvrihi
+2	Adi	_	_	3	Tatpurusha
+3	karmmARi	_	_	6	Comp_root
+4	aMSa	_	_	5	Tatpurusha
+5	vyavasTayA	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	yaTA	_	_	3	Avyayibhava
+2	vitta	_	_	3	Tatpurusha
+3	anusArataH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	hft	_	_	2	Bahuvrihi
+2	Adi	_	_	3	Tatpurusha
+3	kramataH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	Asana	_	_	2	Bahuvrihi
+2	Adi	_	_	3	Tatpurusha
+3	krameRa	_	_	7	Comp_root
+4	sa	_	_	5	Bahuvrihi
+5	aNga	_	_	6	Dvandva
+6	avaraRam	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	agni	_	_	2	Dvandva
+2	ISa	_	_	3	Tatpurusha
+3	saMsTitO	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	vAyavya	_	_	2	Dvandva
+2	nErfta	_	_	3	Tatpurusha
+3	ASA	_	_	4	Bahuvrihi
+4	Adi	_	_	5	Tatpurusha
+5	pravfttO	_	_	8	Comp_root
+6	yaTA	_	_	7	Avyayibhava
+7	kramam	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	na	_	_	2	Tatpurusha
+2	vidyA	_	_	3	Dvandva
+3	karmma	_	_	4	Tatpurusha
+4	banDanEH	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	Basman	_	_	2	Tatpurusha
+2	kUwa	_	_	3	Tatpurusha
+3	niBa	_	_	4	Tatpurusha
+4	sTitAm	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	viBakta	_	_	3	Tatpurusha
+2	indriya	_	_	3	Tatpurusha
+3	saMsTAnam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	dvi	_	_	2	Tatpurusha
+2	Sakala	_	_	4	Tatpurusha
+3	mi	_	_	4	Tatpurusha
+4	kftam	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	mantra	_	_	2	Bahuvrihi
+2	Atmaka	_	_	3	Bahuvrihi
+3	tanum	_	_	6	Comp_root
+4	yaTA	_	_	5	Avyayibhava
+5	nyAsam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	puzpa	_	_	2	Tatpurusha
+2	aYjali	_	_	3	Tatpurusha
+3	BftaH	_	_	6	Comp_root
+4	prAk	_	_	5	Bahuvrihi
+5	muKAn	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	SaNKa	_	_	3	Dvandva
+2	cakra	_	_	3	Dvandva
+3	gadA	_	_	4	Tatpurusha
+4	Daram	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	mahat	_	_	2	Tatpurusha
+2	purARe	_	_	6	Comp_root
+3	agnikAryya	_	_	4	Bahuvrihi
+4	Adi	_	_	5	Tatpurusha
+5	kaTanam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	vAsudeva	_	_	2	Bahuvrihi
+2	Adi	_	_	3	Tatpurusha
+3	mantra	_	_	4	Tatpurusha
+4	nirUpaRam	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	vAsudeva	_	_	2	Bahuvrihi
+2	Adi	_	_	3	Tatpurusha
+3	mantrARAm	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	japA	_	_	2	Tatpurusha
+2	aruRa	_	_	4	Bahuvrihi
+3	haridrA	_	_	4	Tatpurusha
+4	ABAH	_	_	8	Comp_root
+5	nIla	_	_	7	Bahuvrihi
+6	SyAmala	_	_	7	Bahuvrihi
+7	lohitAH	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	meGa	_	_	4	Dvandva
+2	agni	_	_	4	Dvandva
+3	maDu	_	_	4	Dvandva
+4	piNga	_	_	5	Bahuvrihi
+5	ABAH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	svara	_	_	2	Dvandva
+2	bIjAnAm	_	_	8	Comp_root
+3	sva	_	_	4	Tatpurusha
+4	nAma	_	_	5	Tatpurusha
+5	antEH	_	_	8	Comp_root
+6	yaTA	_	_	7	Avyayibhava
+7	kramam	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	viBakta	_	_	3	Tatpurusha
+2	nAman	_	_	3	Tatpurusha
+3	varRa	_	_	5	Tatpurusha
+4	anta	_	_	5	Tatpurusha
+5	sTitAni	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	sa	_	_	3	Bahuvrihi
+2	aNga	_	_	3	Dvandva
+3	upANgam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	hfdaya	_	_	2	Bahuvrihi
+2	Adi	_	_	3	Tatpurusha
+3	praklfptaye	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	sva	_	_	2	Tatpurusha
+2	bIjena	_	_	8	Comp_root
+3	sva	_	_	4	Tatpurusha
+4	nAma	_	_	5	Tatpurusha
+5	antEH	_	_	8	Comp_root
+6	aNga	_	_	7	Tatpurusha
+7	nAmaBiH	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	hfdaya	_	_	2	Bahuvrihi
+2	AdIni	_	_	6	Comp_root
+3	dvAdaSan	_	_	5	Bahuvrihi
+4	anta	_	_	5	Bahuvrihi
+5	Adi	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	pfzWa	_	_	4	Dvandva
+2	bAhu	_	_	4	Dvandva
+3	Uru	_	_	4	Dvandva
+4	jAnUn	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	nir	_	_	4	Bahuvrihi
+2	bIja	_	_	4	Dvandva
+3	pada	_	_	4	Dvandva
+4	mantrARAm	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	parAstra	_	_	2	Bahuvrihi
+2	Adi	_	_	5	Tatpurusha
+3	sva	_	_	5	Bahuvrihi
+4	nAman	_	_	5	Bahuvrihi
+5	AtmA	_	_	10	Comp_root
+6	caturTI	_	_	7	Bahuvrihi
+7	antaH	_	_	10	Comp_root
+8	namas	_	_	9	Bahuvrihi
+9	antakaH	_	_	10	Comp_root
+10	DUMMY	CompNo	_	0	root
+
+1	eka	_	_	2	Tatpurusha
+2	vyUha	_	_	3	Bahuvrihi
+3	Adi	_	_	6	Tatpurusha
+4	zaqviMSa	_	_	5	Tatpurusha
+5	vyUha	_	_	6	Bahuvrihi
+6	antaH	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	kanizWa	_	_	2	Tatpurusha
+2	Adi	_	_	4	Dvandva
+3	kara	_	_	4	Tatpurusha
+4	agrezu	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	vAyu	_	_	2	Dvandva
+2	arkkO	_	_	9	Comp_root
+3	kara	_	_	4	Tatpurusha
+4	SAKAsu	_	_	9	Comp_root
+5	savya	_	_	6	Dvandva
+6	itara	_	_	8	Tatpurusha
+7	kara	_	_	8	Tatpurusha
+8	dvaye	_	_	9	Comp_root
+9	DUMMY	CompNo	_	0	root
+
+1	tala	_	_	2	Tatpurusha
+2	dvaye	_	_	9	Comp_root
+3	aTarvan	_	_	4	Bahuvrihi
+4	rUpam	_	_	9	Comp_root
+5	Siras	_	_	7	Dvandva
+6	hat	_	_	7	Dvandva
+7	caraRa	_	_	8	Bahuvrihi
+8	antakaH	_	_	9	Comp_root
+9	DUMMY	CompNo	_	0	root
+
+1	vAyu	_	_	2	Bahuvrihi
+2	Adi	_	_	7	Comp_root
+3	Siras	_	_	6	Dvandva
+4	hft	_	_	6	Dvandva
+5	guhya	_	_	6	Dvandva
+6	pAdake	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	mUrdDA	_	_	5	Dvandva
+2	Asya	_	_	5	Dvandva
+3	hft	_	_	5	Dvandva
+4	guhya	_	_	5	Dvandva
+5	patsu	_	_	8	Comp_root
+6	karuRA	_	_	7	Bahuvrihi
+7	AtmankaH	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	aNguzWa	_	_	2	Tatpurusha
+2	Adi	_	_	3	Tatpurusha
+3	krameRa	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	Siras	_	_	6	Dvandva
+2	lalAwa	_	_	6	Dvandva
+3	Asya	_	_	6	Dvandva
+4	hft	_	_	6	Dvandva
+5	guhya	_	_	6	Dvandva
+6	aNGrizu	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	sparSa	_	_	3	Dvandva
+2	rUpa	_	_	3	Dvandva
+3	rasAH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	tarjanI	_	_	2	Tatpurusha
+2	Adi	_	_	3	Tatpurusha
+3	kramAt	_	_	6	Comp_root
+4	vAma	_	_	5	Tatpurusha
+5	pradeSinIm	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	Siras	_	_	7	Dvandva
+2	lalAwa	_	_	7	Dvandva
+3	Asya	_	_	7	Dvandva
+4	hft	_	_	7	Dvandva
+5	nABi	_	_	7	Dvandva
+6	guhya	_	_	7	Dvandva
+7	jAnuzu	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	Siras	_	_	3	Dvandva
+2	lalAwa	_	_	3	Dvandva
+3	vaktrezu	_	_	8	Comp_root
+4	hft	_	_	7	Dvandva
+5	nABi	_	_	7	Dvandva
+6	guhya	_	_	7	Dvandva
+7	jAnuzu	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	vAk	_	_	3	Dvandva
+2	pARi	_	_	3	Dvandva
+3	aNGriH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	tarjanI	_	_	2	Tatpurusha
+2	Adi	_	_	3	Tatpurusha
+3	kramAt	_	_	6	Comp_root
+4	tala	_	_	5	Tatpurusha
+5	dvaye	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	uttamANga	_	_	5	Dvandva
+2	lalAwa	_	_	5	Dvandva
+3	Asya	_	_	5	Dvandva
+4	hft	_	_	5	Dvandva
+5	nABO	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	SiKara	_	_	2	Dvandva
+2	kawyAm	_	_	6	Comp_root
+3	jAnu	_	_	4	Dvandva
+4	pAda	_	_	5	Bahuvrihi
+5	Adizu	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	vAk	_	_	3	Dvandva
+2	pARi	_	_	3	Dvandva
+3	aNGriH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	muKa	_	_	7	Dvandva
+2	hft	_	_	7	Dvandva
+3	nABi	_	_	7	Dvandva
+4	guhya	_	_	7	Dvandva
+5	Uru	_	_	7	Dvandva
+6	jAnu	_	_	7	Dvandva
+7	aNGrO	_	_	10	Comp_root
+8	karaRa	_	_	9	Tatpurusha
+9	udgatO	_	_	10	Comp_root
+10	DUMMY	CompNo	_	0	root
+
+1	pUrva	_	_	4	Dvandva
+2	yAmya	_	_	4	Dvandva
+3	Apya	_	_	4	Dvandva
+4	sOmyezu	_	_	7	Comp_root
+5	hfdaya	_	_	6	Bahuvrihi
+6	AdIni	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	agni	_	_	2	Bahuvrihi
+2	Adi	_	_	3	Tatpurusha
+3	koRezu	_	_	6	Comp_root
+4	vEnateya	_	_	5	Bahuvrihi
+5	Adi	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	pUrva	_	_	2	Bahuvrihi
+2	Adi	_	_	3	Tatpurusha
+3	dik	_	_	4	Tatpurusha
+4	bala	_	_	5	Tatpurusha
+5	AvAsaH	_	_	8	Comp_root
+6	rAjya	_	_	7	Bahuvrihi
+7	AdiBiH	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	mudrA	_	_	2	Tatpurusha
+2	lakzaRa	_	_	3	Tatpurusha
+3	kaTanam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	sAnniDya	_	_	2	Bahuvrihi
+2	Adi	_	_	3	Tatpurusha
+3	prakArakam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	UrdDva	_	_	2	Bahuvrihi
+2	aNguzWaH	_	_	8	Comp_root
+3	vAma	_	_	4	Tatpurusha
+4	muzwiH	_	_	8	Comp_root
+5	dakziRa	_	_	6	Tatpurusha
+6	aNguzWa	_	_	7	Tatpurusha
+7	banDanam	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	kanizWa	_	_	2	Bahuvrihi
+2	Adi	_	_	3	Tatpurusha
+3	vimokena	_	_	6	Comp_root
+4	yaTA	_	_	5	Avyayibhava
+5	kramam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	dIkzA	_	_	2	Tatpurusha
+2	viDi	_	_	3	Tatpurusha
+3	kaTanam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	na	_	_	3	Tatpurusha
+2	cCinna	_	_	3	Tatpurusha
+3	DArayA	_	_	6	Comp_root
+4	ISAna	_	_	5	Tatpurusha
+5	antam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	sa	_	_	2	Bahuvrihi
+2	vastram	_	_	6	Comp_root
+3	paYcan	_	_	4	Tatpurusha
+4	ratna	_	_	5	Tatpurusha
+5	AQyam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	kzIra	_	_	2	Tatpurusha
+2	vfkza	_	_	3	Tatpurusha
+3	jam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	Endra	_	_	4	Dvandva
+2	agni	_	_	4	Dvandva
+3	uttaraka	_	_	4	Dvandva
+4	ISAnI	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	saMsAra	_	_	2	Tatpurusha
+2	arRava	_	_	3	Tatpurusha
+3	magnAnAm	_	_	6	Comp_root
+4	pASa	_	_	5	Tatpurusha
+5	muktaye	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	puzpa	_	_	2	Tatpurusha
+2	pUrRa	_	_	3	Tatpurusha
+3	aYjalIn	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	SiKA	_	_	2	Tatpurusha
+2	anta	_	_	3	Tatpurusha
+3	sammitam	_	_	9	Comp_root
+4	pAda	_	_	5	Tatpurusha
+5	aNguzWa	_	_	6	Bahuvrihi
+6	Adi	_	_	9	Comp_root
+7	zaw	_	_	8	Tatpurusha
+8	guRam	_	_	9	Comp_root
+9	DUMMY	CompNo	_	0	root
+
+1	tri	_	_	2	Tatpurusha
+2	guRa	_	_	4	Tatpurusha
+3	mi	_	_	4	Tatpurusha
+4	kftam	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	paYcan	_	_	2	Tatpurusha
+2	tanmAtra	_	_	4	Bahuvrihi
+3	budDi	_	_	4	Bahuvrihi
+4	AKyam	_	_	9	Comp_root
+5	karmma	_	_	6	Bahuvrihi
+6	AKyam	_	_	9	Comp_root
+7	BUta	_	_	8	Tatpurusha
+8	paYcakam	_	_	9	Comp_root
+9	DUMMY	CompNo	_	0	root
+
+1	vitAna	_	_	3	Dvandva
+2	Gawa	_	_	3	Dvandva
+3	laqqukEH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	badDa	_	_	2	Tatpurusha
+2	padmAsana	_	_	3	Tatpurusha
+3	sTitAn	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	prakfti	_	_	2	Tatpurusha
+2	Adi	_	_	4	Bahuvrihi
+3	vikfti	_	_	4	Tatpurusha
+4	antAm	_	_	8	Comp_root
+5	sa	_	_	7	Bahuvrihi
+6	aDiBUta	_	_	7	Dvandva
+7	aDidEvatAm	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	viyoga	_	_	2	Tatpurusha
+2	pada	_	_	3	Tatpurusha
+3	saMyuktEH	_	_	6	Comp_root
+4	pAda	_	_	5	Bahuvrihi
+5	AdiBiH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	sva	_	_	2	Tatpurusha
+2	bIjena	_	_	8	Comp_root
+3	tAqana	_	_	4	Bahuvrihi
+4	Adi	_	_	5	Tatpurusha
+5	puraHsaram	_	_	8	Comp_root
+6	karmma	_	_	7	Tatpurusha
+7	indriyARi	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	budDi	_	_	2	Tatpurusha
+2	indriyARi	_	_	6	Comp_root
+3	tAqana	_	_	4	Bahuvrihi
+4	Adi	_	_	5	Tatpurusha
+5	prayogakam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	navan	_	_	2	Tatpurusha
+2	vyUha	_	_	3	Bahuvrihi
+3	Adike	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	budDi	_	_	2	Bahuvrihi
+2	AKyAni	_	_	6	Comp_root
+3	tanmAtra	_	_	5	Dvandva
+4	manas	_	_	5	Dvandva
+5	jYAnam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	sarva	_	_	2	Tatpurusha
+2	sidDi	_	_	3	Tatpurusha
+3	samanvitam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	sarva	_	_	2	Tatpurusha
+2	upakaraRa	_	_	3	Tatpurusha
+3	anvitam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	saMhAra	_	_	2	Tatpurusha
+2	krama	_	_	3	Tatpurusha
+3	yogataH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	SarIra	_	_	2	Tatpurusha
+2	pAtam	_	_	6	Comp_root
+3	na	_	_	4	Tatpurusha
+4	vyakta	_	_	5	Tatpurusha
+5	liNga	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	mahat	_	_	2	Tatpurusha
+2	purARe	_	_	6	Comp_root
+3	sarva	_	_	4	Tatpurusha
+4	dIkzA	_	_	5	Tatpurusha
+5	kaTanam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	mUrtti	_	_	2	Tatpurusha
+2	kumBAn	_	_	9	Comp_root
+3	su	_	_	5	Tatpurusha
+4	ratna	_	_	5	Tatpurusha
+5	AQyaH	_	_	9	Comp_root
+6	maDya	_	_	7	Dvandva
+7	pUrva	_	_	8	Bahuvrihi
+8	AditaH	_	_	9	Comp_root
+9	DUMMY	CompNo	_	0	root
+
+1	gIta	_	_	2	Bahuvrihi
+2	Adi	_	_	3	Tatpurusha
+3	pUrvakam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	yoga	_	_	2	Tatpurusha
+2	pIWa	_	_	3	Bahuvrihi
+3	AdIn	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	sarvatoBadra	_	_	2	Tatpurusha
+2	maRqala	_	_	3	Tatpurusha
+3	kaTanam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	devatA	_	_	2	Tatpurusha
+2	Ayatana	_	_	3	Bahuvrihi
+3	Adike	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	catur	_	_	2	Tatpurusha
+2	asra	_	_	4	Tatpurusha
+3	mi	_	_	4	Tatpurusha
+4	kfte	_	_	7	Comp_root
+5	maRqala	_	_	6	Bahuvrihi
+6	AdIni	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	rasa	_	_	3	Dvandva
+2	bARa	_	_	3	Dvandva
+3	akzi	_	_	4	Tatpurusha
+4	kozWezu	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	dala	_	_	2	Tatpurusha
+2	sanDi	_	_	3	Tatpurusha
+3	antarAlam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	paYcan	_	_	2	Tatpurusha
+2	patra	_	_	3	Tatpurusha
+3	aBisidDyarTam	_	_	6	Comp_root
+4	ap	_	_	5	Tatpurusha
+5	jakam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	vyoman	_	_	2	Tatpurusha
+2	reKA	_	_	3	Tatpurusha
+3	bahiH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	dvi	_	_	2	Bahuvrihi
+2	zawka	_	_	3	Tatpurusha
+3	BAge	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	dvAra	_	_	2	Tatpurusha
+2	SoBA	_	_	3	Bahuvrihi
+3	Adi	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	paYcan	_	_	3	Tatpurusha
+2	anta	_	_	3	Tatpurusha
+3	svara	_	_	4	Tatpurusha
+4	sidDi	_	_	5	Tatpurusha
+5	arTam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	indIvara	_	_	2	Tatpurusha
+2	dala	_	_	3	Tatpurusha
+3	AkArAn	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	padma	_	_	2	Tatpurusha
+2	patra	_	_	3	Tatpurusha
+3	AyatAn	_	_	6	Comp_root
+4	icCA	_	_	5	Tatpurusha
+5	anurUpataH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	ara	_	_	2	Tatpurusha
+2	sanDi	_	_	3	Tatpurusha
+3	antare	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	upadvAra	_	_	2	Tatpurusha
+2	prasidDi	_	_	3	Tatpurusha
+3	arTam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	vITI	_	_	2	Tatpurusha
+2	padmAni	_	_	6	Comp_root
+3	paNkti	_	_	5	Tatpurusha
+4	vITi	_	_	5	Tatpurusha
+5	kajAni	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	Seza	_	_	3	Tatpurusha
+2	paNkti	_	_	3	Tatpurusha
+3	trayeRa	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	dvAra	_	_	3	Tatpurusha
+2	SoBA	_	_	3	Dvandva
+3	upaSoBAH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	dvi	_	_	2	Bahuvrihi
+2	catuH	_	_	8	Comp_root
+3	zaw	_	_	4	Tatpurusha
+4	dvAra	_	_	5	Tatpurusha
+5	sidDyE	_	_	8	Comp_root
+6	catur	_	_	7	Tatpurusha
+7	dikzu	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	mahat	_	_	2	Tatpurusha
+2	purARe	_	_	6	Comp_root
+3	maRqala	_	_	4	Bahuvrihi
+4	Adi	_	_	5	Tatpurusha
+5	lakzaRam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	vAsudeva	_	_	2	Bahuvrihi
+2	Adi	_	_	3	Tatpurusha
+3	mUrttIH	_	_	6	Comp_root
+4	daSan	_	_	5	Bahuvrihi
+5	Atmakam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	vAk	_	_	3	Dvandva
+2	pARi	_	_	3	Dvandva
+3	pAdam	_	_	6	Comp_root
+4	dvAtriMSat	_	_	5	Tatpurusha
+5	vArijezu	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	puruza	_	_	2	Tatpurusha
+2	uttama	_	_	3	Bahuvrihi
+3	Adi	_	_	4	Tatpurusha
+4	zaqviMSAn	_	_	7	Comp_root
+5	bAhya	_	_	6	Tatpurusha
+6	AvaraRake	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	latA	_	_	3	Dvandva
+2	vitAna	_	_	3	Dvandva
+3	patra	_	_	4	Bahuvrihi
+4	AdyEH	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	sita	_	_	3	Dvandva
+2	SyAma	_	_	3	Dvandva
+3	aruRAH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	SAli	_	_	2	Tatpurusha
+2	pizwa	_	_	3	Bahuvrihi
+3	Adi	_	_	6	Comp_root
+4	kOsumBaka	_	_	5	Bahuvrihi
+5	Adikam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	SamI	_	_	2	Tatpurusha
+2	patra	_	_	3	Bahuvrihi
+3	AdikEH	_	_	6	Comp_root
+4	lakza	_	_	5	Tatpurusha
+5	jApyataH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	dvi	_	_	2	Bahuvrihi
+2	tri	_	_	3	Tatpurusha
+3	guRena	_	_	7	Comp_root
+4	maDyama	_	_	5	Dvandva
+5	uttama	_	_	6	Tatpurusha
+6	sidDayaH	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	varAha	_	_	3	Dvandva
+2	siMha	_	_	3	Dvandva
+3	SaktInAm	_	_	6	Comp_root
+4	sTUla	_	_	5	Tatpurusha
+5	rUpam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	hft	_	_	2	Tatpurusha
+2	puRqarIka	_	_	3	Bahuvrihi
+3	nilayam	_	_	6	Comp_root
+4	na	_	_	5	Tatpurusha
+5	vyayam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	bIja	_	_	2	Bahuvrihi
+2	Atmakam	_	_	6	Comp_root
+3	kadamba	_	_	4	Tatpurusha
+4	kusuma	_	_	5	Bahuvrihi
+5	Akftim	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	kumBa	_	_	2	Tatpurusha
+2	antara	_	_	3	Tatpurusha
+3	gataH	_	_	6	Comp_root
+4	nirudDa	_	_	5	Bahuvrihi
+5	prasavaH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	na	_	_	2	Tatpurusha
+2	eka	_	_	3	Bahuvrihi
+3	Suzire	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	darSana	_	_	2	Tatpurusha
+2	indriya	_	_	3	Tatpurusha
+3	gocarAH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	agni	_	_	2	Dvandva
+2	soma	_	_	3	Bahuvrihi
+3	Atmake	_	_	7	Comp_root
+4	nAsA	_	_	5	Tatpurusha
+5	agra	_	_	6	Tatpurusha
+6	saMsTite	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	japa	_	_	2	Dvandva
+2	DyAna	_	_	3	Tatpurusha
+3	rataH	_	_	6	Comp_root
+4	mantra	_	_	5	Tatpurusha
+5	lakzaRam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	saMSudDa	_	_	2	Tatpurusha
+2	BUta	_	_	3	Tatpurusha
+3	tanmAtraH	_	_	6	Comp_root
+4	sa	_	_	5	Bahuvrihi
+5	kAmaH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	mahat	_	_	2	Tatpurusha
+2	purARe	_	_	6	Comp_root
+3	maRqala	_	_	4	Bahuvrihi
+4	Adi	_	_	5	Tatpurusha
+5	varRanam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	na	_	_	2	Tatpurusha
+2	rUpa	_	_	4	Bahuvrihi
+3	bahu	_	_	4	Tatpurusha
+4	rUpAya	_	_	7	Comp_root
+5	parama	_	_	6	Bahuvrihi
+6	Atmane	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	nis	_	_	2	Bahuvrihi
+2	kalmazAya	_	_	6	Comp_root
+3	DyAna	_	_	4	Tatpurusha
+4	yoga	_	_	5	Tatpurusha
+5	ratAya	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	na	_	_	2	Tatpurusha
+2	parAjita	_	_	3	Tatpurusha
+3	cakra	_	_	4	Bahuvrihi
+4	AdyEH	_	_	7	Comp_root
+5	parama	_	_	6	Tatpurusha
+6	AyuDEH	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	na	_	_	2	Tatpurusha
+2	KaRqita	_	_	3	Tatpurusha
+3	anuBAvEH	_	_	7	Comp_root
+4	sarva	_	_	5	Tatpurusha
+5	duzwa	_	_	6	Tatpurusha
+6	haraH	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	mftyu	_	_	4	Dvandva
+2	banDa	_	_	4	Dvandva
+3	artti	_	_	4	Dvandva
+4	Baya	_	_	5	Tatpurusha
+5	dam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	para	_	_	2	Tatpurusha
+2	aBiDyAna	_	_	3	Tatpurusha
+3	sahitEH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	gadasparSa	_	_	2	Dvandva
+2	mahAroga	_	_	3	Tatpurusha
+3	prayogam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	daMzwra	_	_	2	Tatpurusha
+2	udDfta	_	_	3	Tatpurusha
+3	kziti	_	_	4	Tatpurusha
+4	Bfte	_	_	7	Comp_root
+5	trayI	_	_	6	Tatpurusha
+6	mUrtti	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	tapta	_	_	2	Tatpurusha
+2	hAwaka	_	_	4	Bahuvrihi
+3	keSa	_	_	4	Tatpurusha
+4	agra	_	_	8	Comp_root
+5	jvalat	_	_	6	Tatpurusha
+6	pAvaka	_	_	7	Bahuvrihi
+7	locana	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	vajra	_	_	2	Tatpurusha
+2	aDika	_	_	4	Bahuvrihi
+3	naKa	_	_	4	Tatpurusha
+4	sparSa	_	_	7	Comp_root
+5	divya	_	_	6	Tatpurusha
+6	siMha	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	ati	_	_	2	Tatpurusha
+2	hrasvAya	_	_	7	Comp_root
+3	fk	_	_	5	Dvandva
+4	yajuz	_	_	5	Dvandva
+5	sAma	_	_	6	Tatpurusha
+6	BUzita	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	na	_	_	2	Tatpurusha
+2	Seza	_	_	3	Tatpurusha
+3	duzwAni	_	_	7	Comp_root
+4	sarva	_	_	5	Tatpurusha
+5	pApa	_	_	6	Tatpurusha
+6	PalAni	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	karAla	_	_	2	Bahuvrihi
+2	Asya	_	_	7	Comp_root
+3	danta	_	_	4	Tatpurusha
+4	prAnta	_	_	5	Tatpurusha
+5	anala	_	_	6	Tatpurusha
+6	ujjvala	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	fk	_	_	3	Dvandva
+2	yajuz	_	_	3	Dvandva
+3	sAma	_	_	4	Bahuvrihi
+4	garBABiH	_	_	8	Comp_root
+5	vAmana	_	_	6	Tatpurusha
+6	rUpa	_	_	7	Tatpurusha
+7	Dfk	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	guda	_	_	3	Dvandva
+2	GrARa	_	_	3	Dvandva
+3	aNGri	_	_	4	Tatpurusha
+4	rogAn	_	_	7	Comp_root
+5	kuzWa	_	_	6	Tatpurusha
+6	rogAn	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	acyuta	_	_	3	Dvandva
+2	ananta	_	_	3	Dvandva
+3	govinda	_	_	4	Tatpurusha
+4	nAma	_	_	5	Tatpurusha
+5	uccAraRa	_	_	6	Tatpurusha
+6	BIzitAH	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	lUta	_	_	2	Bahuvrihi
+2	Adi	_	_	3	Tatpurusha
+3	praBavam	_	_	6	Comp_root
+4	duHKa	_	_	5	Tatpurusha
+5	dam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	SakunI	_	_	2	Dvandva
+2	pUtana	_	_	3	Bahuvrihi
+3	AdyAH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	mahat	_	_	2	Bahuvrihi
+2	siMha	_	_	7	Comp_root
+3	jvAlA	_	_	4	Tatpurusha
+4	mAlA	_	_	6	Bahuvrihi
+5	ujjvala	_	_	6	Bahuvrihi
+6	Anana	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	Sastra	_	_	2	Tatpurusha
+2	kzatezu	_	_	6	Comp_root
+3	jvAlA	_	_	4	Dvandva
+4	garddaBaka	_	_	5	Bahuvrihi
+5	AdayaH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	jvAlA	_	_	2	Tatpurusha
+2	mAlA	_	_	4	Tatpurusha
+3	ati	_	_	4	Tatpurusha
+4	BIzaRam	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	sarva	_	_	2	Tatpurusha
+2	duzwa	_	_	3	Tatpurusha
+3	upaSamanam	_	_	6	Comp_root
+4	deva	_	_	5	Tatpurusha
+5	vara	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	sa	_	_	4	Bahuvrihi
+2	deva	_	_	4	Dvandva
+3	asura	_	_	4	Dvandva
+4	mAnuzam	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	vAsudeva	_	_	2	Tatpurusha
+2	SarIra	_	_	3	Tatpurusha
+3	utTEH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	sarva	_	_	2	Tatpurusha
+2	roga	_	_	3	Bahuvrihi
+3	Adi	_	_	4	Tatpurusha
+4	vAraRam	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	sOra	_	_	4	Dvandva
+2	SAkteya	_	_	4	Dvandva
+3	vizRu	_	_	4	Dvandva
+4	ISa	_	_	5	Tatpurusha
+5	dIkzAH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	mahat	_	_	2	Tatpurusha
+2	purARe	_	_	6	Comp_root
+3	azwacatvAriSat	_	_	4	Tatpurusha
+4	saMskAra	_	_	5	Tatpurusha
+5	kaTanam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	pavitra	_	_	2	Tatpurusha
+2	ArohaRa	_	_	3	Tatpurusha
+3	viDAnam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	mArttaRqa	_	_	3	Dvandva
+2	mAtf	_	_	3	Dvandva
+3	durgARAm	_	_	8	Comp_root
+4	nAga	_	_	7	Dvandva
+5	fzi	_	_	7	Dvandva
+6	hari	_	_	7	Dvandva
+7	manmaTEH	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	dvitIya	_	_	2	Bahuvrihi
+2	Adi	_	_	3	Tatpurusha
+3	tiTeH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	netra	_	_	2	Dvandva
+2	kArppAsika	_	_	3	Bahuvrihi
+3	Adikam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	tri	_	_	2	Tatpurusha
+2	guRam	_	_	7	Comp_root
+3	tri	_	_	4	Tatpurusha
+4	guRa	_	_	6	Tatpurusha
+5	dsi	_	_	6	Tatpurusha
+6	kftya	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	azwan	_	_	2	Bahuvrihi
+2	uttara	_	_	3	Tatpurusha
+3	SatAt	_	_	6	Comp_root
+4	uttama	_	_	5	Bahuvrihi
+5	Adikam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	kriyA	_	_	2	Tatpurusha
+2	lopa	_	_	3	Tatpurusha
+3	viDAna	_	_	4	Tatpurusha
+4	arTam	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	deva	_	_	2	Dvandva
+2	deva	_	_	3	Tatpurusha
+3	anurUpataH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	jAnuUru	_	_	3	Dvandva
+2	nABi	_	_	3	Dvandva
+3	nAma	_	_	4	Tatpurusha
+4	antam	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	pAda	_	_	2	Tatpurusha
+2	antA	_	_	6	Comp_root
+3	azwan	_	_	4	Bahuvrihi
+4	uttara	_	_	5	Tatpurusha
+5	sahasrataH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	pitf	_	_	2	Dvandva
+2	mAtra	_	_	3	Bahuvrihi
+3	Adi	_	_	4	Tatpurusha
+4	pustake	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	caturviMSa	_	_	2	Bahuvrihi
+2	zawtriMSat	_	_	3	Tatpurusha
+3	mAlikA	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	na	_	_	2	Bahuvrihi
+2	nAmA	_	_	4	Dvandva
+3	maDyama	_	_	4	Dvandva
+4	aNguzWEH	_	_	9	Comp_root
+5	manda	_	_	6	Bahuvrihi
+6	AdyEH	_	_	9	Comp_root
+7	mAlikA	_	_	8	Tatpurusha
+8	arTiBiH	_	_	9	Comp_root
+9	DUMMY	CompNo	_	0	root
+
+1	kumBa	_	_	2	Dvandva
+2	hutASa	_	_	3	Bahuvrihi
+3	AdeH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	yaTA	_	_	2	Avyayibhava
+2	Sakti	_	_	6	Comp_root
+3	sUtra	_	_	4	Tatpurusha
+4	granTi	_	_	5	Tatpurusha
+5	paricAre	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	rocana	_	_	5	Dvandva
+2	aguru	_	_	5	Dvandva
+3	karpUra	_	_	5	Dvandva
+4	haridrA	_	_	5	Dvandva
+5	kuNkuma	_	_	6	Bahuvrihi
+6	AdiBiH	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	candana	_	_	2	Bahuvrihi
+2	AdyEH	_	_	7	Comp_root
+3	snAna	_	_	4	Dvandva
+4	sanDyA	_	_	5	Bahuvrihi
+5	Adi	_	_	6	Tatpurusha
+6	kft	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	paYca	_	_	2	Tatpurusha
+2	udGAtEH	_	_	8	Comp_root
+3	ganDa	_	_	4	Tatpurusha
+4	tanmAtra	_	_	5	Bahuvrihi
+5	rUpam	_	_	8	Comp_root
+6	BUmi	_	_	7	Tatpurusha
+7	maRqalam	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	indra	_	_	2	Bahuvrihi
+2	Adi	_	_	3	Tatpurusha
+3	dEvatam	_	_	8	Comp_root
+4	pAda	_	_	5	Tatpurusha
+5	yugma	_	_	6	Tatpurusha
+6	maDya	_	_	7	Tatpurusha
+7	gatam	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	jAnu	_	_	2	Dvandva
+2	nABi	_	_	3	Tatpurusha
+3	maDya	_	_	4	Tatpurusha
+4	gatam	_	_	7	Comp_root
+5	padma	_	_	6	Tatpurusha
+6	lAYCitam	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	nABi	_	_	2	Dvandva
+2	kaRWa	_	_	3	Tatpurusha
+3	maDya	_	_	4	Tatpurusha
+4	gatam	_	_	7	Comp_root
+5	svastika	_	_	6	Tatpurusha
+6	lAYCitam	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	kaRWa	_	_	2	Dvandva
+2	nAsA	_	_	3	Tatpurusha
+3	maDya	_	_	4	Tatpurusha
+4	gatam	_	_	7	Comp_root
+5	vAyu	_	_	6	Tatpurusha
+6	maRqalam	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	DUmra	_	_	2	Bahuvrihi
+2	varRam	_	_	6	Comp_root
+3	SudDa	_	_	4	Tatpurusha
+4	indu	_	_	5	Tatpurusha
+5	lAYCitam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	eka	_	_	2	Tatpurusha
+2	udGAtena	_	_	6	Comp_root
+3	SudDa	_	_	4	Tatpurusha
+4	sPawika	_	_	5	Tatpurusha
+5	sanniBam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	nAsA	_	_	2	Tatpurusha
+2	puwa	_	_	4	Dvandva
+3	SiKA	_	_	4	Tatpurusha
+4	anta	_	_	5	Tatpurusha
+5	sTam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	jvAlA	_	_	2	Tatpurusha
+2	mAlA	_	_	3	Tatpurusha
+3	samAyutam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	deva	_	_	2	Tatpurusha
+2	ISam	_	_	6	Comp_root
+3	Bukti	_	_	4	Dvandva
+4	mukti	_	_	5	Tatpurusha
+5	dam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	deva	_	_	2	Tatpurusha
+2	deva	_	_	3	Tatpurusha
+3	ISa	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	agni	_	_	2	Bahuvrihi
+2	AdO	_	_	8	Comp_root
+3	Darma	_	_	4	Bahuvrihi
+4	AdyAH	_	_	8	Comp_root
+5	na	_	_	6	Tatpurusha
+6	Darma	_	_	7	Bahuvrihi
+7	AdyAH	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	sattva	_	_	2	Bahuvrihi
+2	Adi	_	_	7	Comp_root
+3	mAyA	_	_	4	Tatpurusha
+4	vidyA	_	_	5	Bahuvrihi
+5	Kya	_	_	6	Tatpurusha
+6	tattvake	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	kAla	_	_	2	Tatpurusha
+2	tattvam	_	_	6	Comp_root
+3	sUrya	_	_	4	Bahuvrihi
+4	Adi	_	_	5	Tatpurusha
+5	maRqalam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	SrI	_	_	3	Dvandva
+2	rati	_	_	3	Dvandva
+3	kAnti	_	_	4	Bahuvrihi
+4	AdyAH	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	pUrvva	_	_	4	Dvandva
+2	dakza	_	_	4	Dvandva
+3	Apya	_	_	4	Dvandva
+4	sOmyezu	_	_	7	Comp_root
+5	mUrtti	_	_	6	Tatpurusha
+6	AvaraRam	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	agni	_	_	2	Bahuvrihi
+2	AdO	_	_	7	Comp_root
+3	SrI	_	_	6	Dvandva
+4	Dfti	_	_	6	Dvandva
+5	rati	_	_	6	Dvandva
+6	kAntayaH	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	SaNKa	_	_	4	Dvandva
+2	cakra	_	_	4	Dvandva
+3	gadA	_	_	4	Dvandva
+4	padmam	_	_	9	Comp_root
+5	agni	_	_	6	Bahuvrihi
+6	AdO	_	_	9	Comp_root
+7	pUrvvaka	_	_	8	Bahuvrihi
+8	Adikam	_	_	9	Comp_root
+9	DUMMY	CompNo	_	0	root
+
+1	uttara	_	_	2	Tatpurusha
+2	dvAra	_	_	3	Tatpurusha
+3	antam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	saMvatsara	_	_	2	Tatpurusha
+2	kfta	_	_	3	Tatpurusha
+3	arcAyAH	_	_	7	Comp_root
+4	sampUrRa	_	_	5	Tatpurusha
+5	Pala	_	_	6	Tatpurusha
+6	dAyine	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	upavAsa	_	_	2	Bahuvrihi
+2	Adi	_	_	3	Tatpurusha
+3	niyamam	_	_	6	Comp_root
+4	deva	_	_	5	Tatpurusha
+5	sanniDO	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	upavAsa	_	_	2	Bahuvrihi
+2	Adi	_	_	3	Tatpurusha
+3	niyataH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	kAma	_	_	2	Dvandva
+2	kroDa	_	_	3	Bahuvrihi
+3	AdayaH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	trE	_	_	2	Tatpurusha
+2	lokya	_	_	3	Tatpurusha
+3	mohanAya	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	mahat	_	_	2	Tatpurusha
+2	purARe	_	_	9	Comp_root
+3	pavitra	_	_	4	Tatpurusha
+4	ArohaRe	_	_	9	Comp_root
+5	SrIDara	_	_	7	Tatpurusha
+6	nitya	_	_	7	Tatpurusha
+7	pUjA	_	_	8	Tatpurusha
+8	kaTanam	_	_	9	Comp_root
+9	DUMMY	CompNo	_	0	root
+
+1	homa	_	_	2	Bahuvrihi
+2	Adi	_	_	3	Tatpurusha
+3	viDiH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	brahmaRya	_	_	2	Tatpurusha
+2	devAya	_	_	6	Comp_root
+3	na	_	_	4	Tatpurusha
+4	vyaya	_	_	5	Bahuvrihi
+5	Atmane	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	fk	_	_	3	Dvandva
+2	yajuz	_	_	3	Dvandva
+3	sAma	_	_	4	Bahuvrihi
+4	rUpAya	_	_	7	Comp_root
+5	Sabda	_	_	6	Bahuvrihi
+6	dehAya	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	yAga	_	_	2	Tatpurusha
+2	dravya	_	_	3	Bahuvrihi
+3	Adi	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	prakzAlita	_	_	3	Bahuvrihi
+2	kara	_	_	3	Dvandva
+3	aNGriH	_	_	6	Comp_root
+4	arGya	_	_	5	Tatpurusha
+5	karaH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	arGya	_	_	2	Tatpurusha
+2	adBiH	_	_	6	Comp_root
+3	dvAra	_	_	4	Tatpurusha
+4	deSa	_	_	5	Bahuvrihi
+5	Adikam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	aSvatTa	_	_	4	Dvandva
+2	udumbara	_	_	4	Dvandva
+3	vawa	_	_	4	Dvandva
+4	plakzAH	_	_	8	Comp_root
+5	pUrva	_	_	6	Bahuvrihi
+6	Adi	_	_	7	Tatpurusha
+7	gAH	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	suDanvan	_	_	2	Tatpurusha
+2	AKyam	_	_	6	Comp_root
+3	soma	_	_	5	Dvandva
+4	aTarvan	_	_	5	Dvandva
+5	suhotrakam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	astra	_	_	2	Tatpurusha
+2	japta	_	_	4	Dvandva
+3	puzpa	_	_	4	Tatpurusha
+4	kzepAt	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	eka	_	_	4	Bahuvrihi
+2	dvi	_	_	4	Bahuvrihi
+3	tri	_	_	4	Bahuvrihi
+4	Adi	_	_	5	Tatpurusha
+5	vArARi	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	yAga	_	_	2	Tatpurusha
+2	dravya	_	_	3	Bahuvrihi
+3	Adi	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	mUla	_	_	3	Tatpurusha
+2	azwan	_	_	3	Tatpurusha
+3	Sata	_	_	4	Tatpurusha
+4	saYjaptAn	_	_	7	Comp_root
+5	kuSa	_	_	6	Dvandva
+6	kUrcAn	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	yAga	_	_	2	Tatpurusha
+2	gfham	_	_	6	Comp_root
+3	na	_	_	4	Tatpurusha
+4	Cinna	_	_	5	Tatpurusha
+5	dArayA	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	sa	_	_	4	Bahuvrihi
+2	paYcan	_	_	3	Tatpurusha
+3	ratna	_	_	4	Dvandva
+4	vastra	_	_	5	Tatpurusha
+5	AQya	_	_	6	Tatpurusha
+6	kumBe	_	_	9	Comp_root
+7	ganDa	_	_	8	Bahuvrihi
+8	AdiBiH	_	_	9	Comp_root
+9	DUMMY	CompNo	_	0	root
+
+1	pUrva	_	_	2	Bahuvrihi
+2	Adi	_	_	3	Tatpurusha
+3	kalaSe	_	_	10	Comp_root
+4	agni	_	_	5	Bahuvrihi
+5	AdO	_	_	10	Comp_root
+6	paYcan	_	_	7	Tatpurusha
+7	amfta	_	_	8	Dvandva
+8	jala	_	_	9	Bahuvrihi
+9	Adikam	_	_	10	Comp_root
+10	DUMMY	CompNo	_	0	root
+
+1	padma	_	_	3	Dvandva
+2	SyAmAka	_	_	3	Dvandva
+3	dUrvAH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	azwan	_	_	2	Tatpurusha
+2	aNga	_	_	3	Tatpurusha
+3	arGyam	_	_	8	Comp_root
+4	yava	_	_	7	Dvandva
+5	ganDa	_	_	7	Dvandva
+6	Pala	_	_	7	Dvandva
+7	akzatam	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	lavaNga	_	_	2	Dvandva
+2	kakkola	_	_	3	Tatpurusha
+3	yutam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	pUrva	_	_	2	Tatpurusha
+2	agra	_	_	3	Tatpurusha
+3	gAminIH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	uttara	_	_	2	Bahuvrihi
+2	antAH	_	_	6	Comp_root
+3	uttara	_	_	4	Tatpurusha
+4	agra	_	_	5	Tatpurusha
+5	gAH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	darBa	_	_	3	Dvandva
+2	sruk	_	_	3	Dvandva
+3	sruvaka	_	_	4	Bahuvrihi
+4	AdiBiH	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	praRItA	_	_	2	Dvandva
+2	prokzaRI	_	_	3	Tatpurusha
+3	pAtre	_	_	7	Comp_root
+4	prAk	_	_	5	Tatpurusha
+5	agra	_	_	6	Tatpurusha
+6	gam	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	nAman	_	_	2	Tatpurusha
+2	Adi	_	_	4	Tatpurusha
+3	samAvarttana	_	_	4	Tatpurusha
+4	antam	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	sruva	_	_	3	Tatpurusha
+2	su	_	_	3	Tatpurusha
+3	yuktayA	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	tri	_	_	2	Tatpurusha
+2	guRa	_	_	3	Bahuvrihi
+3	AtmikA	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	sarva	_	_	2	Tatpurusha
+2	BUtAnAm	_	_	6	Comp_root
+3	vidyA	_	_	4	Dvandva
+4	mantra	_	_	5	Tatpurusha
+5	gaRasya	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	ISAna	_	_	2	Dvandva
+2	Agneya	_	_	3	Tatpurusha
+3	koRe	_	_	6	Comp_root
+4	vAyavya	_	_	5	Dvandva
+5	nErfte	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	vAyu	_	_	3	Tatpurusha
+2	agni	_	_	3	Tatpurusha
+3	antam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	padma	_	_	2	Tatpurusha
+2	maDya	_	_	3	Tatpurusha
+3	sTam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	saptan	_	_	2	Bahuvrihi
+2	jihvam	_	_	7	Comp_root
+3	sUrya	_	_	4	Tatpurusha
+4	kowi	_	_	6	Bahuvrihi
+5	sama	_	_	6	Bahuvrihi
+6	praBam	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	pavitra	_	_	2	Tatpurusha
+2	aDivAsana	_	_	3	Bahuvrihi
+3	Adi	_	_	4	Tatpurusha
+4	viDiH	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	nfsiMha	_	_	2	Tatpurusha
+2	mantra	_	_	3	Tatpurusha
+3	japtAni	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	bilva	_	_	2	Bahuvrihi
+2	Adi	_	_	3	Tatpurusha
+3	adBiH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	candana	_	_	5	Dvandva
+2	ambu	_	_	5	Dvandva
+3	akzata	_	_	5	Dvandva
+4	daDi	_	_	5	Dvandva
+5	dUrvAH	_	_	8	Comp_root
+6	puwikA	_	_	7	Tatpurusha
+7	sTitAH	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	dvAra	_	_	2	Tatpurusha
+2	pa	_	_	3	Bahuvrihi
+3	AdiByaH	_	_	6	Comp_root
+4	vizRu	_	_	5	Tatpurusha
+5	kumBe	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	vizRu	_	_	2	Tatpurusha
+2	tejas	_	_	3	Tatpurusha
+3	Bavam	_	_	7	Comp_root
+4	sarva	_	_	5	Tatpurusha
+5	pAtaka	_	_	6	Tatpurusha
+6	nASanam	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	sarva	_	_	2	Tatpurusha
+2	kAma	_	_	3	Tatpurusha
+3	pradam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	DUpa	_	_	2	Dvandva
+2	dIpa	_	_	3	Bahuvrihi
+3	AdyEH	_	_	6	Comp_root
+4	dvAra	_	_	5	Tatpurusha
+5	samIpataH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	ganDa	_	_	3	Dvandva
+2	puzpa	_	_	3	Dvandva
+3	akzata	_	_	4	Tatpurusha
+4	upetam	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	mahat	_	_	2	Tatpurusha
+2	pAtaka	_	_	3	Tatpurusha
+3	nASanam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	Darmma	_	_	3	Dvandva
+2	kAma	_	_	3	Dvandva
+3	arTa	_	_	4	Tatpurusha
+4	sidDi	_	_	5	Tatpurusha
+5	arTam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	ganDa	_	_	2	Bahuvrihi
+2	AdiBiH	_	_	7	Comp_root
+3	ganDa	_	_	5	Dvandva
+4	puzpa	_	_	5	Dvandva
+5	akzata	_	_	6	Bahuvrihi
+6	Adi	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	vizRu	_	_	2	Tatpurusha
+2	tejas	_	_	3	Tatpurusha
+3	Bava	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	kzIrodaDi	_	_	3	Tatpurusha
+2	mahat	_	_	3	Tatpurusha
+3	nAga	_	_	4	Tatpurusha
+4	SayyA	_	_	6	Bahuvrihi
+5	avasTita	_	_	6	Bahuvrihi
+6	vigraha	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	deva	_	_	2	Tatpurusha
+2	agrataH	_	_	6	Comp_root
+3	vAsas	_	_	4	Tatpurusha
+4	yuga	_	_	5	Tatpurusha
+5	samanvitam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	rocanA	_	_	4	Dvandva
+2	candra	_	_	4	Dvandva
+3	kASmIra	_	_	4	Dvandva
+4	ganDa	_	_	5	Bahuvrihi
+5	Adi	_	_	7	Tatpurusha
+6	udaka	_	_	7	Tatpurusha
+7	saMyutam	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	ganDa	_	_	2	Dvandva
+2	puzpa	_	_	3	Bahuvrihi
+3	AdinA	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	para	_	_	2	Tatpurusha
+2	prezaka	_	_	3	Tatpurusha
+3	bAlAnAm	_	_	6	Comp_root
+4	Boga	_	_	5	Tatpurusha
+5	BujAm	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	pavitra	_	_	2	Tatpurusha
+2	AropaRa	_	_	3	Tatpurusha
+3	viDAnam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	SudDa	_	_	3	Tatpurusha
+2	ganDa	_	_	3	Dvandva
+3	udakEH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	dvAra	_	_	2	Tatpurusha
+2	pAla	_	_	5	Dvandva
+3	vizRu	_	_	4	Tatpurusha
+4	kumBa	_	_	5	Dvandva
+5	vardDanIH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	pavitrai	_	_	2	Tatpurusha
+2	karaRa	_	_	3	Tatpurusha
+3	arTAya	_	_	8	Comp_root
+4	varza	_	_	5	Tatpurusha
+5	pUjA	_	_	6	Tatpurusha
+6	Pala	_	_	7	Tatpurusha
+7	pradam	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	dvArapAla	_	_	4	Bahuvrihi
+2	Asana	_	_	3	Tatpurusha
+3	guru	_	_	4	Bahuvrihi
+4	muKyAnAm	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	hft	_	_	2	Tatpurusha
+2	Adi	_	_	4	Tatpurusha
+3	vizvaksena	_	_	4	Tatpurusha
+4	ante	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	azwan	_	_	2	Bahuvrihi
+2	uttara	_	_	3	Tatpurusha
+3	Satam	_	_	6	Comp_root
+4	paYcan	_	_	5	Tatpurusha
+5	upanizadEH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	maRi	_	_	3	Dvandva
+2	vidruma	_	_	3	Dvandva
+3	mAlABiH	_	_	7	Comp_root
+4	mandAra	_	_	5	Tatpurusha
+5	kusuma	_	_	6	Bahuvrihi
+6	AdiBiH	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	Bojana	_	_	3	Bahuvrihi
+2	vastra	_	_	3	Bahuvrihi
+3	AdyEH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	mahat	_	_	2	Tatpurusha
+2	purARe	_	_	6	Comp_root
+3	vizRu	_	_	5	Tatpurusha
+4	pavitra	_	_	5	Tatpurusha
+5	ArohaRam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	sarva	_	_	2	Tatpurusha
+2	deva	_	_	5	Tatpurusha
+3	pavitra	_	_	4	Tatpurusha
+4	ArohaRa	_	_	5	Tatpurusha
+5	viDiH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	sarva	_	_	2	Bahuvrihi
+2	lakzma	_	_	6	Comp_root
+3	svarasa	_	_	4	Tatpurusha
+4	anala	_	_	5	Tatpurusha
+5	gam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	pavitrai	_	_	2	Tatpurusha
+2	karaRa	_	_	3	Tatpurusha
+3	arTAya	_	_	7	Comp_root
+4	varzapUjA	_	_	5	Tatpurusha
+5	Pala	_	_	6	Tatpurusha
+6	pradam	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	veda	_	_	2	Tatpurusha
+2	vit	_	_	3	Tatpurusha
+3	pate	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	Dana	_	_	4	Dvandva
+2	DAnya	_	_	4	Dvandva
+3	Ayus	_	_	4	Dvandva
+4	Arogya	_	_	5	Tatpurusha
+5	pradam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	vidyA	_	_	3	Dvandva
+2	santati	_	_	3	Dvandva
+3	sOBAgya	_	_	4	Tatpurusha
+4	pradam	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	Darmma	_	_	4	Dvandva
+2	kAma	_	_	4	Dvandva
+3	arTa	_	_	4	Dvandva
+4	mokza	_	_	5	Tatpurusha
+5	dam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	saMsAra	_	_	2	Tatpurusha
+2	sAgara	_	_	3	Tatpurusha
+3	uttAra	_	_	4	Tatpurusha
+4	kAraRam	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	atIta	_	_	3	Dvandva
+2	na	_	_	3	Tatpurusha
+3	Agata	_	_	4	Tatpurusha
+4	kula	_	_	5	Tatpurusha
+5	samudDAram	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	mahat	_	_	2	Tatpurusha
+2	purARe	_	_	6	Comp_root
+3	saNkzepa	_	_	5	Tatpurusha
+4	pavitra	_	_	5	Tatpurusha
+5	ArohaRam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	deva	_	_	2	Tatpurusha
+2	Alaya	_	_	3	Tatpurusha
+3	nirmmARa	_	_	4	Tatpurusha
+4	Palam	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	vAsudeva	_	_	2	Bahuvrihi
+2	Adi	_	_	3	Tatpurusha
+3	Alayasya	_	_	6	Comp_root
+4	Pala	_	_	5	Bahuvrihi
+5	Adikam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	deva	_	_	2	Tatpurusha
+2	DAma	_	_	3	Bahuvrihi
+3	Adi	_	_	8	Comp_root
+4	sahasra	_	_	5	Tatpurusha
+5	jani	_	_	7	Tatpurusha
+6	pApa	_	_	7	Tatpurusha
+7	nut	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	sadman	_	_	2	Tatpurusha
+2	kartFRAm	_	_	7	Comp_root
+3	Sata	_	_	4	Tatpurusha
+4	janma	_	_	5	Tatpurusha
+5	aGa	_	_	6	Tatpurusha
+6	nASanam	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	brahman	_	_	2	Tatpurusha
+2	hatyA	_	_	3	Bahuvrihi
+3	Adi	_	_	4	Tatpurusha
+4	pApa	_	_	5	Tatpurusha
+5	oGa	_	_	6	Tatpurusha
+6	GAtakam	_	_	9	Comp_root
+7	devata	_	_	8	Tatpurusha
+8	Alayam	_	_	9	Comp_root
+9	DUMMY	CompNo	_	0	root
+
+1	deva	_	_	2	Tatpurusha
+2	AgAre	_	_	7	Comp_root
+3	sarvva	_	_	4	Tatpurusha
+4	tIrTa	_	_	5	Tatpurusha
+5	snAna	_	_	6	Tatpurusha
+6	Palam	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	deva	_	_	2	Bahuvrihi
+2	Adi	_	_	3	Tatpurusha
+3	arTe	_	_	6	Comp_root
+4	Pala	_	_	5	Bahuvrihi
+5	Adikam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	eka	_	_	2	Tatpurusha
+2	Ayatana	_	_	3	Tatpurusha
+3	kft	_	_	9	Comp_root
+4	tri	_	_	5	Tatpurusha
+5	AgArI	_	_	9	Comp_root
+6	brahman	_	_	7	Tatpurusha
+7	loka	_	_	8	Tatpurusha
+8	BAk	_	_	9	Comp_root
+9	DUMMY	CompNo	_	0	root
+
+1	zoqaSa	_	_	2	Tatpurusha
+2	Alaya	_	_	3	Tatpurusha
+3	kArI	_	_	6	Comp_root
+4	Bukti	_	_	5	Dvandva
+5	muktim	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	tat	_	_	2	Tatpurusha
+2	loka	_	_	3	Tatpurusha
+3	gAminaH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	banDUka	_	_	2	Tatpurusha
+2	puzpa	_	_	3	Tatpurusha
+3	vinyAsEH	_	_	6	Comp_root
+4	suDA	_	_	5	Tatpurusha
+5	paNkena	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	vizRu	_	_	2	Tatpurusha
+2	loka	_	_	3	Tatpurusha
+3	BAk	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	vizRu	_	_	4	Dvandva
+2	rudra	_	_	4	Dvandva
+3	arka	_	_	4	Dvandva
+4	devI	_	_	5	Bahuvrihi
+5	AdeH	_	_	10	Comp_root
+6	gfha	_	_	7	Tatpurusha
+7	karttA	_	_	10	Comp_root
+8	kIrtti	_	_	9	Tatpurusha
+9	BAk	_	_	10	Comp_root
+10	DUMMY	CompNo	_	0	root
+
+1	pitf	_	_	3	Dvandva
+2	vipra	_	_	3	Dvandva
+3	divOkasAm	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	sa	_	_	3	Bahuvrihi
+2	cara	_	_	3	Dvandva
+3	acaram	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	deva	_	_	2	Bahuvrihi
+2	Adi	_	_	3	Tatpurusha
+3	devasya	_	_	8	Comp_root
+4	sarva	_	_	5	Tatpurusha
+5	gasya	_	_	8	Comp_root
+6	mahat	_	_	7	Bahuvrihi
+7	AtmanaH	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	Siva	_	_	6	Dvandva
+2	brahman	_	_	6	Dvandva
+3	arkka	_	_	6	Dvandva
+4	viGneSa	_	_	6	Dvandva
+5	caRqI	_	_	6	Dvandva
+6	lakzmI	_	_	8	Bahuvrihi
+7	Adika	_	_	8	Bahuvrihi
+8	AtmanAm	_	_	9	Comp_root
+9	DUMMY	CompNo	_	0	root
+
+1	deva	_	_	2	Tatpurusha
+2	Alaya	_	_	3	Tatpurusha
+3	kfteH	_	_	6	Comp_root
+4	pratimA	_	_	5	Tatpurusha
+5	karaRe	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	saptan	_	_	2	Tatpurusha
+2	janma	_	_	3	Tatpurusha
+3	kftam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	yama	_	_	2	Tatpurusha
+2	BawAn	_	_	6	Comp_root
+3	deva	_	_	4	Tatpurusha
+4	mandira	_	_	5	Tatpurusha
+5	kAriRaH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	pratimA	_	_	2	Tatpurusha
+2	pUjA	_	_	3	Bahuvrihi
+3	Adi	_	_	4	Tatpurusha
+4	kftaH	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	deva	_	_	2	Tatpurusha
+2	Alaya	_	_	3	Bahuvrihi
+3	Adi	_	_	5	Tatpurusha
+4	na	_	_	5	Tatpurusha
+5	karttAraH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	puzpa	_	_	3	Dvandva
+2	DUpa	_	_	3	Dvandva
+3	vAsoBiH	_	_	6	Comp_root
+4	ati	_	_	5	Tatpurusha
+5	vallaBEH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	tat	_	_	2	Tatpurusha
+2	kula	_	_	3	Tatpurusha
+3	udBavam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	izwakA	_	_	2	Tatpurusha
+2	caya	_	_	3	Tatpurusha
+3	vinyAsaH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	tAvat	_	_	2	Tatpurusha
+2	varza	_	_	3	Tatpurusha
+3	sahasrARi	_	_	6	Comp_root
+4	tat	_	_	5	Tatpurusha
+5	karttuH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	deva	_	_	2	Tatpurusha
+2	sadma	_	_	4	Dvandva
+3	pratikfti	_	_	4	Dvandva
+4	pratizWA	_	_	5	Tatpurusha
+5	kft	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	yama	_	_	2	Tatpurusha
+2	uktAH	_	_	6	Comp_root
+3	pratizWA	_	_	4	Bahuvrihi
+4	Adi	_	_	5	Tatpurusha
+5	kftam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	mahat	_	_	2	Tatpurusha
+2	purARe	_	_	8	Comp_root
+3	deva	_	_	4	Tatpurusha
+4	Alaya	_	_	5	Bahuvrihi
+5	Adi	_	_	6	Tatpurusha
+6	mAhAtmya	_	_	7	Tatpurusha
+7	varRanam	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	BU	_	_	2	Tatpurusha
+2	parigraha	_	_	3	Tatpurusha
+3	viDAnam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	trE	_	_	2	Tatpurusha
+2	lokya	_	_	3	Tatpurusha
+3	mohanam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	maDya	_	_	2	Tatpurusha
+2	deSa	_	_	3	Bahuvrihi
+3	Adi	_	_	4	Tatpurusha
+4	samBavaH	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	kacCa	_	_	2	Tatpurusha
+2	deSa	_	_	3	Tatpurusha
+3	samBUtaH	_	_	7	Comp_root
+4	kAverI	_	_	5	Dvandva
+5	koNkaRa	_	_	6	Tatpurusha
+6	udgataH	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	kAmarUpa	_	_	2	Dvandva
+2	kaliNga	_	_	3	Tatpurusha
+3	utTaH	_	_	7	Comp_root
+4	kAYcI	_	_	6	Dvandva
+5	kASmIra	_	_	6	Dvandva
+6	koSalaH	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	AkASa	_	_	5	Dvandva
+2	vAyu	_	_	5	Dvandva
+3	tejas	_	_	5	Dvandva
+4	ambu	_	_	5	Dvandva
+5	BUH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	sarva	_	_	2	Tatpurusha
+2	lakzaRa	_	_	3	Tatpurusha
+3	hInaH	_	_	7	Comp_root
+4	tantra	_	_	5	Tatpurusha
+5	pAra	_	_	6	Tatpurusha
+6	gaH	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	pitf	_	_	3	Bahuvrihi
+2	dEtya	_	_	3	Bahuvrihi
+3	Adikasya	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	prAkAra	_	_	2	Tatpurusha
+2	sImA	_	_	3	Tatpurusha
+3	paryyantam	_	_	6	Comp_root
+4	BUta	_	_	5	Tatpurusha
+5	balim	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	catur	_	_	2	Tatpurusha
+2	aNgula	_	_	3	Tatpurusha
+3	saMyuktaH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	arGya	_	_	2	Tatpurusha
+2	dAna	_	_	3	Tatpurusha
+3	viDAnam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	mahat	_	_	2	Tatpurusha
+2	BUtam	_	_	7	Comp_root
+3	sarvva	_	_	4	Tatpurusha
+4	BUta	_	_	6	Tatpurusha
+5	Bayam	_	_	6	Tatpurusha
+6	karam	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	catuHzazwi	_	_	2	Tatpurusha
+2	pade	_	_	6	Comp_root
+3	koRa	_	_	4	Tatpurusha
+4	ardDa	_	_	5	Tatpurusha
+5	saMsTitam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	eka	_	_	2	Tatpurusha
+2	kozWa	_	_	3	Tatpurusha
+3	sTam	_	_	6	Comp_root
+4	sarvva	_	_	5	Tatpurusha
+5	raktEH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	ardDa	_	_	2	Tatpurusha
+2	pada	_	_	3	Tatpurusha
+3	gam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	SAkuna	_	_	2	Tatpurusha
+2	mAMsena	_	_	7	Comp_root
+3	koRa	_	_	4	Tatpurusha
+4	ardDa	_	_	5	Tatpurusha
+5	pada	_	_	6	Tatpurusha
+6	saMsTitam	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	pada	_	_	2	Tatpurusha
+2	ardDa	_	_	3	Tatpurusha
+3	sTam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	pUrva	_	_	2	Tatpurusha
+2	kozWa	_	_	3	Tatpurusha
+3	catuzwaye	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	pitta	_	_	3	Dvandva
+2	asfk	_	_	3	Dvandva
+3	asTiBiH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	arGya	_	_	2	Tatpurusha
+2	dAnam	_	_	6	Comp_root
+3	go	_	_	5	Bahuvrihi
+4	vastra	_	_	5	Bahuvrihi
+5	AdIn	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	mahat	_	_	2	Tatpurusha
+2	purARe	_	_	6	Comp_root
+3	arGya	_	_	4	Tatpurusha
+4	dAna	_	_	5	Tatpurusha
+5	kaTanam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	nf	_	_	2	Tatpurusha
+2	pa	_	_	3	Tatpurusha
+3	SArdUla	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	vijYAta	_	_	4	Bahuvrihi
+2	tattva	_	_	4	Dvandva
+3	sat	_	_	4	Tatpurusha
+4	BAvaH	_	_	7	Comp_root
+5	BU	_	_	6	Tatpurusha
+6	pate	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	na	_	_	2	Bahuvrihi
+2	Seza	_	_	3	Tatpurusha
+3	vijYAnaM	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	avApta	_	_	3	Bahuvrihi
+2	jYAna	_	_	3	Tatpurusha
+3	tantrasya	_	_	6	Comp_root
+4	advEta	_	_	5	Tatpurusha
+5	vAsanA	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	ramya	_	_	2	Tatpurusha
+2	upavana	_	_	3	Tatpurusha
+3	paryante	_	_	6	Comp_root
+4	pArTiva	_	_	5	Tatpurusha
+5	uttama	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	vESvadeva	_	_	2	Tatpurusha
+2	ante	_	_	6	Comp_root
+3	dvAra	_	_	4	Tatpurusha
+4	Alokana	_	_	5	Tatpurusha
+5	gocare	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	pra	_	_	2	Tatpurusha
+2	kzAlita	_	_	4	Bahuvrihi
+3	aNGri	_	_	4	Dvandva
+4	pARiM	_	_	8	Comp_root
+5	kfta	_	_	7	Bahuvrihi
+6	Asana	_	_	7	Tatpurusha
+7	parigraham	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	dvi	_	_	2	Tatpurusha
+2	ja	_	_	3	Tatpurusha
+3	SrezWaH	_	_	6	Comp_root
+4	sa	_	_	5	Bahuvrihi
+5	Adaram	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	saktu	_	_	3	Dvandva
+2	yAvaka	_	_	3	Dvandva
+3	vAwyAnAm	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	dvi	_	_	2	Tatpurusha
+2	ja	_	_	3	Tatpurusha
+3	SrezWa	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	saMyAva	_	_	2	Dvandva
+2	pAyasa	_	_	3	Bahuvrihi
+3	AdIni	_	_	6	Comp_root
+4	drapsa	_	_	5	Tatpurusha
+5	PARitavanti	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	kzut	_	_	2	Dvandva
+2	tfzRe	_	_	8	Comp_root
+3	deha	_	_	4	Tatpurusha
+4	Darma	_	_	5	Bahuvrihi
+5	AKye	_	_	8	Comp_root
+6	dvi	_	_	7	Tatpurusha
+7	ja	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	kzut	_	_	2	Tatpurusha
+2	samBava	_	_	4	Tatpurusha
+3	na	_	_	4	Tatpurusha
+4	BAvAt	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	eka	_	_	2	Tatpurusha
+2	deSa	_	_	3	Bahuvrihi
+3	niketanaH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	dvi	_	_	2	Tatpurusha
+2	ja	_	_	3	Tatpurusha
+3	sattama	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	na	_	_	2	Tatpurusha
+2	svAdu	_	_	6	Comp_root
+3	dvi	_	_	4	Tatpurusha
+4	ja	_	_	5	Tatpurusha
+5	uttama	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	Adi	_	_	3	Dvandva
+2	maDya	_	_	3	Dvandva
+3	avasAnezu	_	_	6	Comp_root
+4	ruci	_	_	5	Tatpurusha
+5	kArakam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	yava	_	_	3	Dvandva
+2	goDUma	_	_	3	Dvandva
+3	mudga	_	_	4	Bahuvrihi
+4	Adi	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	mfzwa	_	_	3	Dvandva
+2	na	_	_	3	Tatpurusha
+3	mfzwa	_	_	4	Tatpurusha
+4	vicAri	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	parama	_	_	2	Tatpurusha
+2	arTa	_	_	3	Tatpurusha
+3	ASritaM	_	_	6	Comp_root
+4	nf	_	_	5	Tatpurusha
+5	pa	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	asmad	_	_	2	Tatpurusha
+2	hita	_	_	3	Tatpurusha
+3	arTAya	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	muni	_	_	2	Tatpurusha
+2	varaM	_	_	7	Comp_root
+3	kfta	_	_	6	Bahuvrihi
+4	pOrva	_	_	5	Tatpurusha
+5	Ahnika	_	_	6	Tatpurusha
+6	kriyam	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	pra	_	_	3	Tatpurusha
+2	ni	_	_	3	Tatpurusha
+3	patya	_	_	6	Comp_root
+4	aBi	_	_	5	Tatpurusha
+5	vAdya	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	tvat	_	_	2	Tatpurusha
+2	prasAdAt	_	_	8	Comp_root
+3	muni	_	_	4	Tatpurusha
+4	Srezwa	_	_	8	Comp_root
+5	a	_	_	6	Tatpurusha
+6	kfta	_	_	7	Bahuvrihi
+7	Sramam	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	deva	_	_	3	Dvandva
+2	fzi	_	_	3	Dvandva
+3	pArTivAnAM	_	_	6	Comp_root
+4	mahat	_	_	5	Tatpurusha
+5	mune	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	sva	_	_	2	Tatpurusha
+2	kfta	_	_	3	Tatpurusha
+3	Buk	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	svarga	_	_	2	Dvandva
+2	apavarga	_	_	3	Tatpurusha
+3	vyAseDa	_	_	4	Tatpurusha
+4	kAraRaM	_	_	7	Comp_root
+5	parama	_	_	6	Tatpurusha
+6	fzayaH	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	tat	_	_	2	Tatpurusha
+2	vAkya	_	_	3	Tatpurusha
+3	gOravAt	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	purARa	_	_	2	Tatpurusha
+2	saMhitA	_	_	3	Tatpurusha
+3	kartA	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	sTiti	_	_	2	Dvandva
+2	saMyama	_	_	3	Tatpurusha
+3	kartA	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	parama	_	_	2	Tatpurusha
+2	arTa	_	_	3	Tatpurusha
+3	samanvitam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	parama	_	_	2	Tatpurusha
+2	arTa	_	_	3	Tatpurusha
+3	jYa	_	_	6	Comp_root
+4	Srotra	_	_	5	Tatpurusha
+5	paTaM	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	parama	_	_	2	Tatpurusha
+2	arTa	_	_	3	Tatpurusha
+3	arTitAM	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	parama	_	_	2	Tatpurusha
+2	arTa	_	_	3	Tatpurusha
+3	arTaM	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	jagat	_	_	2	Tatpurusha
+2	moha	_	_	3	Tatpurusha
+3	nASAya	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	na	_	_	2	Bahuvrihi
+2	Kila	_	_	3	Tatpurusha
+3	vijYAna	_	_	4	Tatpurusha
+4	jala	_	_	5	Tatpurusha
+5	vIci	_	_	6	Tatpurusha
+6	udaDiH	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	na	_	_	3	Tatpurusha
+2	parama	_	_	3	Tatpurusha
+3	arTAni	_	_	6	Comp_root
+4	na	_	_	5	Bahuvrihi
+5	SezARi	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	yajYa	_	_	2	Bahuvrihi
+2	AtmakaM	_	_	6	Comp_root
+3	tad	_	_	4	Tatpurusha
+4	prApti	_	_	5	Bahuvrihi
+5	lakzaRam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	kAma	_	_	2	Tatpurusha
+2	prApti	_	_	3	Bahuvrihi
+3	upalakzaRaH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	parama	_	_	2	Tatpurusha
+2	arTa	_	_	3	Tatpurusha
+3	BUtaH	_	_	6	Comp_root
+4	parama	_	_	5	Tatpurusha
+5	arTaH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	rAjya	_	_	2	Bahuvrihi
+2	Adi	_	_	3	Tatpurusha
+3	prAptiH	_	_	6	Comp_root
+4	parama	_	_	5	Tatpurusha
+5	arTatayA	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	fk	_	_	3	Dvandva
+2	yajuH	_	_	3	Dvandva
+3	sAma	_	_	4	Tatpurusha
+4	nizpAdyaM	_	_	7	Comp_root
+5	yajYa	_	_	6	Tatpurusha
+6	karma	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	parama	_	_	2	Tatpurusha
+2	arTa	_	_	3	Tatpurusha
+3	BUtaM	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	samit	_	_	3	Dvandva
+2	Ajya	_	_	3	Dvandva
+3	kuSa	_	_	4	Bahuvrihi
+4	AdiBiH	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	nASi	_	_	2	Tatpurusha
+2	dravya	_	_	4	Tatpurusha
+3	upa	_	_	4	Tatpurusha
+4	pAditam	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	na	_	_	2	Tatpurusha
+2	Pala	_	_	3	Tatpurusha
+3	daM	_	_	6	Comp_root
+4	parama	_	_	5	Tatpurusha
+5	arTaH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	mukti	_	_	2	Tatpurusha
+2	sADana	_	_	3	Tatpurusha
+3	BUtatvAt	_	_	6	Comp_root
+4	parama	_	_	5	Tatpurusha
+5	arTaH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	parama	_	_	2	Tatpurusha
+2	arTa	_	_	3	Tatpurusha
+3	arTa	_	_	4	Tatpurusha
+4	Sabditam	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	janman	_	_	2	Dvandva
+2	vfdDi	_	_	3	Bahuvrihi
+3	Adi	_	_	4	Tatpurusha
+4	rahitaH	_	_	9	Comp_root
+5	sarva	_	_	6	Tatpurusha
+6	gataH	_	_	9	Comp_root
+7	na	_	_	8	Tatpurusha
+8	vyayaH	_	_	9	Comp_root
+9	DUMMY	CompNo	_	0	root
+
+1	para	_	_	2	Tatpurusha
+2	jYAna	_	_	6	Comp_root
+3	nAma	_	_	4	Dvandva
+4	jAti	_	_	5	Bahuvrihi
+5	AdiBiH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	Atman	_	_	2	Dvandva
+2	para	_	_	3	Tatpurusha
+3	dehezu	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	parama	_	_	2	Tatpurusha
+2	arTaH	_	_	6	Comp_root
+3	na	_	_	4	Tatpurusha
+4	taTya	_	_	5	Tatpurusha
+5	darSinaH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	veRu	_	_	2	Tatpurusha
+2	ranDra	_	_	3	Tatpurusha
+3	praBedena	_	_	7	Comp_root
+4	zaqja	_	_	5	Bahuvrihi
+5	Adi	_	_	6	Bahuvrihi
+6	saMjYitaH	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	na	_	_	2	Tatpurusha
+2	Beda	_	_	3	Tatpurusha
+3	vyApinaH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	eka	_	_	2	Tatpurusha
+2	svarUpa	_	_	3	Tatpurusha
+3	BedaH	_	_	8	Comp_root
+4	brAhma	_	_	5	Tatpurusha
+5	karma	_	_	6	Tatpurusha
+6	Avfti	_	_	7	Bahuvrihi
+7	prajaH	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	deva	_	_	2	Bahuvrihi
+2	Adi	_	_	3	Tatpurusha
+3	Bede	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	eka	_	_	2	Tatpurusha
+2	rUpa	_	_	3	Bahuvrihi
+3	rUpa	_	_	6	Comp_root
+4	sarva	_	_	5	Tatpurusha
+5	jizRave	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	sarga	_	_	3	Dvandva
+2	sTiti	_	_	3	Dvandva
+3	anta	_	_	4	Tatpurusha
+4	kAriRe	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	eka	_	_	2	Tatpurusha
+2	aneka	_	_	3	Bahuvrihi
+3	svarUpAya	_	_	7	Comp_root
+4	sTUla	_	_	5	Dvandva
+5	sUkzma	_	_	6	Bahuvrihi
+6	Atmane	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	avyakta	_	_	2	Dvandva
+2	vyakta	_	_	3	Bahuvrihi
+3	rUpAya	_	_	6	Comp_root
+4	mukti	_	_	5	Tatpurusha
+5	hetave	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	sarga	_	_	3	Dvandva
+2	sTiti	_	_	3	Dvandva
+3	vinASAnAM	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	sarva	_	_	2	Tatpurusha
+2	BUta	_	_	3	Tatpurusha
+3	sTam	_	_	5	Tatpurusha
+4	a	_	_	7	Tatpurusha
+5	cyutaM	_	_	8	Comp_root
+6	puruza	_	_	7	Tatpurusha
+7	uttamam	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	rUpa	_	_	2	Dvandva
+2	varRa	_	_	3	Bahuvrihi
+3	Adi	_	_	5	Dvandva
+4	nirdeSa	_	_	5	Dvandva
+5	viSezaRa	_	_	6	Tatpurusha
+6	vivarjitaH	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	apakzaya	_	_	2	Dvandva
+2	vinASAByAM	_	_	6	Comp_root
+3	pariRAma	_	_	5	Dvandva
+4	fdDi	_	_	5	Dvandva
+5	janmaBiH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	vyakta	_	_	2	Dvandva
+2	avyakta	_	_	3	Tatpurusha
+3	svarUpa	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	praDAna	_	_	4	Dvandva
+2	puruza	_	_	4	Dvandva
+3	avyakta	_	_	4	Dvandva
+4	kAlAnAM	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	praDAna	_	_	4	Dvandva
+2	puruza	_	_	4	Dvandva
+3	vyakta	_	_	4	Dvandva
+4	kAlAH	_	_	7	Comp_root
+5	pra	_	_	6	Tatpurusha
+6	viBAgaSaH	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	sTiti	_	_	3	Dvandva
+2	sarga	_	_	3	Dvandva
+3	anta	_	_	6	Tatpurusha
+4	vyakti	_	_	5	Dvandva
+5	sadBAva	_	_	6	Tatpurusha
+6	hetavaH	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	sat	_	_	2	Dvandva
+2	asat	_	_	4	Bahuvrihi
+3	Atma	_	_	4	Bahuvrihi
+4	ka	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	Sabda	_	_	2	Dvandva
+2	sparSa	_	_	3	Tatpurusha
+3	vihInaM	_	_	8	Comp_root
+4	rUpa	_	_	5	Bahuvrihi
+5	AdiBiH	_	_	8	Comp_root
+6	a	_	_	7	Tatpurusha
+7	saMhitam	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	tri	_	_	2	Bahuvrihi
+2	guRaM	_	_	9	Comp_root
+3	jagat	_	_	4	Tatpurusha
+4	yoniH	_	_	9	Comp_root
+5	an	_	_	8	Bahuvrihi
+6	Adi	_	_	8	Dvandva
+7	praBava	_	_	8	Dvandva
+8	avyaya	_	_	9	Comp_root
+9	DUMMY	CompNo	_	0	root
+
+1	Srotra	_	_	2	Bahuvrihi
+2	Adi	_	_	3	Dvandva
+3	budDi	_	_	6	Comp_root
+4	na	_	_	5	Tatpurusha
+5	upalaByam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	a	_	_	2	Tatpurusha
+2	vyucCinnaH	_	_	7	Comp_root
+3	sarga	_	_	6	Dvandva
+4	sTitya	_	_	6	Dvandva
+5	anta	_	_	6	Dvandva
+6	saMyamAH	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	sarva	_	_	2	Tatpurusha
+2	ISa	_	_	10	Comp_root
+3	sarva	_	_	4	Tatpurusha
+4	BUta	_	_	5	Tatpurusha
+5	Atman	_	_	10	Comp_root
+6	sarva	_	_	7	Tatpurusha
+7	ASraya	_	_	10	Comp_root
+8	na	_	_	9	Bahuvrihi
+9	cyuta	_	_	10	Comp_root
+10	DUMMY	CompNo	_	0	root
+
+1	vikAsa	_	_	2	Dvandva
+2	aRu	_	_	3	Tatpurusha
+3	svarUpEH	_	_	7	Comp_root
+4	brahma	_	_	5	Tatpurusha
+5	rUpa	_	_	6	Bahuvrihi
+6	AdiBiH	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	visarga	_	_	4	Dvandva
+2	Silpa	_	_	4	Dvandva
+3	gati	_	_	4	Dvandva
+4	ukti	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	AkASa	_	_	3	Dvandva
+2	vAyu	_	_	3	Dvandva
+3	tejAMsi	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	eka	_	_	2	Tatpurusha
+2	saNGAta	_	_	3	Bahuvrihi
+3	lakzyAH	_	_	6	Comp_root
+4	a	_	_	5	Bahuvrihi
+5	SezataH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	a	_	_	2	Tatpurusha
+2	vyakta	_	_	3	Bahuvrihi
+3	svarUpaH	_	_	8	Comp_root
+4	vyakta	_	_	5	Bahuvrihi
+5	rUpaH	_	_	8	Comp_root
+6	jagat	_	_	7	Tatpurusha
+7	patiH	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	garBa	_	_	2	Tatpurusha
+2	udakaM	_	_	6	Comp_root
+3	su	_	_	5	Bahuvrihi
+4	mahat	_	_	5	Bahuvrihi
+5	AtmanaH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	sa	_	_	4	Bahuvrihi
+2	deva	_	_	4	Dvandva
+3	asura	_	_	4	Dvandva
+4	mAnuzAH	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	vAri	_	_	4	Dvandva
+2	vahni	_	_	4	Dvandva
+3	anila	_	_	4	Dvandva
+4	AkASEH	_	_	7	Comp_root
+5	BUta	_	_	6	Tatpurusha
+6	AdinA	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	sattva	_	_	2	Tatpurusha
+2	Bft	_	_	6	Comp_root
+3	a	_	_	4	Bahuvrihi
+4	prameya	_	_	5	Bahuvrihi
+5	parAkramaH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	a	_	_	2	Bahuvrihi
+2	Kila	_	_	3	Tatpurusha
+3	BUtAni	_	_	6	Comp_root
+4	ati	_	_	5	Tatpurusha
+5	dAruRaH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	eka	_	_	2	Tatpurusha
+2	arRavII	_	_	3	Tatpurusha
+3	kfte	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	nAga	_	_	2	Tatpurusha
+2	paryaNka	_	_	3	Tatpurusha
+3	Sayane	_	_	6	Comp_root
+4	parama	_	_	5	Tatpurusha
+5	ISvaraH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	brahma	_	_	2	Tatpurusha
+2	rUpa	_	_	3	Tatpurusha
+3	Dfk	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	sfzwi	_	_	3	Dvandva
+2	sTiti	_	_	3	Dvandva
+3	anta	_	_	4	Tatpurusha
+4	kArin	_	_	10	Comp_root
+5	brahman	_	_	7	Dvandva
+6	vizRu	_	_	7	Dvandva
+7	Siva	_	_	9	Bahuvrihi
+8	Atmi	_	_	9	Bahuvrihi
+9	kA	_	_	10	Comp_root
+10	DUMMY	CompNo	_	0	root
+
+1	sarva	_	_	2	Tatpurusha
+2	BUta	_	_	3	Tatpurusha
+3	AtmA	_	_	8	Comp_root
+4	viSva	_	_	5	Bahuvrihi
+5	rUpaH	_	_	8	Comp_root
+6	na	_	_	7	Bahuvrihi
+7	vyayaH	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	brahmA	_	_	2	Bahuvrihi
+2	Adi	_	_	3	Tatpurusha
+3	avasTABiH	_	_	9	Comp_root
+4	na	_	_	5	Bahuvrihi
+5	Seza	_	_	6	Bahuvrihi
+6	mUrtiH	_	_	9	Comp_root
+7	vara	_	_	8	Tatpurusha
+8	daH	_	_	9	Comp_root
+9	DUMMY	CompNo	_	0	root
+
+1	nidAGa	_	_	3	Tatpurusha
+2	jYAna	_	_	3	Tatpurusha
+3	dAnAya	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	mahat	_	_	2	Tatpurusha
+2	bala	_	_	3	Bahuvrihi
+3	parIvAre	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	mahat	_	_	2	Bahuvrihi
+2	BAgaM	_	_	6	Comp_root
+3	jana	_	_	4	Tatpurusha
+4	sammarda	_	_	5	Tatpurusha
+5	varjakam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	kzut	_	_	2	Dvandva
+2	kzAma	_	_	3	Bahuvrihi
+3	kaRWam	_	_	7	Comp_root
+4	sa	_	_	6	Bahuvrihi
+5	samit	_	_	6	Dvandva
+6	kuSam	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	dvi	_	_	2	Tatpurusha
+2	ja	_	_	3	Tatpurusha
+3	SrezWa	_	_	6	Comp_root
+4	aBi	_	_	5	Tatpurusha
+5	jYaH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	gaja	_	_	2	Tatpurusha
+2	indram	_	_	6	Comp_root
+3	adri	_	_	4	Tatpurusha
+4	SfNga	_	_	5	Tatpurusha
+5	samucCritam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	pfTak	_	_	2	Tatpurusha
+2	cihna	_	_	3	Bahuvrihi
+3	upalakzaRO	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	vAhya	_	_	2	Dvandva
+2	vAhaka	_	_	3	Tatpurusha
+3	sambanDaM	_	_	6	Comp_root
+4	dvi	_	_	5	Tatpurusha
+5	ja	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	aDas	_	_	2	Tatpurusha
+2	Sabda	_	_	3	Tatpurusha
+3	nigadyaM	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	dvi	_	_	2	Tatpurusha
+2	ja	_	_	3	Tatpurusha
+3	SrezWa	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	advEta	_	_	2	Tatpurusha
+2	saMskAra	_	_	3	Tatpurusha
+3	saMskftaM	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	parama	_	_	2	Tatpurusha
+2	arTa	_	_	3	Tatpurusha
+3	sAra	_	_	4	Tatpurusha
+4	BUtaM	_	_	7	Comp_root
+5	na	_	_	6	Tatpurusha
+6	SezataH	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	Darma	_	_	2	Tatpurusha
+2	jYa	_	_	7	Comp_root
+3	tulya	_	_	6	Bahuvrihi
+4	Atman	_	_	6	Dvandva
+5	ripu	_	_	6	Dvandva
+6	bAnDavaH	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	sita	_	_	2	Dvandva
+2	nIla	_	_	3	Bahuvrihi
+3	Adi	_	_	4	Tatpurusha
+4	Bedena	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	rAjan	_	_	2	Tatpurusha
+2	varyaH	_	_	6	Comp_root
+3	parama	_	_	4	Tatpurusha
+4	arTa	_	_	5	Bahuvrihi
+5	dfzwiH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	jAti	_	_	2	Tatpurusha
+2	smaraRa	_	_	3	Tatpurusha
+3	Apta	_	_	4	Bahuvrihi
+4	boDaH	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	Barata	_	_	3	Tatpurusha
+2	nara	_	_	3	Tatpurusha
+3	indra	_	_	5	Tatpurusha
+4	sAra	_	_	5	Tatpurusha
+5	vfttaM	_	_	8	Comp_root
+6	Bakti	_	_	7	Tatpurusha
+7	yuktaH	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	nir	_	_	2	Bahuvrihi
+2	guRasya	_	_	8	Comp_root
+3	a	_	_	4	Bahuvrihi
+4	prameyasya	_	_	8	Comp_root
+5	na	_	_	6	Bahuvrihi
+6	mala	_	_	7	Bahuvrihi
+7	AtmanaH	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	sarga	_	_	2	Bahuvrihi
+2	Adi	_	_	3	Tatpurusha
+3	kartftvaM	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	sarva	_	_	2	Tatpurusha
+2	BAvAnAm	_	_	7	Comp_root
+3	a	_	_	4	Tatpurusha
+4	cintya	_	_	5	Tatpurusha
+5	jYAna	_	_	6	Tatpurusha
+6	gocarAH	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	BU	_	_	4	Dvandva
+2	BU	_	_	3	Tatpurusha
+3	Bft	_	_	4	Dvandva
+4	sAgara	_	_	5	Bahuvrihi
+5	AdInAm	_	_	6	Bahuvrihi
+6	na	_	_	7	Bahuvrihi
+7	SezARAM	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	sanDyA	_	_	3	Dvandva
+2	sanDyA	_	_	3	Tatpurusha
+3	aMSayoH	_	_	6	Comp_root
+4	muni	_	_	5	Tatpurusha
+5	sattama	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	catur	_	_	2	Dvandva
+2	daSa	_	_	3	Bahuvrihi
+3	guRaH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	tri	_	_	2	Tatpurusha
+2	lokyaM	_	_	7	Comp_root
+3	BUr	_	_	4	Dvandva
+4	Buva	_	_	6	Bahuvrihi
+5	Adi	_	_	6	Bahuvrihi
+6	kam	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	tApa	_	_	2	Tatpurusha
+2	ArtAH	_	_	6	Comp_root
+3	mahar	_	_	5	Tatpurusha
+4	loka	_	_	5	Tatpurusha
+5	nivAsinaH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	eka	_	_	2	Tatpurusha
+2	arRave	_	_	8	Comp_root
+3	tri	_	_	4	Tatpurusha
+4	lokye	_	_	8	Comp_root
+5	nArAyaRa	_	_	7	Bahuvrihi
+6	Atma	_	_	7	Bahuvrihi
+7	ka	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	Bogi	_	_	2	Tatpurusha
+2	SayyAM	_	_	7	Comp_root
+3	tri	_	_	4	Tatpurusha
+4	loka	_	_	5	Tatpurusha
+5	grAsa	_	_	6	Tatpurusha
+6	bfMhitaH	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	tad	_	_	2	Tatpurusha
+2	SarIra	_	_	3	Tatpurusha
+3	samutpannEH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	deva	_	_	2	Bahuvrihi
+2	AdyAH	_	_	8	Comp_root
+3	sTAvara	_	_	4	Bahuvrihi
+4	antAH	_	_	8	Comp_root
+5	tri	_	_	6	Tatpurusha
+6	guRya	_	_	7	Tatpurusha
+7	vizaye	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	tri	_	_	2	Tatpurusha
+2	lokya	_	_	3	Tatpurusha
+3	dahana	_	_	4	Tatpurusha
+4	kzamaH	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	samudBUta	_	_	3	Tatpurusha
+2	jvAlA	_	_	3	Tatpurusha
+3	mAlA	_	_	5	Tatpurusha
+4	ati	_	_	5	Tatpurusha
+5	dIpitam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	maDyAhna	_	_	2	Tatpurusha
+2	arka	_	_	4	Bahuvrihi
+3	sama	_	_	4	Bahuvrihi
+4	praBaH	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	arDa	_	_	3	Tatpurusha
+2	nArI	_	_	3	Dvandva
+3	nara	_	_	4	Bahuvrihi
+4	vapuH	_	_	9	Comp_root
+5	pra	_	_	6	Tatpurusha
+6	caRqaH	_	_	9	Comp_root
+7	ati	_	_	8	Tatpurusha
+8	SarIravAn	_	_	9	Comp_root
+9	DUMMY	CompNo	_	0	root
+
+1	sOmya	_	_	3	Dvandva
+2	na	_	_	3	Tatpurusha
+3	sOmyEH	_	_	7	Comp_root
+4	SAnta	_	_	6	Dvandva
+5	na	_	_	6	Tatpurusha
+6	SAntEH	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	tapas	_	_	2	Tatpurusha
+2	nirDUta	_	_	3	Bahuvrihi
+3	kalmazAm	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	priyavrata	_	_	2	Dvandva
+2	uttAnapAdO	_	_	6	Comp_root
+3	prasUti	_	_	4	Dvandva
+4	AkUti	_	_	5	Bahuvrihi
+5	saYjYitam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	kanyA	_	_	2	Tatpurusha
+2	dvayaM	_	_	9	Comp_root
+3	Darma	_	_	4	Tatpurusha
+4	jYa	_	_	9	Comp_root
+5	rUpa	_	_	7	Dvandva
+6	OdArya	_	_	7	Dvandva
+7	guRa	_	_	8	Tatpurusha
+8	anvitam	_	_	9	Comp_root
+9	DUMMY	CompNo	_	0	root
+
+1	vyADi	_	_	5	Dvandva
+2	jarA	_	_	5	Dvandva
+3	Soka	_	_	5	Dvandva
+4	tfzRA	_	_	5	Dvandva
+5	kroDAH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	duHKa	_	_	2	Bahuvrihi
+2	uttarAH	_	_	6	Comp_root
+3	na	_	_	4	Tatpurusha
+4	Darma	_	_	5	Bahuvrihi
+5	lakzaRAH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	muni	_	_	2	Tatpurusha
+2	vara	_	_	4	Tatpurusha
+3	Atman	_	_	4	Tatpurusha
+4	ja	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	sat	_	_	2	Tatpurusha
+2	mArga	_	_	3	Tatpurusha
+3	niratAH	_	_	6	Comp_root
+4	sTiti	_	_	5	Tatpurusha
+5	kAriRaH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	sarga	_	_	3	Dvandva
+2	sTiti	_	_	3	Dvandva
+3	vinASAn	_	_	6	Comp_root
+4	maDu	_	_	5	Tatpurusha
+5	sUdanaH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	na	_	_	2	Tatpurusha
+2	cintya	_	_	3	Bahuvrihi
+3	AtmA	_	_	6	Comp_root
+4	na	_	_	5	Tatpurusha
+5	vyAhataH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	utpatti	_	_	3	Dvandva
+2	sTiti	_	_	3	Dvandva
+3	saMyamAn	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	sfzwi	_	_	3	Dvandva
+2	sTiti	_	_	3	Dvandva
+3	vinASAnAM	_	_	6	Comp_root
+4	sarva	_	_	5	Tatpurusha
+5	dehizu	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	BU	_	_	2	Dvandva
+2	samudra	_	_	3	Bahuvrihi
+3	Adi	_	_	4	Tatpurusha
+4	saritAM	_	_	7	Comp_root
+5	graha	_	_	6	Tatpurusha
+6	saMsTitiH	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	puRya	_	_	2	Tatpurusha
+2	deSa	_	_	3	Tatpurusha
+3	praBAvena	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	su	_	_	3	Bahuvrihi
+2	mahat	_	_	3	Bahuvrihi
+3	AtmanA	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	mahat	_	_	2	Bahuvrihi
+2	BAgaH	_	_	6	Comp_root
+3	Bagavat	_	_	4	Tatpurusha
+4	nyasta	_	_	5	Bahuvrihi
+5	mAnasaH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	na	_	_	2	Tatpurusha
+2	hiMsA	_	_	3	Bahuvrihi
+3	Adizu	_	_	6	Comp_root
+4	na	_	_	5	Bahuvrihi
+5	Sezezu	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	samit	_	_	3	Dvandva
+2	puzpa	_	_	3	Dvandva
+3	kuSa	_	_	4	Bahuvrihi
+4	AdInAM	_	_	8	Comp_root
+5	deva	_	_	6	Tatpurusha
+6	kriyA	_	_	7	Tatpurusha
+7	kfte	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	su	_	_	2	Tatpurusha
+2	mahAn	_	_	7	Comp_root
+3	sarva	_	_	4	Tatpurusha
+4	prARi	_	_	6	Tatpurusha
+5	BayaM	_	_	6	Tatpurusha
+6	karaH	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	nimna	_	_	2	Tatpurusha
+2	gA	_	_	3	Tatpurusha
+3	tawam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	vIci	_	_	2	Tatpurusha
+2	mAlA	_	_	3	Tatpurusha
+3	pariplutam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	garBa	_	_	2	Tatpurusha
+2	pracyuti	_	_	3	Tatpurusha
+3	dozeRa	_	_	6	Comp_root
+4	prattuNga	_	_	5	Tatpurusha
+5	AkramaRena	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	nf	_	_	2	Tatpurusha
+2	pa	_	_	3	Tatpurusha
+3	tApasaH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	dUra	_	_	2	Dvandva
+2	samIpa	_	_	3	Tatpurusha
+3	parivartini	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	vi	_	_	2	Tatpurusha
+2	mukta	_	_	4	Bahuvrihi
+3	rAjya	_	_	4	Dvandva
+4	tanayaH	_	_	10	Comp_root
+5	pra	_	_	6	Tatpurusha
+6	ujJita	_	_	9	Bahuvrihi
+7	na	_	_	8	Tatpurusha
+8	Seza	_	_	9	Tatpurusha
+9	bAnDavaH	_	_	10	Comp_root
+10	DUMMY	CompNo	_	0	root
+
+1	Kura	_	_	2	Tatpurusha
+2	agra	_	_	3	Tatpurusha
+3	kzata	_	_	4	Bahuvrihi
+4	karburA	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	lUna	_	_	2	Tatpurusha
+2	SiKAH	_	_	6	Comp_root
+3	na	_	_	4	Tatpurusha
+4	cira	_	_	5	Avyayibhava
+5	udgatEH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	prIti	_	_	2	Tatpurusha
+2	prasanna	_	_	3	Bahuvrihi
+3	vadanaH	_	_	6	Comp_root
+4	pArSva	_	_	5	Tatpurusha
+5	sTe	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	saMtyakta	_	_	6	Bahuvrihi
+2	rAjya	_	_	6	Dvandva
+3	Boga	_	_	6	Dvandva
+4	fdDi	_	_	6	Dvandva
+5	sva	_	_	6	Tatpurusha
+6	janasya	_	_	9	Comp_root
+7	BU	_	_	8	Tatpurusha
+8	pateH	_	_	9	Comp_root
+9	DUMMY	CompNo	_	0	root
+
+1	tat	_	_	2	Tatpurusha
+2	kAla	_	_	3	Tatpurusha
+3	kftAM	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	jAti	_	_	2	Tatpurusha
+2	smaratvAt	_	_	6	Comp_root
+3	dvi	_	_	4	Tatpurusha
+4	ja	_	_	5	Tatpurusha
+5	uttama	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	mfgatva	_	_	3	Tatpurusha
+2	hetu	_	_	3	Tatpurusha
+3	BUtasya	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	sarva	_	_	2	Tatpurusha
+2	vijYAna	_	_	3	Tatpurusha
+3	saMpannaH	_	_	9	Comp_root
+4	sarva	_	_	5	Tatpurusha
+5	SAstra	_	_	6	Tatpurusha
+6	arTa	_	_	7	Tatpurusha
+7	tattva	_	_	8	Tatpurusha
+8	vit	_	_	9	Comp_root
+9	DUMMY	CompNo	_	0	root
+
+1	a	_	_	2	Tatpurusha
+2	saMskAra	_	_	3	Bahuvrihi
+3	guRaM	_	_	8	Comp_root
+4	grAmya	_	_	5	Tatpurusha
+5	vAkya	_	_	6	Tatpurusha
+6	ukti	_	_	7	Tatpurusha
+7	saMSritam	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	apaDvasta	_	_	2	Bahuvrihi
+2	vapuH	_	_	8	Comp_root
+3	malina	_	_	4	Tatpurusha
+4	ambara	_	_	5	Tatpurusha
+5	Dfk	_	_	8	Comp_root
+6	dvi	_	_	7	Tatpurusha
+7	jaH	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	klinna	_	_	3	Bahuvrihi
+2	danta	_	_	3	Tatpurusha
+3	antaraH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	hiraRya	_	_	2	Bahuvrihi
+2	garBa	_	_	3	Tatpurusha
+3	vacanaM	_	_	6	Comp_root
+4	mahat	_	_	5	Bahuvrihi
+5	matiH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	jaqa	_	_	2	Dvandva
+2	unmatta	_	_	3	Bahuvrihi
+3	AkftiM	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	kulmAza	_	_	2	Dvandva
+2	vAwI	_	_	3	Bahuvrihi
+3	Adi	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	BrAtf	_	_	3	Dvandva
+2	BrAtfvya	_	_	3	Dvandva
+3	bAnDavEH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	kzetra	_	_	2	Tatpurusha
+2	karma	_	_	3	Bahuvrihi
+3	Adi	_	_	7	Comp_root
+4	kadanna	_	_	5	Tatpurusha
+5	AhAra	_	_	6	Tatpurusha
+6	pozitaH	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	samAkza	_	_	3	Bahuvrihi
+2	pIna	_	_	3	Bahuvrihi
+3	avayavaH	_	_	6	Comp_root
+4	jaqa	_	_	5	Tatpurusha
+5	kArI	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	sarva	_	_	2	Tatpurusha
+2	loka	_	_	3	Tatpurusha
+3	upakaraRaM	_	_	6	Comp_root
+4	AhAra	_	_	5	Bahuvrihi
+5	cetanaH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	na	_	_	2	Bahuvrihi
+2	saMskAraM	_	_	6	Comp_root
+3	vipra	_	_	4	Tatpurusha
+4	Akfti	_	_	5	Tatpurusha
+5	vicezwitam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	sva	_	_	2	Tatpurusha
+2	pArzada	_	_	3	Tatpurusha
+3	yutA	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	mokza	_	_	2	Dvandva
+2	Darma	_	_	3	Tatpurusha
+3	jYaM	_	_	8	Comp_root
+4	kapila	_	_	5	Bahuvrihi
+5	AKyaM	_	_	8	Comp_root
+6	mahat	_	_	7	Tatpurusha
+7	munim	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	sarva	_	_	2	Tatpurusha
+2	jYAna	_	_	4	Tatpurusha
+3	eka	_	_	4	Tatpurusha
+4	BAjanam	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	jaNGA	_	_	2	Tatpurusha
+2	dvaya	_	_	3	Tatpurusha
+3	avasTO	_	_	6	Comp_root
+4	tat	_	_	5	Bahuvrihi
+5	ADAraM	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	guRa	_	_	2	Tatpurusha
+2	pravAha	_	_	3	Tatpurusha
+3	patitaH	_	_	6	Comp_root
+4	BUta	_	_	5	Tatpurusha
+5	vargaH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	pravfdDi	_	_	2	Dvandva
+2	upacayO	_	_	6	Comp_root
+3	na	_	_	4	Bahuvrihi
+4	Kila	_	_	5	Tatpurusha
+5	jantuzu	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	BU	_	_	6	Dvandva
+2	pAda	_	_	6	Dvandva
+3	jaMGA	_	_	6	Dvandva
+4	kawI	_	_	6	Dvandva
+5	Uru	_	_	6	Dvandva
+6	jaWara	_	_	7	Bahuvrihi
+7	Adizu	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	SEla	_	_	3	Dvandva
+2	druma	_	_	3	Dvandva
+3	gfha	_	_	4	Tatpurusha
+4	utTaH	_	_	7	Comp_root
+5	pfTivI	_	_	6	Tatpurusha
+6	saMBavaH	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	jAlma	_	_	2	Tatpurusha
+2	rUpa	_	_	3	Tatpurusha
+3	DaraH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	suKa	_	_	2	Dvandva
+2	duHKa	_	_	3	Tatpurusha
+3	upaBogO	_	_	7	Comp_root
+4	deha	_	_	5	Bahuvrihi
+5	Adi	_	_	6	Tatpurusha
+6	upapAdakO	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	Darma	_	_	2	Dvandva
+2	aDarma	_	_	3	Tatpurusha
+3	udBavO	_	_	6	Comp_root
+4	deha	_	_	5	Bahuvrihi
+5	Adim	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	upaBoga	_	_	2	Tatpurusha
+2	nimittaM	_	_	6	Comp_root
+3	deha	_	_	4	Tatpurusha
+4	antara	_	_	5	Tatpurusha
+5	AgamaH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	vAk	_	_	2	Tatpurusha
+2	nizpAdana	_	_	3	Tatpurusha
+3	hetavaH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	SiraH	_	_	2	Dvandva
+2	pARi	_	_	3	Bahuvrihi
+3	Adi	_	_	4	Bahuvrihi
+4	lakzaRaH	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	dAru	_	_	2	Tatpurusha
+2	saMGAtaH	_	_	6	Comp_root
+3	racanA	_	_	4	Tatpurusha
+4	sTiti	_	_	5	Tatpurusha
+5	saMsTitaH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	nf	_	_	2	Tatpurusha
+2	pa	_	_	3	Tatpurusha
+3	SrezWa	_	_	6	Comp_root
+4	yuzmad	_	_	5	Tatpurusha
+5	Bede	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	SarIra	_	_	2	Dvandva
+2	Akfti	_	_	3	Tatpurusha
+3	BedAH	_	_	8	Comp_root
+4	BU	_	_	5	Tatpurusha
+5	pa	_	_	8	Comp_root
+6	karman	_	_	7	Tatpurusha
+7	yonayaH	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	rAjan	_	_	2	Tatpurusha
+2	Bawa	_	_	4	Bahuvrihi
+3	Atma	_	_	4	Bahuvrihi
+4	kam	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	pariRAma	_	_	2	Bahuvrihi
+2	Adi	_	_	3	Tatpurusha
+3	saMBUtAM	_	_	6	Comp_root
+4	nf	_	_	5	Tatpurusha
+5	pa	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	pfTak	_	_	2	Tatpurusha
+2	karaRa	_	_	3	Tatpurusha
+3	nizpAdyaM	_	_	6	Comp_root
+4	nf	_	_	5	Tatpurusha
+5	pate	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	hrAsa	_	_	2	Dvandva
+2	vfdDi	_	_	3	Tatpurusha
+3	kramaH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	muni	_	_	2	Tatpurusha
+2	SrezWa	_	_	6	Comp_root
+3	vAri	_	_	4	Tatpurusha
+4	garBa	_	_	5	Bahuvrihi
+5	samudBavAH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	trayaH	_	_	2	Dvandva
+2	triMSat	_	_	3	Tatpurusha
+3	sahasrARi	_	_	7	Comp_root
+4	trayaH	_	_	5	Dvandva
+5	triMSat	_	_	6	Tatpurusha
+6	SatAni	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	kalA	_	_	2	Tatpurusha
+2	dvaya	_	_	3	Tatpurusha
+3	avaSizwaH	_	_	6	Comp_root
+4	sUrya	_	_	5	Tatpurusha
+5	maRqalam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	amA	_	_	2	Bahuvrihi
+2	AKya	_	_	3	Tatpurusha
+3	raSmO	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	paYca	_	_	2	Dvandva
+2	daSe	_	_	6	Comp_root
+3	kala	_	_	5	Bahuvrihi
+4	Atma	_	_	5	Bahuvrihi
+5	ke	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	dvi	_	_	2	Bahuvrihi
+2	kalA	_	_	3	Bahuvrihi
+3	AkAraM	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	vAyu	_	_	3	Dvandva
+2	agni	_	_	3	Dvandva
+3	dravya	_	_	5	Tatpurusha
+4	saM	_	_	5	Tatpurusha
+5	BUtaH	_	_	8	Comp_root
+6	candra	_	_	7	Tatpurusha
+7	sutasya	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	sa	_	_	3	Bahuvrihi
+2	upAsaNga	_	_	3	Dvandva
+3	patAkaH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	palAla	_	_	2	Tatpurusha
+2	DUma	_	_	3	Tatpurusha
+3	varRa	_	_	4	Bahuvrihi
+4	ABAH	_	_	9	Comp_root
+5	lAkzA	_	_	6	Tatpurusha
+6	rasa	_	_	7	Tatpurusha
+7	niBa	_	_	8	Bahuvrihi
+8	aruRAH	_	_	9	Comp_root
+9	DUMMY	CompNo	_	0	root
+
+1	graha	_	_	4	Dvandva
+2	fkza	_	_	4	Dvandva
+3	tArA	_	_	4	Dvandva
+4	DizRyAni	_	_	7	Comp_root
+5	na	_	_	6	Bahuvrihi
+6	SezataH	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	alAta	_	_	2	Tatpurusha
+2	cakravat	_	_	6	Comp_root
+3	vAta	_	_	4	Tatpurusha
+4	cakra	_	_	5	Tatpurusha
+5	IritAni	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	padma	_	_	2	Bahuvrihi
+2	AkArA	_	_	7	Comp_root
+3	parvata	_	_	4	Dvandva
+4	abDi	_	_	5	Bahuvrihi
+5	Adi	_	_	6	Tatpurusha
+6	saMyutA	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	jYAna	_	_	2	Bahuvrihi
+2	svarUpaH	_	_	8	Comp_root
+3	na	_	_	4	Bahuvrihi
+4	Seza	_	_	5	Bahuvrihi
+5	mUrttiH	_	_	8	Comp_root
+6	vastu	_	_	7	Tatpurusha
+7	BUtaH	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	SEla	_	_	3	Dvandva
+2	abDi	_	_	3	Dvandva
+3	DarA	_	_	4	Bahuvrihi
+4	Adi	_	_	5	Tatpurusha
+5	BedAn	_	_	8	Comp_root
+6	vijYAna	_	_	7	Tatpurusha
+7	vijfmBitAni	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	Adi	_	_	3	Dvandva
+2	maDya	_	_	3	Dvandva
+3	paryanta	_	_	4	Tatpurusha
+4	hInaM	_	_	8	Comp_root
+5	satata	_	_	7	Avyayibhava
+6	eka	_	_	7	Tatpurusha
+7	rUpam	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	vi	_	_	2	Bahuvrihi
+2	SudDaM	_	_	13	Comp_root
+3	vi	_	_	4	Bahuvrihi
+4	malaM	_	_	13	Comp_root
+5	vi	_	_	6	Bahuvrihi
+6	Sokam	_	_	13	Comp_root
+7	a	_	_	8	Bahuvrihi
+8	Seza	_	_	9	Tatpurusha
+9	loBa	_	_	10	Bahuvrihi
+10	Adi	_	_	11	Tatpurusha
+11	nirasta	_	_	12	Bahuvrihi
+12	saNgam	_	_	13	Comp_root
+13	DUMMY	CompNo	_	0	root
+
+1	na	_	_	2	Bahuvrihi
+2	Seza	_	_	3	Tatpurusha
+3	ftvik	_	_	6	Comp_root
+4	svarga	_	_	5	Tatpurusha
+5	mayaH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	dvi	_	_	2	Tatpurusha
+2	ja	_	_	3	Tatpurusha
+3	sattama	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	dvi	_	_	2	Tatpurusha
+2	ja	_	_	3	Tatpurusha
+3	sattama	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	pAda	_	_	3	Dvandva
+2	Uru	_	_	3	Dvandva
+3	vakzasTalataH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	cAtur	_	_	2	Tatpurusha
+2	varRya	_	_	3	Tatpurusha
+3	vyavasTitAH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	kAla	_	_	3	Bahuvrihi
+2	Atma	_	_	3	Bahuvrihi
+3	kaH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	alpa	_	_	2	Tatpurusha
+2	alpa	_	_	3	Tatpurusha
+3	sAravat	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	a	_	_	2	Tatpurusha
+2	Darma	_	_	3	Tatpurusha
+3	bIjam	_	_	7	Comp_root
+4	tamaH	_	_	5	Tatpurusha
+5	loBa	_	_	6	Tatpurusha
+6	samudBavam	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	rAga	_	_	3	Bahuvrihi
+2	Adi	_	_	3	Bahuvrihi
+3	kam	_	_	6	Comp_root
+4	a	_	_	5	Tatpurusha
+5	sADakam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	rasa	_	_	3	Bahuvrihi
+2	ullAsa	_	_	3	Bahuvrihi
+3	AdayaH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	dvandva	_	_	2	Tatpurusha
+2	aBiBava	_	_	3	Tatpurusha
+3	duHKa	_	_	4	Tatpurusha
+4	ArtAH	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	pura	_	_	2	Dvandva
+2	Karvawaka	_	_	3	Bahuvrihi
+3	Adikam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	SIta	_	_	2	Dvandva
+2	Atapa	_	_	3	Bahuvrihi
+3	Adi	_	_	4	Tatpurusha
+4	bADAnAM	_	_	9	Comp_root
+5	pra	_	_	6	Tatpurusha
+6	SamAya	_	_	9	Comp_root
+7	mahAn	_	_	8	Bahuvrihi
+8	mate	_	_	9	Comp_root
+9	DUMMY	CompNo	_	0	root
+
+1	para	_	_	2	Dvandva
+2	avara	_	_	3	Tatpurusha
+3	vidaH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	veda	_	_	2	Tatpurusha
+2	vAdAn	_	_	6	Comp_root
+3	yajYa	_	_	4	Tatpurusha
+4	karma	_	_	5	Bahuvrihi
+5	AdikaM	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	yajYa	_	_	2	Tatpurusha
+2	vyAseDa	_	_	3	Tatpurusha
+3	kAriRaH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	Darma	_	_	3	Dvandva
+2	na	_	_	3	Tatpurusha
+3	Darma	_	_	4	Tatpurusha
+4	BftAM	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	azwan	_	_	2	Tatpurusha
+2	aSIti	_	_	3	Tatpurusha
+3	sahasrARi	_	_	6	Comp_root
+4	UrDva	_	_	5	Bahuvrihi
+5	retasAm	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	na	_	_	2	Tatpurusha
+2	mftaM	_	_	7	Comp_root
+3	sva	_	_	4	Tatpurusha
+4	Atma	_	_	5	Tatpurusha
+5	santoza	_	_	6	Tatpurusha
+6	kAriRAm	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	gatvA	_	_	2	Dvandva
+2	gatvA	_	_	6	Comp_root
+3	candra	_	_	4	Dvandva
+4	sUrya	_	_	5	Bahuvrihi
+5	AdayaH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	dvA	_	_	2	Tatpurusha
+2	daSa	_	_	3	Tatpurusha
+3	akzara	_	_	4	Tatpurusha
+4	cintakAH	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	mahat	_	_	2	Tatpurusha
+2	rOrava	_	_	3	Dvandva
+3	rOravO	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	sva	_	_	2	Tatpurusha
+2	Darma	_	_	3	Tatpurusha
+3	tyAginaH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	grAmaRI	_	_	3	Dvandva
+2	sarpa	_	_	3	Dvandva
+3	rAkzasEH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	aMSu	_	_	3	Dvandva
+2	kASyapa	_	_	3	Dvandva
+3	tArkzyAH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	loka	_	_	2	Tatpurusha
+2	prakASana	_	_	3	Tatpurusha
+3	arTAya	_	_	6	Comp_root
+4	vipra	_	_	5	Tatpurusha
+5	varya	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	vizRu	_	_	2	Tatpurusha
+2	Sakti	_	_	4	Tatpurusha
+3	upa	_	_	4	Tatpurusha
+4	bfMhitAH	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	pat	_	_	3	Tatpurusha
+2	na	_	_	3	Tatpurusha
+3	gAH	_	_	6	Comp_root
+4	aBIzu	_	_	5	Tatpurusha
+5	saNgrahaH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	hima	_	_	4	Dvandva
+2	uzRa	_	_	4	Dvandva
+3	vAri	_	_	4	Dvandva
+4	vfzwInAM	_	_	7	Comp_root
+5	sva	_	_	6	Tatpurusha
+6	samayaM	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	nArAyaRa	_	_	3	Bahuvrihi
+2	Atma	_	_	3	Bahuvrihi
+3	kaH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	prajA	_	_	2	Tatpurusha
+2	pati	_	_	3	Tatpurusha
+3	patiH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	atIta	_	_	2	Tatpurusha
+2	kalpa	_	_	3	Tatpurusha
+3	avasAne	_	_	7	Comp_root
+4	niSA	_	_	5	Tatpurusha
+5	supta	_	_	6	Tatpurusha
+6	utTitaH	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	toya	_	_	3	Tatpurusha
+2	antaH	_	_	3	Tatpurusha
+3	sTAM	_	_	6	Comp_root
+4	eka	_	_	5	Tatpurusha
+5	arRavIkfte	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	matsya	_	_	2	Dvandva
+2	kUrma	_	_	4	Bahuvrihi
+3	Adi	_	_	4	Bahuvrihi
+4	kAM	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	veda	_	_	2	Dvandva
+2	yajYamayaM	_	_	6	Comp_root
+3	a	_	_	4	Bahuvrihi
+4	Seza	_	_	5	Tatpurusha
+5	jagataH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	SaNKa	_	_	3	Dvandva
+2	cakra	_	_	3	Dvandva
+3	gadA	_	_	4	Tatpurusha
+4	Daram	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	vaMSAnucarita	_	_	2	Bahuvrihi
+2	AdeH	_	_	8	Comp_root
+3	matsya	_	_	4	Dvandva
+4	kUrmma	_	_	5	Bahuvrihi
+5	Adi	_	_	6	Tatpurusha
+6	rUpa	_	_	7	Tatpurusha
+7	Dfk	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	sAma	_	_	2	Tatpurusha
+2	svara	_	_	3	Bahuvrihi
+3	DvaniH	_	_	6	Comp_root
+4	pari	_	_	5	Tatpurusha
+5	GarGaram	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	utpala	_	_	2	Tatpurusha
+2	patra	_	_	3	Bahuvrihi
+3	sanniBaH	_	_	6	Comp_root
+4	sam	_	_	5	Tatpurusha
+5	utTitaH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	jala	_	_	2	Tatpurusha
+2	Ardra	_	_	3	Bahuvrihi
+3	kukzeH	_	_	4	Bahuvrihi
+4	mahat	_	_	5	Tatpurusha
+5	varAhasya	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	toza	_	_	2	Tatpurusha
+2	parIta	_	_	3	Bahuvrihi
+3	cetasaH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	parama	_	_	2	Tatpurusha
+2	ISa	_	_	9	Comp_root
+3	gadA	_	_	4	Dvandva
+4	SaNKa	_	_	5	Tatpurusha
+5	Dara	_	_	9	Comp_root
+6	asi	_	_	7	Dvandva
+7	cakra	_	_	8	Tatpurusha
+8	Dfk	_	_	9	Comp_root
+9	DUMMY	CompNo	_	0	root
+
+1	prasUti	_	_	3	Dvandva
+2	nASa	_	_	3	Dvandva
+3	sTiti	_	_	4	Tatpurusha
+4	hetuH	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	pUrta	_	_	2	Dvandva
+2	izwa	_	_	3	Tatpurusha
+3	Darma	_	_	4	Bahuvrihi
+4	SravaRaH	_	_	7	Comp_root
+5	sanAtana	_	_	6	Bahuvrihi
+6	Atman	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	dyAvA	_	_	2	Dvandva
+2	pfTivyoH	_	_	6	Comp_root
+3	a	_	_	4	Tatpurusha
+4	tula	_	_	5	Bahuvrihi
+5	praBAva	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	jagat	_	_	2	Tatpurusha
+2	vyApi	_	_	4	Bahuvrihi
+3	samarTa	_	_	4	Bahuvrihi
+4	dIpte	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	jYAna	_	_	3	Bahuvrihi
+2	Atma	_	_	3	Bahuvrihi
+3	kaM	_	_	8	Comp_root
+4	tvat	_	_	5	Tatpurusha
+5	rUpaM	_	_	8	Comp_root
+6	parama	_	_	7	Tatpurusha
+7	ISvara	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	a	_	_	2	Tatpurusha
+2	meya	_	_	3	Bahuvrihi
+3	Atman	_	_	6	Comp_root
+4	abja	_	_	5	Bahuvrihi
+5	locana	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	prAkya	_	_	2	Tatpurusha
+2	sarga	_	_	3	Tatpurusha
+3	dagDAn	_	_	8	Comp_root
+4	a	_	_	5	Bahuvrihi
+5	KilAn	_	_	8	Comp_root
+6	pfTivI	_	_	7	Tatpurusha
+7	tale	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	a	_	_	2	Tatpurusha
+2	moGena	_	_	6	Comp_root
+3	a	_	_	4	Tatpurusha
+4	moGa	_	_	5	Tatpurusha
+5	vAYCitaH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	BU	_	_	3	Tatpurusha
+2	vi	_	_	3	Tatpurusha
+3	BAgaM	_	_	8	Comp_root
+4	sapta	_	_	5	Tatpurusha
+5	dvIpAn	_	_	8	Comp_root
+6	yaTA	_	_	7	Avyayibhava
+7	taTam	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	brahman	_	_	2	Tatpurusha
+2	rUpa	_	_	3	Tatpurusha
+3	DaraH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	deva	_	_	4	Dvandva
+2	fzi	_	_	4	Dvandva
+3	pitf	_	_	4	Dvandva
+4	dAnavAn	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	manuzya	_	_	3	Dvandva
+2	tiryak	_	_	3	Dvandva
+3	vfkza	_	_	4	Bahuvrihi
+4	AdIn	_	_	8	Comp_root
+5	BU	_	_	7	Dvandva
+6	vyoma	_	_	7	Dvandva
+7	salilOkasaH	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	a	_	_	4	Tatpurusha
+2	budDi	_	_	4	Bahuvrihi
+3	pUrva	_	_	4	Bahuvrihi
+4	kaH	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	a	_	_	2	Tatpurusha
+2	prakASaH	_	_	9	Comp_root
+3	saMvfta	_	_	4	Bahuvrihi
+4	AtmA	_	_	9	Comp_root
+5	na	_	_	6	Tatpurusha
+6	ga	_	_	8	Bahuvrihi
+7	Atma	_	_	8	Bahuvrihi
+8	kaH	_	_	9	Comp_root
+9	DUMMY	CompNo	_	0	root
+
+1	azwA	_	_	2	Dvandva
+2	viMSat	_	_	3	Tatpurusha
+3	viDa	_	_	5	Bahuvrihi
+4	Atma	_	_	5	Bahuvrihi
+5	kAH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	suKa	_	_	2	Dvandva
+2	prIti	_	_	3	Bahuvrihi
+3	bahulAH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	UrDva	_	_	2	Tatpurusha
+2	srota	_	_	3	Tatpurusha
+3	udBavAH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	a	_	_	2	Tatpurusha
+2	sADakAn	_	_	7	Comp_root
+3	muKya	_	_	4	Tatpurusha
+4	sarga	_	_	5	Bahuvrihi
+5	Adi	_	_	6	Tatpurusha
+6	samBavAn	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	satya	_	_	3	Tatpurusha
+2	aBi	_	_	3	Tatpurusha
+3	DyAyinaH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	budDi	_	_	3	Bahuvrihi
+2	pUrva	_	_	3	Bahuvrihi
+3	kaH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	muni	_	_	2	Tatpurusha
+2	vara	_	_	3	Tatpurusha
+3	uttama	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	na	_	_	3	Tatpurusha
+2	nir	_	_	3	Tatpurusha
+3	muktAH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	deva	_	_	3	Dvandva
+2	asura	_	_	3	Dvandva
+3	pitFn	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	anya	_	_	2	Tatpurusha
+2	deha	_	_	3	Tatpurusha
+3	sTaH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	tri	_	_	2	Tatpurusha
+2	guRa	_	_	3	Tatpurusha
+3	upASrayARi	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	tat	_	_	2	Tatpurusha
+2	Sakti	_	_	3	Tatpurusha
+3	coditaH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	aSva	_	_	3	Dvandva
+2	aSvatara	_	_	3	Dvandva
+3	gardaBAH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	deva	_	_	3	Dvandva
+2	asura	_	_	3	Dvandva
+3	pitFn	_	_	6	Comp_root
+4	prajA	_	_	5	Tatpurusha
+5	patiH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	nara	_	_	3	Dvandva
+2	kinnara	_	_	3	Dvandva
+3	rakzAMsi	_	_	7	Comp_root
+4	paSu	_	_	6	Dvandva
+5	mfga	_	_	6	Dvandva
+6	uragAn	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	hisra	_	_	3	Dvandva
+2	a	_	_	3	Tatpurusha
+3	hiMsre	_	_	12	Comp_root
+4	mfdu	_	_	5	Dvandva
+5	krUre	_	_	12	Comp_root
+6	Darma	_	_	8	Dvandva
+7	a	_	_	8	Tatpurusha
+8	DarmO	_	_	11	Dvandva
+9	fta	_	_	11	Dvandva
+10	an	_	_	11	Tatpurusha
+11	fte	_	_	12	Comp_root
+12	DUMMY	CompNo	_	0	root
+
+1	sisfkzA	_	_	2	Tatpurusha
+2	Sakti	_	_	3	Tatpurusha
+3	yuktaH	_	_	8	Comp_root
+4	sfjya	_	_	5	Tatpurusha
+5	Sakti	_	_	7	Tatpurusha
+6	pra	_	_	7	Tatpurusha
+7	coditaH	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	hima	_	_	2	Dvandva
+2	tApa	_	_	3	Bahuvrihi
+3	AdeH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	ganDarva	_	_	3	Dvandva
+2	uraga	_	_	3	Dvandva
+3	rakzasAm	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	sarva	_	_	2	Tatpurusha
+2	SaktiH	_	_	7	Comp_root
+3	fk	_	_	5	Dvandva
+4	yajuH	_	_	5	Dvandva
+5	sAma	_	_	6	Bahuvrihi
+6	saYjYitA	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	fk	_	_	3	Dvandva
+2	yajuH	_	_	3	Dvandva
+3	sAma	_	_	4	Tatpurusha
+4	BUtaH	_	_	7	Comp_root
+5	dvi	_	_	6	Tatpurusha
+6	ja	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	bfhat	_	_	2	Dvandva
+2	raTantara	_	_	3	Bahuvrihi
+3	AdIni	_	_	6	Comp_root
+4	ahan	_	_	5	Tatpurusha
+5	kzaye	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	fk	_	_	3	Dvandva
+2	yajuH	_	_	3	Dvandva
+3	sAma	_	_	4	Bahuvrihi
+4	saYjYitA	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	Atma	_	_	3	Tatpurusha
+2	sapta	_	_	3	Tatpurusha
+3	gaRa	_	_	4	Tatpurusha
+4	sTaM	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	stamBa	_	_	2	Tatpurusha
+2	sTa	_	_	3	Tatpurusha
+3	darpaRasya	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	CAyA	_	_	2	Tatpurusha
+2	darSana	_	_	3	Tatpurusha
+3	saMyogaM	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	pitf	_	_	3	Dvandva
+2	deva	_	_	3	Dvandva
+3	manuzya	_	_	4	Bahuvrihi
+4	AdIn	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	ahaH	_	_	2	Dvandva
+2	rAtra	_	_	3	Tatpurusha
+3	kAraRaM	_	_	6	Comp_root
+4	dvi	_	_	5	Tatpurusha
+5	ja	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	sUrya	_	_	2	Tatpurusha
+2	raSmi	_	_	3	Tatpurusha
+3	suzumRA	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	dvi	_	_	2	Bahuvrihi
+2	kalaM	_	_	8	Comp_root
+3	kfzRa	_	_	4	Tatpurusha
+4	pakza	_	_	5	Tatpurusha
+5	kzaye	_	_	8	Comp_root
+6	dvi	_	_	7	Tatpurusha
+7	ja	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	pitf	_	_	3	Dvandva
+2	deva	_	_	3	Dvandva
+3	manuzya	_	_	4	Bahuvrihi
+4	AdIn	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	zazwi	_	_	3	Tatpurusha
+2	putra	_	_	3	Tatpurusha
+3	sahasrARi	_	_	6	Comp_root
+4	UrDva	_	_	5	Bahuvrihi
+5	retasAm	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	aNguzWa	_	_	2	Tatpurusha
+2	parva	_	_	3	Bahuvrihi
+3	mAtrARAM	_	_	7	Comp_root
+4	jvalat	_	_	5	Tatpurusha
+5	BAskara	_	_	6	Bahuvrihi
+6	tejasAm	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	eka	_	_	2	Tatpurusha
+2	Una	_	_	3	Tatpurusha
+3	paYcASat	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	uttama	_	_	2	Tatpurusha
+2	jYAna	_	_	3	Tatpurusha
+3	sampanne	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	candra	_	_	2	Dvandva
+2	Aditya	_	_	3	Bahuvrihi
+3	AdikAn	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	tat	_	_	2	Bahuvrihi
+2	ADAraM	_	_	7	Comp_root
+3	sa	_	_	6	Bahuvrihi
+4	deva	_	_	6	Dvandva
+5	asura	_	_	6	Dvandva
+6	mAnuzam	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	rasa	_	_	3	Bahuvrihi
+2	Atmi	_	_	3	Bahuvrihi
+3	kAH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	DUma	_	_	3	Dvandva
+2	agni	_	_	3	Dvandva
+3	anila	_	_	4	Tatpurusha
+4	mUrtizu	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	AkASa	_	_	2	Tatpurusha
+2	gaNgA	_	_	3	Tatpurusha
+3	salilaM	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	na	_	_	3	Tatpurusha
+2	aBra	_	_	3	Tatpurusha
+3	gatam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	saM	_	_	3	Tatpurusha
+2	sparSa	_	_	3	Tatpurusha
+3	nirDUta	_	_	5	Bahuvrihi
+4	pApa	_	_	5	Tatpurusha
+5	paNkaH	_	_	9	Comp_root
+6	dvi	_	_	7	Tatpurusha
+7	ja	_	_	8	Tatpurusha
+8	uttama	_	_	9	Comp_root
+9	DUMMY	CompNo	_	0	root
+
+1	AkASa	_	_	2	Tatpurusha
+2	gaNgA	_	_	3	Tatpurusha
+3	salilaM	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	dfzwa	_	_	2	Tatpurusha
+2	arka	_	_	3	Tatpurusha
+3	patitaM	_	_	7	Comp_root
+4	dik	_	_	5	Tatpurusha
+5	gaja	_	_	6	Tatpurusha
+6	ujJitam	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	AkASa	_	_	2	Tatpurusha
+2	gaNgA	_	_	3	Tatpurusha
+3	salilaM	_	_	6	Comp_root
+4	mahat	_	_	5	Tatpurusha
+5	mune	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	Pala	_	_	2	Tatpurusha
+2	pAka	_	_	3	Bahuvrihi
+3	antaH	_	_	6	Comp_root
+4	dvi	_	_	5	Tatpurusha
+5	ja	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	dvi	_	_	2	Tatpurusha
+2	ja	_	_	4	Bahuvrihi
+3	pUrva	_	_	4	Bahuvrihi
+4	kAH	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	ADAra	_	_	2	Tatpurusha
+2	BUtaH	_	_	6	Comp_root
+3	muni	_	_	4	Tatpurusha
+4	vara	_	_	5	Tatpurusha
+5	uttama	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	nArAyaRa	_	_	3	Bahuvrihi
+2	Atma	_	_	3	Bahuvrihi
+3	kaH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	sa	_	_	3	Bahuvrihi
+2	arDa	_	_	3	Tatpurusha
+3	kowiH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	tri	_	_	2	Dvandva
+2	nABimati	_	_	11	Comp_root
+3	paYca	_	_	4	Bahuvrihi
+4	are	_	_	11	Comp_root
+5	zaw	_	_	6	Bahuvrihi
+6	nemini	_	_	11	Comp_root
+7	na	_	_	8	Tatpurusha
+8	kzaya	_	_	10	Bahuvrihi
+9	Atma	_	_	10	Bahuvrihi
+10	ke	_	_	11	Comp_root
+11	DUMMY	CompNo	_	0	root
+
+1	tat	_	_	2	Tatpurusha
+2	yuga	_	_	3	Tatpurusha
+3	ardDena	_	_	6	Comp_root
+4	Druva	_	_	5	Tatpurusha
+5	ADAraH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	ahaH	_	_	2	Dvandva
+2	rAtra	_	_	3	Tatpurusha
+3	vyavasTAna	_	_	4	Tatpurusha
+4	kAraRaM	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	udaya	_	_	2	Dvandva
+2	astamana	_	_	3	Bahuvrihi
+3	AKyaM	_	_	6	Comp_root
+4	darSana	_	_	5	Tatpurusha
+5	adarSanaM	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	BAskara	_	_	2	Dvandva
+2	Agneye	_	_	6	Comp_root
+3	prakASa	_	_	4	Dvandva
+4	uzRa	_	_	5	Tatpurusha
+5	svarUpiRI	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	divA	_	_	2	Dvandva
+2	nakta	_	_	3	Tatpurusha
+3	praveSanAt	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	kulAla	_	_	2	Tatpurusha
+2	cakra	_	_	3	Tatpurusha
+3	paryante	_	_	6	Comp_root
+4	divA	_	_	5	Tatpurusha
+5	karaH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	kulAla	_	_	2	Tatpurusha
+2	cakra	_	_	3	Tatpurusha
+3	paryantaH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	dakziRa	_	_	3	Tatpurusha
+2	pra	_	_	3	Tatpurusha
+3	krame	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	vAyu	_	_	2	Tatpurusha
+2	vega	_	_	3	Tatpurusha
+3	balAt	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	tri	_	_	2	Dvandva
+2	daSa	_	_	3	Tatpurusha
+3	ardDam	_	_	6	Comp_root
+4	dvi	_	_	5	Tatpurusha
+5	ja	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	kulAla	_	_	2	Tatpurusha
+2	cakra	_	_	3	Tatpurusha
+3	maDya	_	_	4	Tatpurusha
+4	sTaH	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	azwa	_	_	2	Dvandva
+2	daSa	_	_	3	Tatpurusha
+3	muhUrtaM	_	_	7	Comp_root
+4	uttara	_	_	5	Tatpurusha
+5	ayana	_	_	6	Bahuvrihi
+6	paScimam	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	tri	_	_	2	Dvandva
+2	daSa	_	_	3	Tatpurusha
+3	ardDam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	kulAla	_	_	2	Tatpurusha
+2	cakra	_	_	3	Tatpurusha
+3	nABiH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	dina	_	_	2	Tatpurusha
+2	AdeH	_	_	6	Comp_root
+3	dIrGa	_	_	5	Dvandva
+4	hrasva	_	_	5	Dvandva
+5	tvaM	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	prajA	_	_	2	Tatpurusha
+2	pati	_	_	3	Tatpurusha
+3	kftaH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	dvi	_	_	2	Tatpurusha
+2	ja	_	_	3	Tatpurusha
+3	uttamAH	_	_	6	Comp_root
+4	mahat	_	_	5	Tatpurusha
+5	mune	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	oMkAra	_	_	2	Dvandva
+2	brahma	_	_	3	Tatpurusha
+3	saMyuktaM	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	sanDyA	_	_	2	Tatpurusha
+2	upAsana	_	_	3	Tatpurusha
+3	karmaRaH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	tri	_	_	2	Tatpurusha
+2	muhUrtta	_	_	3	Tatpurusha
+3	gate	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	tulA	_	_	2	Dvandva
+2	meza	_	_	3	Tatpurusha
+3	gate	_	_	7	Comp_root
+4	sama	_	_	6	Bahuvrihi
+5	rAtri	_	_	6	Dvandva
+6	dinaM	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	karkawa	_	_	3	Tatpurusha
+2	ava	_	_	3	Tatpurusha
+3	sTite	_	_	6	Comp_root
+4	dakziRa	_	_	5	Tatpurusha
+5	ayanam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	saMvatsara	_	_	2	Bahuvrihi
+2	AdayaH	_	_	6	Comp_root
+3	catur	_	_	4	Tatpurusha
+4	mAsa	_	_	5	Tatpurusha
+5	vikalpitAH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	ahan	_	_	2	Dvandva
+2	rAtraM	_	_	6	Comp_root
+3	timira	_	_	5	Tatpurusha
+4	apa	_	_	5	Tatpurusha
+5	haH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	A	_	_	3	Avyayibhava
+2	candra	_	_	3	Dvandva
+3	tArakam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	nAga	_	_	2	Tatpurusha
+2	vITi	_	_	3	Bahuvrihi
+3	uttaraM	_	_	6	Comp_root
+4	sapta	_	_	5	Tatpurusha
+5	fziByaH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	A	_	_	3	Avyayibhava
+2	BUta	_	_	3	Bahuvrihi
+3	saMplavaM	_	_	6	Comp_root
+4	na	_	_	5	Tatpurusha
+5	mftatvaM	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	trElokya	_	_	2	Tatpurusha
+2	sTiti	_	_	3	Tatpurusha
+3	kAlaH	_	_	6	Tatpurusha
+4	ayam	_	_	6	Tatpurusha
+5	na	_	_	6	Tatpurusha
+6	punarmAraH	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	brahma	_	_	2	Tatpurusha
+2	hatyA	_	_	4	Dvandva
+3	aSva	_	_	4	Tatpurusha
+4	meDAByAM	_	_	8	Comp_root
+5	pApa	_	_	6	Dvandva
+6	puRya	_	_	7	Tatpurusha
+7	kftaH	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	A	_	_	4	Avyayibhava
+2	BUta	_	_	3	Bahuvrihi
+3	saMplava	_	_	4	Tatpurusha
+4	antaM	_	_	7	Comp_root
+5	dvi	_	_	6	Tatpurusha
+6	ja	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	kAma	_	_	2	Dvandva
+2	kroDa	_	_	3	Tatpurusha
+3	viyuktAnAM	_	_	6	Comp_root
+4	yata	_	_	5	Bahuvrihi
+5	cetasAm	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	puRya	_	_	2	Dvandva
+2	pApa	_	_	3	Tatpurusha
+3	parikzaye	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	Darma	_	_	2	Dvandva
+2	Druva	_	_	3	Bahuvrihi
+3	AdyAH	_	_	6	Comp_root
+4	loka	_	_	5	Tatpurusha
+5	sAkziRaH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	tat	_	_	2	Tatpurusha
+2	sAzwryA	_	_	6	Comp_root
+3	utpanna	_	_	5	Bahuvrihi
+4	yoga	_	_	5	Tatpurusha
+5	fdDiH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	sa	_	_	3	Bahuvrihi
+2	cara	_	_	3	Tatpurusha
+3	acaram	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	viveka	_	_	2	Dvandva
+2	jYAna	_	_	3	Tatpurusha
+3	dfzwaM	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	na	_	_	2	Tatpurusha
+2	mala	_	_	3	Bahuvrihi
+3	Atmakam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	vAma	_	_	2	Tatpurusha
+2	pAda	_	_	4	Tatpurusha
+3	ambu	_	_	4	Tatpurusha
+4	ja	_	_	5	Tatpurusha
+5	aNguzWa	_	_	6	Tatpurusha
+6	naKa	_	_	7	Tatpurusha
+7	srotaH	_	_	8	Tatpurusha
+8	vinirgatAm	_	_	9	Comp_root
+9	DUMMY	CompNo	_	0	root
+
+1	catur	_	_	2	Bahuvrihi
+2	BedA	_	_	7	Comp_root
+3	dik	_	_	4	Tatpurusha
+4	Beda	_	_	5	Tatpurusha
+5	gati	_	_	6	Bahuvrihi
+6	lakzaRA	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	sagara	_	_	3	Tatpurusha
+2	Atma	_	_	3	Tatpurusha
+3	jAn	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	na	_	_	2	Tatpurusha
+2	pUrva	_	_	3	Tatpurusha
+3	puRya	_	_	4	Tatpurusha
+4	prAptiH	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	Sukla	_	_	3	Dvandva
+2	kfzRa	_	_	3	Dvandva
+3	aruRAH	_	_	6	Comp_root
+4	SEla	_	_	5	Tatpurusha
+5	kAMcanAH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	vara	_	_	2	Tatpurusha
+2	prAsAda	_	_	3	Tatpurusha
+3	maRqitAH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	mahat	_	_	2	Tatpurusha
+2	nAga	_	_	3	Tatpurusha
+3	jAtayaH	_	_	6	Comp_root
+4	mahat	_	_	5	Tatpurusha
+5	mune	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	vIRA	_	_	3	Dvandva
+2	veRu	_	_	3	Dvandva
+3	mfdaMgAnAM	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	vizRu	_	_	2	Tatpurusha
+2	prasAdAt	_	_	6	Comp_root
+3	pAtAla	_	_	4	Tatpurusha
+4	antara	_	_	5	Tatpurusha
+5	gocaraH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	PaRA	_	_	2	Tatpurusha
+2	maRi	_	_	3	Tatpurusha
+3	sahasreRa	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	nIla	_	_	2	Bahuvrihi
+2	vAsAH	_	_	8	Comp_root
+3	mada	_	_	4	Tatpurusha
+4	utsiktaH	_	_	8	Comp_root
+5	Sveta	_	_	6	Tatpurusha
+6	hAra	_	_	7	Tatpurusha
+7	upaSoBitaH	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	sa	_	_	4	Bahuvrihi
+2	aBra	_	_	4	Dvandva
+3	gaNgA	_	_	4	Tatpurusha
+4	pravAhaH	_	_	7	Comp_root
+5	kElAsa	_	_	6	Tatpurusha
+6	adriH	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	lANgala	_	_	2	Tatpurusha
+2	Asakta	_	_	4	Bahuvrihi
+3	hasta	_	_	4	Tatpurusha
+4	agraH	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	SvAsa	_	_	2	Tatpurusha
+2	anila	_	_	3	Tatpurusha
+3	apAstaM	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	jambU	_	_	2	Tatpurusha
+2	dvIpasya	_	_	6	Comp_root
+3	Sata	_	_	4	Tatpurusha
+4	sAhasra	_	_	5	Tatpurusha
+5	sammitaH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	plakza	_	_	2	Tatpurusha
+2	dvIpa	_	_	3	Tatpurusha
+3	ISvarasya	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	plakza	_	_	2	Tatpurusha
+2	dvIpa	_	_	3	Tatpurusha
+3	ISvarAH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	deva	_	_	2	Dvandva
+2	ganDarva	_	_	3	Tatpurusha
+3	sahitAH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	tretA	_	_	2	Tatpurusha
+2	yuga	_	_	3	Tatpurusha
+3	samaH	_	_	6	Comp_root
+4	mahat	_	_	5	Bahuvrihi
+5	mate	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	plakza	_	_	2	Tatpurusha
+2	dvIpa	_	_	3	Bahuvrihi
+3	Adizu	_	_	7	Comp_root
+4	SAka	_	_	5	Tatpurusha
+5	dvIpa	_	_	6	Tatpurusha
+6	antikezu	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	daSa	_	_	2	Tatpurusha
+2	varza	_	_	3	Tatpurusha
+3	sahasrARi	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	vipra	_	_	3	Dvandva
+2	kzatriya	_	_	3	Dvandva
+3	vESyAH	_	_	6	Comp_root
+4	muni	_	_	5	Tatpurusha
+5	sattama	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	plakzaH	_	_	4	Bahuvrihi
+2	tat	_	_	3	Tatpurusha
+3	nAma	_	_	4	Bahuvrihi
+4	saMjYaH	_	_	10	Comp_root
+5	plakza	_	_	6	Tatpurusha
+6	dvIpaH	_	_	10	Comp_root
+7	dvi	_	_	8	Tatpurusha
+8	ja	_	_	9	Tatpurusha
+9	uttama	_	_	10	Comp_root
+10	DUMMY	CompNo	_	0	root
+
+1	plakza	_	_	2	Tatpurusha
+2	dvIpa	_	_	3	Tatpurusha
+3	pramARena	_	_	6	Comp_root
+4	plakza	_	_	5	Tatpurusha
+5	dvIpaH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	ikzurasa	_	_	2	Tatpurusha
+2	udena	_	_	6	Comp_root
+3	pariveza	_	_	5	Tatpurusha
+4	anu	_	_	5	Tatpurusha
+5	kAriRA	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	ikzu	_	_	2	Tatpurusha
+2	rasa	_	_	3	Bahuvrihi
+3	udakaH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	vistAra	_	_	3	Tatpurusha
+2	dvi	_	_	3	Bahuvrihi
+3	guRena	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	catur	_	_	2	Tatpurusha
+2	varRa	_	_	3	Tatpurusha
+3	yutAni	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	deva	_	_	4	Dvandva
+2	ganDarva	_	_	4	Dvandva
+3	yakza	_	_	4	Dvandva
+4	kiMpuruza	_	_	5	Bahuvrihi
+5	AdayaH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	nija	_	_	2	Tatpurusha
+2	anuzWAna	_	_	3	Tatpurusha
+3	tatparAH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	yaTA	_	_	2	Avyayibhava
+2	ukta	_	_	3	Tatpurusha
+3	arTa	_	_	4	Tatpurusha
+4	upasaMhAra	_	_	5	Tatpurusha
+5	arTaH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	kzamayanti	_	_	5	Tatpurusha
+2	ugram	_	_	5	Tatpurusha
+3	aDikAra	_	_	4	Dvandva
+4	Pala	_	_	5	Tatpurusha
+5	pradam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	dvIpa	_	_	3	Dvandva
+2	upa	_	_	3	Dvandva
+3	dvIpezu	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	anu	_	_	3	Tatpurusha
+2	krama	_	_	3	Tatpurusha
+3	uditAH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	kzudra	_	_	3	Tatpurusha
+2	nimna	_	_	3	Tatpurusha
+3	gAH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	varza	_	_	3	Tatpurusha
+2	nimna	_	_	3	Tatpurusha
+3	gAH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	krOYca	_	_	2	Tatpurusha
+2	dvIpa	_	_	3	Tatpurusha
+3	tulyena	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	SAka	_	_	2	Tatpurusha
+2	dvIpa	_	_	3	Tatpurusha
+3	ISvarasya	_	_	7	Comp_root
+4	su	_	_	5	Tatpurusha
+5	mahat	_	_	6	Bahuvrihi
+6	AtmanaH	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	yatra	_	_	2	Avyayibhava
+2	tya	_	_	3	Tatpurusha
+3	vAta	_	_	4	Tatpurusha
+4	saMsparSAt	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	cAtur	_	_	2	Tatpurusha
+2	varRya	_	_	3	Tatpurusha
+3	samanvitAH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	jala	_	_	2	Tatpurusha
+2	da	_	_	3	Bahuvrihi
+3	Adizu	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	SAka	_	_	2	Tatpurusha
+2	dvIpe	_	_	6	Comp_root
+3	sUrya	_	_	4	Tatpurusha
+4	rUpa	_	_	5	Tatpurusha
+5	DaraH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	SAka	_	_	2	Tatpurusha
+2	dvIpaH	_	_	3	Tatpurusha
+3	pramARena	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	DAtukI	_	_	2	Tatpurusha
+2	KaRqa	_	_	3	Tatpurusha
+3	saMjYitam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	puzkara	_	_	2	Tatpurusha
+2	dvIpa	_	_	3	Tatpurusha
+3	valayaM	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	tat	_	_	3	Tatpurusha
+2	varza	_	_	3	Tatpurusha
+3	ka	_	_	4	Tatpurusha
+4	dvayam	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	loBa	_	_	3	Bahuvrihi
+2	Adi	_	_	3	Bahuvrihi
+3	kaH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	varza	_	_	2	Tatpurusha
+2	dvaya	_	_	3	Tatpurusha
+3	anvite	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	DAtakI	_	_	2	Tatpurusha
+2	KaRqa	_	_	3	Bahuvrihi
+3	saMjYe	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	na	_	_	2	Tatpurusha
+2	nyUna	_	_	4	Tatpurusha
+3	na	_	_	4	Tatpurusha
+4	atiriktAH	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	yojana	_	_	2	Tatpurusha
+2	ayuta	_	_	3	Tatpurusha
+3	vistftaH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	paYcaSat	_	_	2	Tatpurusha
+2	kowi	_	_	3	Bahuvrihi
+3	vistArA	_	_	6	Comp_root
+4	mahat	_	_	5	Tatpurusha
+5	mune	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	Sastra	_	_	2	Dvandva
+2	agni	_	_	3	Tatpurusha
+3	Baya	_	_	4	Tatpurusha
+4	dAyinaH	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	yaH	_	_	5	Tatpurusha
+2	ca	_	_	5	Tatpurusha
+3	ut	_	_	4	Tatpurusha
+4	SvAsa	_	_	5	Tatpurusha
+5	niroDakaH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	rAjanya	_	_	2	Dvandva
+2	vESya	_	_	3	Tatpurusha
+3	hA	_	_	7	Comp_root
+4	guru	_	_	5	Tatpurusha
+5	talpa	_	_	6	Tatpurusha
+6	gaH	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	a	_	_	2	Tatpurusha
+2	gamya	_	_	3	Tatpurusha
+3	gAmI	_	_	6	Comp_root
+4	dvi	_	_	5	Tatpurusha
+5	ja	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	dur	_	_	2	Tatpurusha
+2	izwa	_	_	3	Tatpurusha
+3	kft	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	pitf	_	_	3	Dvandva
+2	deva	_	_	3	Dvandva
+3	atiTIn	_	_	6	Comp_root
+4	nara	_	_	5	Tatpurusha
+5	aDamaH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	KaNga	_	_	2	Bahuvrihi
+2	Adi	_	_	3	Tatpurusha
+3	kft	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	mizwa	_	_	2	Tatpurusha
+2	anna	_	_	3	Tatpurusha
+3	Buk	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	lAkzA	_	_	3	Dvandva
+2	mAMsa	_	_	3	Dvandva
+3	rasAnAM	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	mArjAra	_	_	6	Dvandva
+2	kukkuwa	_	_	6	Dvandva
+3	cCAga	_	_	6	Dvandva
+4	Sva	_	_	6	Dvandva
+5	varAha	_	_	6	Dvandva
+6	vihaMgamAn	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	dvi	_	_	2	Tatpurusha
+2	ja	_	_	3	Tatpurusha
+3	sattama	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	retaH	_	_	2	Tatpurusha
+2	pAta	_	_	3	Bahuvrihi
+3	Adi	_	_	4	Tatpurusha
+4	kartAraH	_	_	7	Comp_root
+5	maryAdA	_	_	6	Tatpurusha
+6	BedinaH	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	sandaMSa	_	_	2	Tatpurusha
+2	yAtanA	_	_	3	Tatpurusha
+3	maDye	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	naraka	_	_	2	Tatpurusha
+2	antara	_	_	3	Tatpurusha
+3	gocarEH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	sahasra	_	_	2	Bahuvrihi
+2	BAga	_	_	3	Bahuvrihi
+3	praTamAH	_	_	7	Comp_root
+4	dvitIya	_	_	6	Bahuvrihi
+5	anu	_	_	6	Bahuvrihi
+6	kramAH	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	pApa	_	_	2	Tatpurusha
+2	kft	_	_	6	Comp_root
+3	prAyaScitta	_	_	5	Tatpurusha
+4	parAN	_	_	5	Bahuvrihi
+5	muKaH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	na	_	_	2	Bahuvrihi
+2	SezARAM	_	_	6	Comp_root
+3	kfzRa	_	_	5	Tatpurusha
+4	anu	_	_	5	Tatpurusha
+5	smaraRaM	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	hari	_	_	3	Tatpurusha
+2	saM	_	_	3	Tatpurusha
+3	smaraRaM	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	sanDyA	_	_	2	Tatpurusha
+2	maDyAhna	_	_	3	Bahuvrihi
+3	Adizu	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	vizRu	_	_	3	Tatpurusha
+2	saM	_	_	3	Tatpurusha
+3	smaraRAt	_	_	8	Comp_root
+4	kzIRa	_	_	7	Bahuvrihi
+5	samasta	_	_	6	Tatpurusha
+6	kleSa	_	_	7	Tatpurusha
+7	saYcayaH	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	japa	_	_	3	Dvandva
+2	homa	_	_	3	Dvandva
+3	arcana	_	_	4	Bahuvrihi
+4	Adizu	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	deva	_	_	2	Tatpurusha
+2	indra	_	_	3	Tatpurusha
+3	tva	_	_	4	Bahuvrihi
+4	AdikaM	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	nAka	_	_	2	Tatpurusha
+2	pfzWa	_	_	3	Tatpurusha
+3	gamanaM	_	_	7	Comp_root
+4	punar	_	_	5	Avyayibhava
+5	Avftti	_	_	6	Bahuvrihi
+6	lakzaRam	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	naraka	_	_	2	Dvandva
+2	svarga	_	_	3	Tatpurusha
+3	saMjYe	_	_	9	Comp_root
+4	pApa	_	_	5	Dvandva
+5	puRye	_	_	9	Comp_root
+6	dvi	_	_	7	Tatpurusha
+7	ja	_	_	8	Tatpurusha
+8	uttama	_	_	9	Comp_root
+9	DUMMY	CompNo	_	0	root
+
+1	vastu	_	_	3	Bahuvrihi
+2	Atma	_	_	3	Bahuvrihi
+3	kaM	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	duHKa	_	_	3	Bahuvrihi
+2	Atma	_	_	3	Bahuvrihi
+3	kaM	_	_	7	Comp_root
+4	suKa	_	_	6	Bahuvrihi
+5	Atma	_	_	6	Bahuvrihi
+6	kam	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	suKa	_	_	2	Dvandva
+2	duHKa	_	_	3	Bahuvrihi
+3	Adi	_	_	4	Bahuvrihi
+4	lakzaRaH	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	jYAna	_	_	3	Bahuvrihi
+2	Atma	_	_	3	Bahuvrihi
+3	kam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	Buvar	_	_	4	Bahuvrihi
+2	loka	_	_	4	Bahuvrihi
+3	Adi	_	_	4	Bahuvrihi
+4	kAn	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	sa	_	_	4	Bahuvrihi
+2	samudra	_	_	4	Dvandva
+3	sarit	_	_	4	Dvandva
+4	SElA	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	tAvat	_	_	3	Tatpurusha
+2	pramARa	_	_	3	Tatpurusha
+3	BAge	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	eka	_	_	3	Tatpurusha
+2	yojana	_	_	3	Tatpurusha
+3	kowiH	_	_	6	Comp_root
+4	kalpa	_	_	5	Tatpurusha
+5	vAsinaH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	sanandana	_	_	2	Bahuvrihi
+2	AdyAH	_	_	6	Comp_root
+3	na	_	_	4	Tatpurusha
+4	mala	_	_	5	Bahuvrihi
+5	cetasaH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	BUmi	_	_	2	Dvandva
+2	sUrya	_	_	3	Tatpurusha
+3	antaraM	_	_	8	Comp_root
+4	sidDa	_	_	5	Bahuvrihi
+5	Adi	_	_	6	Tatpurusha
+6	muni	_	_	7	Tatpurusha
+7	sevitam	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	Druva	_	_	2	Dvandva
+2	sUrya	_	_	3	Tatpurusha
+3	antaraM	_	_	6	Comp_root
+4	catur	_	_	5	Dvandva
+5	daSa	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	etat	_	_	3	Tatpurusha
+2	aRqa	_	_	3	Tatpurusha
+3	kawAhena	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	tat	_	_	2	Tatpurusha
+2	antam	_	_	6	Comp_root
+3	a	_	_	4	Tatpurusha
+4	saMKyAta	_	_	5	Tatpurusha
+5	pramARaM	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	kowi	_	_	2	Tatpurusha
+2	kowi	_	_	3	Tatpurusha
+3	SatAni	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	pfTak	_	_	2	Tatpurusha
+2	BAva	_	_	3	Tatpurusha
+3	kAraRaM	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	praDAna	_	_	2	Dvandva
+2	puruza	_	_	4	Bahuvrihi
+3	Atma	_	_	4	Bahuvrihi
+4	kam	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	pAdayoH	_	_	6	Tatpurusha
+2	mUla	_	_	4	Dvandva
+3	skanDa	_	_	4	Dvandva
+4	SAKA	_	_	5	Bahuvrihi
+5	Adi	_	_	6	Tatpurusha
+6	saMyutaH	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	AkASa	_	_	2	Dvandva
+2	kAla	_	_	3	Bahuvrihi
+3	AdyAH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	pra	_	_	2	Tatpurusha
+2	roha	_	_	3	Tatpurusha
+3	hetu	_	_	4	Tatpurusha
+4	sAmagryAm	_	_	7	Comp_root
+5	muni	_	_	6	Tatpurusha
+6	sattama	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	ijyA	_	_	3	Dvandva
+2	AyuDa	_	_	3	Dvandva
+3	vaRijya	_	_	4	Bahuvrihi
+4	AdyEH	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	narmadA	_	_	2	Dvandva
+2	surasA	_	_	3	Bahuvrihi
+3	AdyAH	_	_	7	Comp_root
+4	vinDyA	_	_	5	Tatpurusha
+5	adri	_	_	6	Tatpurusha
+6	nirgatAH	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	veda	_	_	2	Dvandva
+2	smftimuKa	_	_	3	Bahuvrihi
+3	AdyAH	_	_	6	Comp_root
+4	pArIyAtra	_	_	5	Tatpurusha
+5	udBavAH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	tApI	_	_	3	Dvandva
+2	payozRI	_	_	3	Dvandva
+3	nirvinDyA	_	_	4	Bahuvrihi
+4	pramuKAH	_	_	7	Comp_root
+5	fkza	_	_	6	Tatpurusha
+6	saMBavAH	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	godAvarI	_	_	3	Dvandva
+2	BImaraTI	_	_	3	Dvandva
+3	kfzRaveRI	_	_	4	Bahuvrihi
+4	AdikAH	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	kftamAlA	_	_	2	Dvandva
+2	tAmraparRI	_	_	3	Bahuvrihi
+3	pramuKAH	_	_	6	Comp_root
+4	malaya	_	_	5	Tatpurusha
+5	udBavAH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	fzikulyA	_	_	2	Dvandva
+2	kumArA	_	_	3	Bahuvrihi
+3	AdyAH	_	_	6	Comp_root
+4	SuktimatpAda	_	_	5	Tatpurusha
+5	samBavAH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	mahat	_	_	2	Bahuvrihi
+2	BAga	_	_	7	Comp_root
+3	hfzwa	_	_	4	Tatpurusha
+4	puzwa	_	_	5	Tatpurusha
+5	jana	_	_	6	Bahuvrihi
+6	AkulAH	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	para	_	_	2	Tatpurusha
+2	loka	_	_	3	Tatpurusha
+3	arTam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	BArata	_	_	2	Tatpurusha
+2	BUmi	_	_	3	Tatpurusha
+3	BAge	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	na	_	_	2	Tatpurusha
+2	saMkalpita	_	_	4	Bahuvrihi
+3	tat	_	_	4	Tatpurusha
+4	PalAni	_	_	7	Comp_root
+5	paramAtma	_	_	6	Tatpurusha
+6	BUte	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	indriya	_	_	4	Tatpurusha
+2	vi	_	_	4	Tatpurusha
+3	pra	_	_	4	Tatpurusha
+4	hInAH	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	jambU	_	_	2	Dvandva
+2	plakza	_	_	3	Bahuvrihi
+3	AhvayO	_	_	6	Comp_root
+4	dvi	_	_	5	Tatpurusha
+5	ja	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	lavaRa	_	_	7	Dvandva
+2	ikzu	_	_	7	Dvandva
+3	surA	_	_	7	Dvandva
+4	sarpi	_	_	7	Dvandva
+5	daDi	_	_	7	Dvandva
+6	dugDa	_	_	7	Dvandva
+7	jalEH	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	BU	_	_	2	Tatpurusha
+2	padmasya	_	_	6	Comp_root
+3	karRikA	_	_	4	Tatpurusha
+4	AkAra	_	_	5	Tatpurusha
+5	saMsTitaH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	sahasra	_	_	2	Tatpurusha
+2	dvitaya	_	_	3	Bahuvrihi
+3	ucCrAyAH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	nava	_	_	2	Bahuvrihi
+2	sAhasram	_	_	8	Comp_root
+3	eka	_	_	4	Dvandva
+4	ekam	_	_	8	Comp_root
+5	dvi	_	_	6	Tatpurusha
+6	ja	_	_	7	Tatpurusha
+7	sattama	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	eka	_	_	2	Dvandva
+2	daSa	_	_	3	Dvandva
+3	Sata	_	_	4	Bahuvrihi
+4	AyAmAH	_	_	7	Comp_root
+5	giri	_	_	6	Tatpurusha
+6	ketavaH	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	mahat	_	_	2	Tatpurusha
+2	gaja	_	_	3	Bahuvrihi
+3	pramARAni	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	tIra	_	_	2	Tatpurusha
+2	mft	_	_	8	Comp_root
+3	tat	_	_	4	Tatpurusha
+4	rasaM	_	_	8	Comp_root
+5	suKa	_	_	6	Tatpurusha
+6	vAyu	_	_	7	Tatpurusha
+7	viSozitA	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	catur	_	_	2	Dvandva
+2	daSa	_	_	3	Tatpurusha
+3	sahasrARi	_	_	6	Comp_root
+4	mahat	_	_	5	Tatpurusha
+5	purI	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	vizRu	_	_	2	Tatpurusha
+2	pAda	_	_	3	Tatpurusha
+3	vinizkrAntA	_	_	6	Comp_root
+4	indu	_	_	5	Tatpurusha
+5	maRqalam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	A	_	_	4	Bahuvrihi
+2	nIla	_	_	3	Dvandva
+3	nizaDa	_	_	4	Bahuvrihi
+4	AyAmO	_	_	7	Comp_root
+5	mAlyavat	_	_	6	Dvandva
+6	ganDamAdanO	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	karRikA	_	_	2	Tatpurusha
+2	AkAra	_	_	3	Tatpurusha
+3	saMsTitaH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	loka	_	_	2	Tatpurusha
+2	padmasya	_	_	6	Comp_root
+3	maryAdA	_	_	4	Tatpurusha
+4	SEla	_	_	5	Tatpurusha
+5	bAhyataH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	dakziRa	_	_	2	Dvandva
+2	uttara	_	_	3	Bahuvrihi
+3	AyAmO	_	_	7	Comp_root
+4	nIla	_	_	5	Dvandva
+5	nizaDa	_	_	6	Bahuvrihi
+6	AyatO	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	pUrva	_	_	2	Dvandva
+2	paScA	_	_	3	Bahuvrihi
+3	AyatO	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	paScima	_	_	2	Tatpurusha
+2	dik	_	_	3	Tatpurusha
+3	BAge	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	sidDa	_	_	2	Dvandva
+2	cAraRa	_	_	3	Tatpurusha
+3	sevitAH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	lakzmI	_	_	4	Dvandva
+2	vizRu	_	_	4	Dvandva
+3	agni	_	_	4	Dvandva
+4	sUrya	_	_	5	Bahuvrihi
+5	Adi	_	_	6	Tatpurusha
+6	devAnAM	_	_	9	Comp_root
+7	muni	_	_	8	Tatpurusha
+8	sattama	_	_	9	Comp_root
+9	DUMMY	CompNo	_	0	root
+
+1	ganDarva	_	_	3	Dvandva
+2	yakza	_	_	3	Dvandva
+3	rakzAMsi	_	_	6	Comp_root
+4	dEteya	_	_	5	Dvandva
+5	dAnavAH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	kUrma	_	_	2	Tatpurusha
+2	rUpa	_	_	3	Tatpurusha
+3	Dfk	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	kzut	_	_	2	Dvandva
+2	Baya	_	_	3	Bahuvrihi
+3	Adikam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	dvA	_	_	2	Dvandva
+2	daSa	_	_	3	Tatpurusha
+3	varzARAM	_	_	6	Comp_root
+4	sTira	_	_	5	Bahuvrihi
+5	AyuzaH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	kfta	_	_	2	Dvandva
+2	tretA	_	_	3	Bahuvrihi
+3	AdikaM	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	dvi	_	_	2	Tatpurusha
+2	ja	_	_	3	Tatpurusha
+3	uttama	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	jagat	_	_	2	Tatpurusha
+2	sfzwi	_	_	3	Tatpurusha
+3	sambanDaH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	meDA	_	_	2	Dvandva
+2	agnibAhu	_	_	3	Tatpurusha
+3	putrAH	_	_	6	Comp_root
+4	yoga	_	_	5	Tatpurusha
+5	parAyaRAH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	yaTA	_	_	2	Avyayibhava
+2	nyAyam	_	_	6	Comp_root
+3	a	_	_	5	Tatpurusha
+4	Pala	_	_	5	Tatpurusha
+5	AkANkziRaH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	sapta	_	_	2	Tatpurusha
+2	dvIpAni	_	_	6	Comp_root
+3	su	_	_	5	Bahuvrihi
+4	mahat	_	_	5	Bahuvrihi
+5	AtmanAm	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	jambU	_	_	3	Tatpurusha
+2	dvIpa	_	_	3	Tatpurusha
+3	viBAgAn	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	nIla	_	_	2	Tatpurusha
+2	acala	_	_	3	Tatpurusha
+3	ASritaM	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	jarA	_	_	2	Dvandva
+2	mftyu	_	_	3	Tatpurusha
+3	BayaM	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	Darma	_	_	2	Dvandva
+2	aDarmO	_	_	6	Comp_root
+3	uttama	_	_	5	Dvandva
+4	aDama	_	_	5	Dvandva
+5	maDyamAH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	vAnaprasTa	_	_	2	Tatpurusha
+2	viDAnena	_	_	6	Comp_root
+3	na	_	_	4	Tatpurusha
+4	kfta	_	_	5	Bahuvrihi
+5	niScayaH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	putra	_	_	2	Tatpurusha
+2	saMkrAmita	_	_	3	Bahuvrihi
+3	SrIH	_	_	6	Comp_root
+4	mahI	_	_	5	Tatpurusha
+5	patiH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	kfta	_	_	2	Dvandva
+2	tretA	_	_	3	Bahuvrihi
+3	Adi	_	_	4	Tatpurusha
+4	sargeRa	_	_	7	Comp_root
+5	yuga	_	_	6	Bahuvrihi
+6	AKyAm	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	dvi	_	_	2	Tatpurusha
+2	ja	_	_	3	Tatpurusha
+3	sattama	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	sUrya	_	_	2	Bahuvrihi
+2	AdInAM	_	_	8	Comp_root
+3	dvi	_	_	4	Tatpurusha
+4	ja	_	_	5	Tatpurusha
+5	SrezWa	_	_	8	Comp_root
+6	rudra	_	_	7	Bahuvrihi
+7	AdyEH	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	himavat	_	_	2	Tatpurusha
+2	duhitA	_	_	6	Comp_root
+3	dvi	_	_	4	Tatpurusha
+4	ja	_	_	5	Tatpurusha
+5	sattama	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	sarva	_	_	2	Tatpurusha
+2	gataH	_	_	6	Comp_root
+3	dvi	_	_	4	Tatpurusha
+4	ja	_	_	5	Tatpurusha
+5	uttama	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	dvi	_	_	2	Tatpurusha
+2	ja	_	_	3	Tatpurusha
+3	uttama	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	pitf	_	_	2	Tatpurusha
+2	gaRaH	_	_	6	Comp_root
+3	SASvata	_	_	4	Tatpurusha
+4	puzwi	_	_	5	Tatpurusha
+5	dA	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	vipra	_	_	2	Tatpurusha
+2	indra	_	_	6	Comp_root
+3	deva	_	_	4	Tatpurusha
+4	senA	_	_	5	Tatpurusha
+5	patiH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	gadA	_	_	2	Bahuvrihi
+2	pARiH	_	_	6	Comp_root
+3	dvi	_	_	4	Tatpurusha
+4	ja	_	_	5	Tatpurusha
+5	uttama	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	cakra	_	_	2	Dvandva
+2	gadA	_	_	3	Tatpurusha
+3	DaraH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	padma	_	_	2	Tatpurusha
+2	vana	_	_	3	Bahuvrihi
+3	AlayA	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	nada	_	_	2	Tatpurusha
+2	svarUpI	_	_	6	Comp_root
+3	nadI	_	_	4	Tatpurusha
+4	rUpa	_	_	5	Tatpurusha
+5	saMsTitA	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	deva	_	_	3	Dvandva
+2	tiryaN	_	_	3	Dvandva
+3	manuzya	_	_	4	Bahuvrihi
+4	AdO	_	_	7	Comp_root
+5	put	_	_	6	Bahuvrihi
+6	nAmA	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	unmatta	_	_	2	Tatpurusha
+2	vrata	_	_	3	Tatpurusha
+3	Dfk	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	unmatta	_	_	2	Tatpurusha
+2	vrata	_	_	3	Tatpurusha
+3	Dfk	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	trE	_	_	2	Tatpurusha
+2	lokya	_	_	3	Tatpurusha
+3	aDipatiM	_	_	6	Comp_root
+4	SacI	_	_	5	Tatpurusha
+5	patim	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	mada	_	_	2	Tatpurusha
+2	anDakArita	_	_	3	Bahuvrihi
+3	akzaH	_	_	6	Comp_root
+4	ganDa	_	_	5	Tatpurusha
+5	Akfzwena	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	ESvarya	_	_	2	Tatpurusha
+2	mada	_	_	3	Tatpurusha
+3	duzwa	_	_	4	Bahuvrihi
+4	Atman	_	_	7	Comp_root
+5	ati	_	_	6	Tatpurusha
+6	stabDaH	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	harza	_	_	2	Tatpurusha
+2	utPulla	_	_	3	Bahuvrihi
+3	kapolena	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	trE	_	_	2	Tatpurusha
+2	lokya	_	_	3	Tatpurusha
+3	SrIH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	itara	_	_	3	Tatpurusha
+2	dvi	_	_	3	Tatpurusha
+3	jEH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	pra	_	_	2	Tatpurusha
+2	nazwa	_	_	3	Bahuvrihi
+3	lakzmIkaM	_	_	6	Comp_root
+4	trE	_	_	5	Tatpurusha
+5	lokyaM	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	a	_	_	2	Tatpurusha
+2	kzAnti	_	_	3	Tatpurusha
+3	sAra	_	_	4	Bahuvrihi
+4	sarvasvaM	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	jvalat	_	_	3	Bahuvrihi
+2	jawA	_	_	3	Tatpurusha
+3	kalApasya	_	_	6	Comp_root
+4	BfkuwI	_	_	5	Bahuvrihi
+5	kuwilaM	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	apa	_	_	2	Tatpurusha
+2	DvastaM	_	_	7	Comp_root
+3	saM	_	_	6	Bahuvrihi
+4	kzIRa	_	_	6	Tatpurusha
+5	OzaDi	_	_	6	Dvandva
+6	vIruDam	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	dAna	_	_	2	Bahuvrihi
+2	Adi	_	_	3	Tatpurusha
+3	Darmezu	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	niH	_	_	2	Bahuvrihi
+2	sattvAH	_	_	7	Comp_root
+3	loBa	_	_	4	Bahuvrihi
+4	Adi	_	_	5	Tatpurusha
+5	upahata	_	_	6	Bahuvrihi
+6	indriyAH	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	sa	_	_	2	Bahuvrihi
+2	aBilAzA	_	_	6	Comp_root
+3	dvi	_	_	4	Tatpurusha
+4	ja	_	_	5	Tatpurusha
+5	uttama	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	bala	_	_	2	Dvandva
+2	SOrya	_	_	3	Bahuvrihi
+3	Adi	_	_	5	Tatpurusha
+4	na	_	_	5	Tatpurusha
+5	BAvaH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	bala	_	_	2	Dvandva
+2	SOrya	_	_	3	Tatpurusha
+3	vivarjitaH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	mahat	_	_	2	Bahuvrihi
+2	BAgaM	_	_	7	Comp_root
+3	huta	_	_	4	Tatpurusha
+4	aSana	_	_	6	Bahuvrihi
+5	puras	_	_	6	Tatpurusha
+6	gamAH	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	para	_	_	2	Dvandva
+2	avara	_	_	3	Tatpurusha
+3	ISaM	_	_	6	Comp_root
+4	asura	_	_	5	Tatpurusha
+5	ardanam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	utpatti	_	_	3	Dvandva
+2	sTiti	_	_	3	Dvandva
+3	nASAnAm	_	_	6	Comp_root
+4	na	_	_	5	Tatpurusha
+5	hetuM	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	prajA	_	_	2	Tatpurusha
+2	pati	_	_	3	Tatpurusha
+3	patiM	_	_	8	Comp_root
+4	na	_	_	5	Bahuvrihi
+5	antam	_	_	8	Comp_root
+6	na	_	_	7	Tatpurusha
+7	parAjitam	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	pra	_	_	2	Tatpurusha
+2	nata	_	_	4	Tatpurusha
+3	Artti	_	_	4	Tatpurusha
+4	haraM	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	para	_	_	2	Dvandva
+2	avara	_	_	3	Tatpurusha
+3	patiM	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	Atman	_	_	2	Bahuvrihi
+2	svarUpa	_	_	3	Tatpurusha
+3	Dfk	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	kalA	_	_	3	Dvandva
+2	kAzWA	_	_	3	Dvandva
+3	muhUrtta	_	_	4	Bahuvrihi
+4	Adi	_	_	5	Tatpurusha
+5	kAla	_	_	6	Tatpurusha
+6	sUtrasya	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	kArya	_	_	2	Dvandva
+2	kartf	_	_	3	Bahuvrihi
+3	svarUpaM	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	ayuta	_	_	2	Tatpurusha
+2	ayuta	_	_	3	Tatpurusha
+3	aMSa	_	_	4	Tatpurusha
+4	aMSe	_	_	7	Comp_root
+5	viSva	_	_	6	Tatpurusha
+6	SaktiH	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	para	_	_	2	Tatpurusha
+2	brahma	_	_	3	Bahuvrihi
+3	svarUpaM	_	_	6	Comp_root
+4	na	_	_	5	Tatpurusha
+5	vyayam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	puRya	_	_	2	Dvandva
+2	pApa	_	_	3	Tatpurusha
+3	kzaye	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	brahman	_	_	3	Dvandva
+2	vizRu	_	_	3	Dvandva
+3	Siva	_	_	4	Bahuvrihi
+4	AtmikAH	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	BUta	_	_	2	Dvandva
+2	Bavya	_	_	3	Tatpurusha
+3	ISa	_	_	9	Comp_root
+4	yajYa	_	_	5	Tatpurusha
+5	mUrtti	_	_	6	Tatpurusha
+6	Dara	_	_	9	Comp_root
+7	na	_	_	8	Tatpurusha
+8	vyaya	_	_	9	Comp_root
+9	DUMMY	CompNo	_	0	root
+
+1	SaNKa	_	_	2	Dvandva
+2	cakra	_	_	3	Tatpurusha
+3	Dfk	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	SaNKa	_	_	3	Dvandva
+2	cakra	_	_	3	Dvandva
+3	gadA	_	_	4	Tatpurusha
+4	Daram	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	na	_	_	2	Tatpurusha
+2	pUrva	_	_	3	Tatpurusha
+3	rUpa	_	_	4	Tatpurusha
+4	saMsTAnaM	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	saMkzoBa	_	_	2	Tatpurusha
+2	stimita	_	_	3	Bahuvrihi
+3	IkzaRAH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	puRqarIka	_	_	2	Bahuvrihi
+2	akzaM	_	_	6	Comp_root
+3	pitAmaha	_	_	5	Bahuvrihi
+4	puras	_	_	5	Tatpurusha
+5	gamAH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	na	_	_	2	Tatpurusha
+2	Seza	_	_	3	Tatpurusha
+3	aGa	_	_	4	Tatpurusha
+4	nASanam	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	sAmAnya	_	_	2	Tatpurusha
+2	Pala	_	_	3	Tatpurusha
+3	BoktAraH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	tri	_	_	2	Bahuvrihi
+2	daSa	_	_	3	Tatpurusha
+3	dvizaH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	kzIra	_	_	2	Tatpurusha
+2	abDi	_	_	3	Tatpurusha
+3	payasi	_	_	9	Comp_root
+4	Sarat	_	_	5	Tatpurusha
+5	aBra	_	_	7	Tatpurusha
+6	na	_	_	7	Tatpurusha
+7	mala	_	_	8	Tatpurusha
+8	tvizi	_	_	9	Comp_root
+9	DUMMY	CompNo	_	0	root
+
+1	muKa	_	_	2	Tatpurusha
+2	niSvAsa	_	_	3	Tatpurusha
+3	vahni	_	_	4	Tatpurusha
+4	tApa	_	_	5	Tatpurusha
+5	hata	_	_	6	Bahuvrihi
+6	tvizaH	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	muKa	_	_	2	Tatpurusha
+2	niSvAsa	_	_	3	Tatpurusha
+3	vAyunA	_	_	6	Comp_root
+4	asta	_	_	5	Tatpurusha
+5	balAhakEH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	cakra	_	_	2	Dvandva
+2	gadA	_	_	3	Tatpurusha
+3	DaraH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	mada	_	_	2	Tatpurusha
+2	AGUrRita	_	_	3	Bahuvrihi
+3	locanA	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	deva	_	_	2	Tatpurusha
+2	strI	_	_	3	Tatpurusha
+3	nandanaH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	rUpa	_	_	2	Dvandva
+2	OdArya	_	_	3	Tatpurusha
+3	guRa	_	_	4	Tatpurusha
+4	upetaH	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	kzIroda	_	_	2	Tatpurusha
+2	abDi	_	_	3	Tatpurusha
+3	samutTitam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	Sveta	_	_	2	Tatpurusha
+2	ambara	_	_	3	Tatpurusha
+3	DaraH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	dik	_	_	2	Tatpurusha
+2	gajA	_	_	8	Comp_root
+3	heman	_	_	4	Tatpurusha
+4	pAtra	_	_	5	Tatpurusha
+5	sTam	_	_	8	Comp_root
+6	vi	_	_	7	Bahuvrihi
+7	malaM	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	sarva	_	_	2	Tatpurusha
+2	loka	_	_	4	Tatpurusha
+3	mahat	_	_	4	Tatpurusha
+4	ISvarIm	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	rUpa	_	_	2	Tatpurusha
+2	Dfk	_	_	7	Comp_root
+3	a	_	_	4	Tatpurusha
+4	mlAna	_	_	6	Bahuvrihi
+5	paNka	_	_	6	Tatpurusha
+6	jAm	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	divya	_	_	3	Tatpurusha
+2	mAlya	_	_	3	Dvandva
+3	ambara	_	_	4	Tatpurusha
+4	DarA	_	_	7	Comp_root
+5	BUzaRa	_	_	6	Tatpurusha
+6	BUzitA	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	hari	_	_	3	Tatpurusha
+2	vakzas	_	_	3	Tatpurusha
+3	sTala	_	_	4	Tatpurusha
+4	sTayA	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	vizRu	_	_	3	Tatpurusha
+2	parAN	_	_	3	Bahuvrihi
+3	muKAH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	Danvantari	_	_	2	Tatpurusha
+2	kara	_	_	3	Tatpurusha
+3	sTitam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	strI	_	_	2	Tatpurusha
+2	rUpa	_	_	3	Tatpurusha
+3	saMsTitaH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	udyata	_	_	3	Bahuvrihi
+2	AyuDa	_	_	3	Dvandva
+3	nistraMSAH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	SaNKa	_	_	3	Dvandva
+2	cakra	_	_	3	Dvandva
+3	gadA	_	_	4	Tatpurusha
+4	Bftam	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	trE	_	_	2	Tatpurusha
+2	lokyaM	_	_	6	Comp_root
+3	dvi	_	_	4	Tatpurusha
+4	ja	_	_	5	Tatpurusha
+5	sattama	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	tri	_	_	2	Bahuvrihi
+2	daSa	_	_	3	Tatpurusha
+3	SrezWaH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	unnidra	_	_	2	Tatpurusha
+2	padma	_	_	3	Bahuvrihi
+3	akzIM	_	_	8	Comp_root
+4	vizRu	_	_	6	Tatpurusha
+5	vakzas	_	_	6	Tatpurusha
+6	sTala	_	_	7	Tatpurusha
+7	sTitAm	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	padma	_	_	2	Bahuvrihi
+2	AlayAM	_	_	9	Comp_root
+3	padma	_	_	4	Bahuvrihi
+4	karAM	_	_	9	Comp_root
+5	padma	_	_	6	Tatpurusha
+6	patra	_	_	7	Tatpurusha
+7	niBa	_	_	8	Bahuvrihi
+8	IkzaRAm	_	_	9	Comp_root
+9	DUMMY	CompNo	_	0	root
+
+1	padma	_	_	2	Bahuvrihi
+2	muKIM	_	_	6	Comp_root
+3	padma	_	_	4	Bahuvrihi
+4	nABa	_	_	5	Tatpurusha
+5	priyAm	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	Atman	_	_	2	Tatpurusha
+2	vidyA	_	_	6	Comp_root
+3	vimukti	_	_	4	Tatpurusha
+4	Pala	_	_	5	Tatpurusha
+5	dAyinI	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	sOmya	_	_	3	Dvandva
+2	na	_	_	3	Tatpurusha
+3	sOmyEH	_	_	6	Comp_root
+4	jagat	_	_	5	Tatpurusha
+5	rUpEH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	AgAra	_	_	4	Dvandva
+2	suhft	_	_	4	Dvandva
+3	DAnya	_	_	4	Dvandva
+4	Dana	_	_	5	Bahuvrihi
+5	Adikam	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	SarIra	_	_	2	Dvandva
+2	Arogyam	_	_	6	Comp_root
+3	ari	_	_	4	Tatpurusha
+4	pakza	_	_	5	Tatpurusha
+5	kzayaH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	yuzmad	_	_	2	Tatpurusha
+2	dfzwi	_	_	3	Tatpurusha
+3	dfzwAnAM	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	cara	_	_	3	Dvandva
+2	na	_	_	3	Tatpurusha
+3	caram	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	sarva	_	_	2	Tatpurusha
+2	devAnAM	_	_	8	Comp_root
+3	sarva	_	_	4	Tatpurusha
+4	BUta	_	_	5	Tatpurusha
+5	sTitA	_	_	8	Comp_root
+6	dvi	_	_	7	Tatpurusha
+7	ja	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	trE	_	_	2	Tatpurusha
+2	lokyaM	_	_	6	Comp_root
+3	tri	_	_	4	Bahuvrihi
+4	daSa	_	_	5	Tatpurusha
+5	SrezWa	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	stotra	_	_	2	Tatpurusha
+2	ArADana	_	_	3	Tatpurusha
+3	tuzwayA	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	deva	_	_	2	Dvandva
+2	dAnava	_	_	3	Tatpurusha
+3	yatnena	_	_	6	Comp_root
+4	amfta	_	_	5	Tatpurusha
+5	manTane	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	sakala	_	_	2	Tatpurusha
+2	viBUti	_	_	3	Tatpurusha
+3	avApti	_	_	4	Tatpurusha
+4	hetuH	_	_	8	Comp_root
+5	indra	_	_	6	Tatpurusha
+6	muKa	_	_	7	Tatpurusha
+7	udgatA	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	Atman	_	_	2	Tatpurusha
+2	ja	_	_	3	Tatpurusha
+3	trayam	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	vAji	_	_	2	Tatpurusha
+2	rUpa	_	_	3	Tatpurusha
+3	DaraH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	pfTuSrava	_	_	2	Bahuvrihi
+2	AdyAH	_	_	6	Comp_root
+3	dakzasAvarRika	_	_	5	Tatpurusha
+4	Atman	_	_	5	Tatpurusha
+5	jAH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	mahat	_	_	2	Bahuvrihi
+2	vIryAH	_	_	6	Comp_root
+3	mahat	_	_	5	Tatpurusha
+4	nf	_	_	5	Tatpurusha
+5	pAH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	citrasena	_	_	2	Dvandva
+2	vicitra	_	_	3	Bahuvrihi
+3	AdyAH	_	_	6	Comp_root
+4	mahI	_	_	5	Tatpurusha
+5	kzitaH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	Uru	_	_	2	Dvandva
+2	gaMBIrabudDi	_	_	3	Bahuvrihi
+3	AdyAH	_	_	6	Comp_root
+4	nf	_	_	5	Tatpurusha
+5	pAH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	catur	_	_	2	Tatpurusha
+2	yuga	_	_	3	Tatpurusha
+3	ante	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	tad	_	_	2	Tatpurusha
+2	anvaya	_	_	3	Bahuvrihi
+3	udBavEH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	sahasra	_	_	2	Tatpurusha
+2	yuga	_	_	3	Bahuvrihi
+3	paryantaH	_	_	6	Comp_root
+4	nis	_	_	5	Bahuvrihi
+5	SezaH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	brahma	_	_	2	Tatpurusha
+2	rUpa	_	_	3	Tatpurusha
+3	DaraH	_	_	8	Comp_root
+4	Seza	_	_	5	Tatpurusha
+5	ahO	_	_	8	Comp_root
+6	ambu	_	_	7	Tatpurusha
+7	saMplave	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	sva	_	_	2	Tatpurusha
+2	mAyA	_	_	3	Tatpurusha
+3	saMsTitaH	_	_	6	Comp_root
+4	sarva	_	_	5	Tatpurusha
+5	BUtaH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	sTiti	_	_	2	Tatpurusha
+2	karaH	_	_	6	Comp_root
+3	dvi	_	_	4	Tatpurusha
+4	ja	_	_	5	Tatpurusha
+5	sattama	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	catur	_	_	2	Tatpurusha
+2	yuge	_	_	6	Comp_root
+3	sTiti	_	_	4	Tatpurusha
+4	vyApAra	_	_	5	Bahuvrihi
+5	lakzaRaH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	kapila	_	_	2	Bahuvrihi
+2	Adi	_	_	3	Tatpurusha
+3	svarUpa	_	_	4	Tatpurusha
+4	Dfk	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	sarva	_	_	2	Tatpurusha
+2	BUta	_	_	3	Tatpurusha
+3	AtmA	_	_	7	Comp_root
+4	sarva	_	_	5	Tatpurusha
+5	BUta	_	_	6	Tatpurusha
+6	hite	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	vedavyAsa	_	_	2	Tatpurusha
+2	svarUpa	_	_	3	Tatpurusha
+3	Dfk	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	na	_	_	2	Tatpurusha
+2	anta	_	_	3	Bahuvrihi
+3	AtmA	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	veda	_	_	2	Tatpurusha
+2	vyAsa	_	_	4	Tatpurusha
+3	sva	_	_	4	Tatpurusha
+4	rUpeRa	_	_	7	Comp_root
+5	yuge	_	_	6	Dvandva
+6	yuge	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	veda	_	_	2	Tatpurusha
+2	vyAsa	_	_	3	Bahuvrihi
+3	aBiDAnA	_	_	6	Comp_root
+4	maDu	_	_	5	Tatpurusha
+5	dvizaH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	fk	_	_	4	Dvandva
+2	yajus	_	_	4	Dvandva
+3	sAma	_	_	4	Dvandva
+4	aTarvARaH	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	na	_	_	2	Tatpurusha
+2	gADa	_	_	4	Bahuvrihi
+3	na	_	_	4	Tatpurusha
+4	pAram	_	_	8	Comp_root
+5	jagat	_	_	7	Bahuvrihi
+6	saMmohana	_	_	7	Tatpurusha
+7	Alayam	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	sva	_	_	2	Tatpurusha
+2	prakASa	_	_	3	Dvandva
+3	pravfttiByAM	_	_	7	Comp_root
+4	puruza	_	_	5	Tatpurusha
+5	arTa	_	_	6	Tatpurusha
+6	prayojanam	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	sANKya	_	_	2	Tatpurusha
+2	jYAnavatAM	_	_	6	Comp_root
+3	Sama	_	_	4	Dvandva
+4	dama	_	_	5	Bahuvrihi
+5	AtmanAm	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	na	_	_	2	Tatpurusha
+2	viBAgaM	_	_	8	Comp_root
+3	na	_	_	4	Bahuvrihi
+4	kzayaM	_	_	8	Comp_root
+5	bahuDA	_	_	7	Bahuvrihi
+6	Atma	_	_	7	Bahuvrihi
+7	kam	_	_	8	Comp_root
+8	DUMMY	CompNo	_	0	root
+
+1	fk	_	_	3	Dvandva
+2	yajus	_	_	3	Dvandva
+3	sAma	_	_	4	Tatpurusha
+4	sAra	_	_	5	Bahuvrihi
+5	AtmA	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	SAKA	_	_	2	Tatpurusha
+2	praRetA	_	_	9	Comp_root
+3	samasta	_	_	4	Tatpurusha
+4	SAKA	_	_	5	Tatpurusha
+5	jYAna	_	_	6	Bahuvrihi
+6	svarUpaH	_	_	9	Comp_root
+7	na	_	_	8	Bahuvrihi
+8	saNgaH	_	_	9	Comp_root
+9	DUMMY	CompNo	_	0	root
+
+1	BU	_	_	2	Dvandva
+2	samudra	_	_	3	Bahuvrihi
+3	Adi	_	_	4	Tatpurusha
+4	saMsTitiH	_	_	5	Comp_root
+5	DUMMY	CompNo	_	0	root
+
+1	cAtur	_	_	2	Tatpurusha
+2	varRyasya	_	_	6	Comp_root
+3	tiryak	_	_	4	Tatpurusha
+4	yoni	_	_	5	Tatpurusha
+5	gatasya	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	Druva	_	_	2	Dvandva
+2	prahlAda	_	_	3	Tatpurusha
+3	caritaM	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	manvantara	_	_	2	Tatpurusha
+2	aDipAn	_	_	7	Comp_root
+3	Sakra	_	_	4	Dvandva
+4	deva	_	_	6	Bahuvrihi
+5	puras	_	_	6	Tatpurusha
+6	gamAn	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	atIta	_	_	3	Dvandva
+2	na	_	_	3	Tatpurusha
+3	AgatAni	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	cEtra	_	_	2	Dvandva
+2	kiMpuruza	_	_	3	Bahuvrihi
+3	AdyAH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	paraSu	_	_	2	Dvandva
+2	dIpta	_	_	3	Bahuvrihi
+3	AdyAH	_	_	6	Comp_root
+4	uttama	_	_	5	Tatpurusha
+5	manoH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	Sata	_	_	2	Tatpurusha
+2	yajYa	_	_	3	Bahuvrihi
+3	upalakzaRaH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	su	_	_	3	Tatpurusha
+2	mahat	_	_	3	Bahuvrihi
+3	balAH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	manvantara	_	_	2	Tatpurusha
+2	aDipAn	_	_	6	Comp_root
+3	Atman	_	_	4	Tatpurusha
+4	vaMSa	_	_	5	Tatpurusha
+5	jAn	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	Satadyumna	_	_	2	Bahuvrihi
+2	pramuKAH	_	_	6	Comp_root
+3	su	_	_	5	Tatpurusha
+4	mahat	_	_	5	Bahuvrihi
+5	balAH	_	_	6	Comp_root
+6	DUMMY	CompNo	_	0	root
+
+1	Aditya	_	_	3	Dvandva
+2	vasu	_	_	3	Dvandva
+3	rudra	_	_	4	Bahuvrihi
+4	AdyAH	_	_	7	Comp_root
+5	mahat	_	_	6	Tatpurusha
+6	mune	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
+1	tri	_	_	2	Bahuvrihi
+2	daSa	_	_	3	Tatpurusha
+3	ISvaraH	_	_	4	Comp_root
+4	DUMMY	CompNo	_	0	root
+
+1	tri	_	_	2	Bahuvrihi
+2	daSa	_	_	3	Tatpurusha
+3	ISa	_	_	4	Tatpurusha
+4	BUtaH	_	_	7	Comp_root
+5	na	_	_	6	Tatpurusha
+6	SezAH	_	_	7	Comp_root
+7	DUMMY	CompNo	_	0	root
+
