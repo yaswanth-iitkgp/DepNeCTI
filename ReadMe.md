@@ -50,8 +50,8 @@ And then activate this environment and you are good to go now !!
 * First you have to place the pretrained models folders in saved_models, download them [here](https://drive.google.com/drive/folders/1rHoRCxu94KeXhBXHMfb0_qDWpXYz-agT?usp=sharing) and unzip them into `saved_models` folder.
 * Now place your input file that has sentences with compounds in them (see the `input.txt` in `data_MT` folder) in data_MT with renaming the file to `input.txt`
 * open the file run_NeCTIS_for_MT.sh and then set 
-** the `label_type` flag to `Coarse` / `Finegrain` 
-** the `input_format` to `IAST` / `DEVANAGIRI` / `SLP1` 
+* * the `label_type` flag to `Coarse` / `Finegrain` 
+* * the `input_format` to `IAST` / `DEVANAGIRI` / `SLP1` 
 * The Predictions will be saved in `/saved_models/$label_type/domain_san_test_model_domain_san_data_domain_san_pred.txt` and also in `/data_MT/pred_file.txt`
 * But the order of pred_file.txt is different so 
 * To run the system do this
