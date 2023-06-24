@@ -38,7 +38,24 @@ And then activate this environment and you are good to go now !!
 ## How to train Proposed model for NeCTIS
 * To run proposed system: simply run bash script `run_NeCTIS.sh` and place the respective dataset similar to those files in the data. With these scripts you will be able to reproduce our results for proposed model reported in Table 2.
 
+## How to calculate F1, P, R for NeCTIS format
+* Use the script given in `Evaluation` folder
 
 ## How to reproduce the results shown for other baselines
 * Go to the respective folders in the `Baselines` folder and follow the readme files given there.
 * Note: for using any baseline the data will have names like "genia", "GENIA" etc but that data is NeCTIS data only, the names are left unchanged to avoid creating trouble when running the model.
+
+
+## How to Use this NeCTIS model for getting compounds with labels, useful for Machine Translation task
+* First you have to place the pretrained models folders in saved_models, download them [here](https://drive.google.com/drive/folders/1rHoRCxu94KeXhBXHMfb0_qDWpXYz-agT?usp=sharing) and unzip them into `saved_models` folder.
+* Now place your input file that has sentences with compounds in them (see the `input.txt` in `data_MT` folder) in data_MT with renaming the file to `input.txt`
+* open the file run_NeCTIS_for_MT.sh and then set 
+** the `label_type` flag to `Coarse` / `Finegrain` 
+** the `input_format` to `IAST` / `DEVANAGIRI` / `SLP1` 
+* The Predictions will be saved in `/saved_models/$label_type/domain_san_test_model_domain_san_data_domain_san_pred.txt` and also in `/data_MT/pred_file.txt`
+* But the order of pred_file.txt is different so 
+* To run the system do this
+```
+bash run_NeCTIS_for_MT.sh
+```
+* Ignore the UAS, LAS scores given while inference.

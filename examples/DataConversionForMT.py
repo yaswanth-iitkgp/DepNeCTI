@@ -82,7 +82,7 @@ def main():
     args = read_arguments()
     script_dir = os.path.dirname(os.path.abspath(__file__))
 
-    infile = os.path.join(script_dir, "..", "data_MT", "input_IAST.txt")
+    infile = os.path.join(script_dir, "..", "data_MT", "input.txt")
     outfile = os.path.join(script_dir, '..', 'data_MT', 'NeCTIS_input_SLP1.txt')
     transliteration(infile,args.input_format,outfile,"SLP1")
 

@@ -8,8 +8,8 @@ declare -i word_dim=300
 start_time=`date +%s`
 current_time=$(date "+%Y.%m.%d-%H.%M.%S")
 touch $saved_models/base_log.txt
-#model_path=Coarse_NeCTIS
 
+input_format=IAST #mention your input data format
 label_type=Finegrain #Finegrain/Coarse
 
 if [ "$label_type" == "Finegrain" ]; then
@@ -24,7 +24,7 @@ fi
 echo "#################################################################"
 echo "Converting the given data into NeCTIS data format for MT ..."
 echo "#################################################################"
-python examples/DataConversionForMT.py --input_format IAST --label_type Finegrain
+python examples/DataConversionForMT.py --input_format $input_format --label_type $label_type
 
 
 
@@ -48,6 +48,12 @@ mv $saved_models/base_log.txt $saved_models/$model_path/base_log.txt
 
 
 echo "#################################################################"
-echo "Ignore the UAS, LAS scores mentioned here, Check your prediction file in saved_models/$label_type/domain_san_test_model_domain_san_data_domain_san_pred.txt"
+echo "Ignore the UAS, LAS scores mentioned here, Check your prediction file in saved_models/$model_path/domain_san_test_model_domain_san_data_domain_san_pred.txt or in /data_MT/pred_file.txt"
 echo "#################################################################"
 
+# Set the source and destination paths
+source_file="$saved_models/$model_path/domain_san_test_model_domain_san_data_domain_san_pred.txt"
+destination_file="data_MT/pred_file.txt"
+
+# Copy the file from source to destination
+cp "$source_file" "$destination_file"
