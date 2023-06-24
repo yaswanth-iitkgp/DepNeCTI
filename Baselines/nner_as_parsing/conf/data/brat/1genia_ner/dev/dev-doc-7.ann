@@ -1,0 +1,47 @@
+T1	Bs6 0 10	svarga Adi
+T2	K1 11 25	mahat Palatvam
+T3	K1 0 25	svarga Adi mahat Palatvam
+T4	T6 47 57	tad janaka
+T5	K1 58 73	tAdfSa saMskAre
+T6	K1 47 73	tad janaka tAdfSa saMskAre
+T7	T6 74 83	tad SaktO
+T8	K7 132 148	vEdyanATa BawwAH
+T9	Di 166 185	nija Agantu mAnasAH
+T10	Bs6 186 202	BAvanA prakAraka
+T11	K1 186 208	BAvanA prakAraka boDam
+T12	T6 218 229	BAva AKyAta
+T13	T5 218 235	BAva AKyAta Binna
+T14	K1 218 242	BAva AKyAta Binna AKyAta
+T15	K7 218 247	BAva AKyAta Binna AKyAta pada
+T16	T6 218 254	BAva AKyAta Binna AKyAta pada jYAnam
+T17	K1 282 291	kAma deva
+T18	T6 282 299	kAma deva anuyAna
+T19	T5 282 307	kAma deva anuyAna praBfti
+T20	T3 308 328	nayanamAtra saMstutA
+T21	Bs7 329 349	sannihita manoBavena
+T22	Di 387 396	agni vAyu
+T23	Bs6 387 403	agni vAyu AdinAm
+T24	K1 404 419	viviDa astrARAm
+T25	T6 446 455	tad Darma
+T26	T6 446 463	tad Darma AropeRa
+T27	Bs6 464 483	samAna aDikaraRayoH
+T28	Di 488 500	kArya kAraRa
+T29	T6 488 506	kArya kAraRa BAvAt
+T30	K1 507 517	bAhya Gawa
+T31	Bs6 507 522	bAhya Gawa AdiH
+T32	Tn 527 539	na aDikaraRa
+T33	T6 523 539	sva na aDikaraRa
+T34	K1 523 545	sva na aDikaraRa manas
+T35	T2 523 550	sva na aDikaraRa manas gata
+T36	K1 523 559	sva na aDikaraRa manas gata jYAnasya
+T37	T6 599 612	budDi cAturya
+T38	T6 599 619	budDi cAturya garBAm
+T39	K1 634 645	mahat rAjaH
+T40	K1 660 671	bahu mUlyaM
+T41	T3 672 686	hIraka jawitaM
+T42	T6 687 699	svarRa hAraM
+T43	T6 700 710	sva kaRWAt
+T44	Bs6 771 780	citra guH
+T45	K7 789 799	go padasya
+T46	T6 804 816	citra svAmin
+T47	Bs6 804 823	citra svAmin arTaka

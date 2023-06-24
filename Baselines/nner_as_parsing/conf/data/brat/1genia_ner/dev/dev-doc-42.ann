@@ -1,0 +1,57 @@
+T1	T6 0 14	vyutpatti vAda
+T2	T6 15 25	Sakti vAda
+T3	T6 26 38	viDi svarUpa
+T4	T6 26 45	viDi svarUpa vicAra
+T5	Di 0 45	vyutpatti vAda Sakti vAda viDi svarUpa vicAra
+T6	Bs6 0 50	vyutpatti vAda Sakti vAda viDi svarUpa vicAra AdIn
+T7	K1 51 70	svatantra prabanDAn
+T8	K1 82 92	SAbda boDa
+T9	T6 82 101	SAbda boDa padGatim
+T10	K1 115 130	sarva dArSanika
+T11	T6 115 136	sarva dArSanika citta
+T12	T6 115 146	sarva dArSanika citta vinodinIm
+T13	Tp 154 161	su kavi
+T14	T6 154 166	su kavi mati
+T15	Bsu 154 175	su kavi mati vicitraH
+T16	T6 176 189	mitra saMyoga
+T17	T3 176 196	mitra saMyoga hfdyaH
+T18	T6 197 210	kftAnta Salya
+T19	T3 197 218	kftAnta Salya aBihate
+T20	T6 240 253	hfdaya vraRaH
+T21	Bv 257 269	tadDita anta
+T22	T6 257 281	tadDita anta tva aBAvena
+T23	K1 282 297	dvitIya dalasya
+T24	Tn 335 346	na avakASAt
+T25	Di 347 357	icCA dveza
+T26	T3 347 367	icCA dveza samutTena
+T27	T3 368 382	dvandva mohena
+T28	K7 390 405	miTyA pratyayaH
+T29	Di 409 424	sTARu puruzayoH
+T30	Tn 425 437	na gfhyamARa
+T31	K1 425 447	na gfhyamARa viSezayoH
+T32	K1 448 459	dyotya arTa
+T33	Bs6 448 470	dyotya arTa viSezaRaka
+T34	K1 471 482	SAbda budDO
+T35	K1 448 482	dyotya arTa viSezaRaka SAbda budDO
+T36	K1 487 498	dyotya arTa
+T37	T6 487 508	dyotya arTa upasTiteH
+T38	K7 518 527	upa Sabda
+T39	T3 518 537	upa Sabda dyotyasya
+T40	T6 549 562	kumBa viSezya
+T41	T6 568 581	boDa saMBavAt
+T42	T6 593 607	Bagavat gItAsu
+T43	K1 586 607	SrImat Bagavat gItAsu
+T44	T6 619 634	brahma vidyAyAm
+T45	K7 635 646	yoga SAstre
+T46	Di 647 662	SrIkfzRa arjuna
+T47	T6 647 670	SrIkfzRa arjuna saMvAde
+T48	Di 671 685	prakfti puruza
+T49	T6 671 692	prakfti puruza viveka
+T50	K6 671 698	prakfti puruza viveka yogaH
+T51	K1 730 743	rAjan kumAraM
+T52	T6 723 743	nizaDa rAjan kumAraM
+T53	K1 753 763	mahat rAja
+T54	K7 744 763	vIrasena mahat rAja
+T55	T6 723 770	nizaDa rAjan kumAraM vIrasena mahat rAja putraM
+T56	Di 814 849	rUkza laGu SIta dAruRa Kara viSadAH
+T57	T6 857 867	vAta guRAH

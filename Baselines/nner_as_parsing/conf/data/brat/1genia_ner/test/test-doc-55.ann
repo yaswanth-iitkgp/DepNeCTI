@@ -1,0 +1,42 @@
+T1	K1 3 14	samAna guRa
+T2	Di 3 29	samAna guRa aByAsa virudDa
+T3	Di 30 46	anna ozaDa kriyA
+T4	K1 3 46	samAna guRa aByAsa virudDa anna ozaDa kriyA
+T5	T6 53 66	nIla tAdAtmya
+T6	Bs6 77 88	iti AkAraka
+T7	Bs6 89 104	aBeda prakAraka
+T8	K3 77 104	iti AkAraka aBeda prakAraka
+T9	T6 105 115	SAbda boDe
+T10	K1 77 115	iti AkAraka aBeda prakAraka SAbda boDe
+T11	K1 116 126	bADa jYAna
+T12	T6 116 133	bADa jYAna viDayA
+T13	Tn 154 162	na Binna
+T14	T5 148 162	cEtra na Binna
+T15	Bs6 148 172	cEtra na Binna ASrayakaH
+T16	K1 173 189	vartamAna svApaH
+T17	T6 194 206	anvaya boDaH
+T18	K1 207 217	etat sTala
+T19	T6 207 227	etat sTala anuroDena
+T20	Tm 228 244	vyutpatti antara
+T21	T6 228 253	vyutpatti antara kalpanam
+T22	T6 257 271	sarva aBimatam
+T23	T6 288 298	sva jIvana
+T24	T6 288 307	sva jIvana rahasyaM
+T25	T6 329 338	sva karma
+T26	T3 329 346	sva karma labDena
+T27	T3 376 388	advEta sidDa
+T28	Bsmn 389 397	na KaRqa
+T29	K1 389 402	na KaRqa arTa
+T30	T6 389 407	na KaRqa arTa vAde
+T31	K1 376 407	advEta sidDa na KaRqa arTa vAde
+T32	Di 408 418	vAta pitta
+T33	T6 408 428	vAta pitta praSamanI
+T34	T6 437 449	bala varDanI
+T35	T6 450 461	payas himaM
+T36	T6 490 501	payas himaM
+T37	T6 490 508	payas himaM udyogI
+T38	K1 604 618	sarva prakArEH
+T39	Bs6 619 629	mAnasa Adi
+T40	K1 619 635	mAnasa Adi BedEH
+T41	T6 646 662	indriya arTeByaH
+T42	Bs6 663 676	Sabda AdiByaH

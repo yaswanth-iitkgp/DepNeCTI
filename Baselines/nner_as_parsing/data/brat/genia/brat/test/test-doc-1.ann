@@ -1,0 +1,31 @@
+T1	Tatpurusha 0 12	C3<sarga Adi
+T2	Tatpurusha 0 19	C3<sarga Adi kft>C3
+T3	Tatpurusha 20 30	C3<fk veda
+T4	Bahuvrihi 20 37	C3<fk veda Adi>C3
+T5	Tatpurusha 38 51	C4<sarva deva
+T6	Tatpurusha 38 56	C4<sarva deva suKa
+T7	Tatpurusha 38 66	C4<sarva deva suKa Avaham>C4
+T8	Dvandva 67 81	C3<Bukti mukti
+T9	Tatpurusha 67 91	C3<Bukti mukti pradam>C3
+T10	Dvandva 92 104	C3<kAla agni
+T11	Tatpurusha 92 112	C3<kAla agni rUpa>C3
+T12	Tatpurusha 113 130	C4<saMsAra sAgara
+T13	Tatpurusha 113 137	C4<saMsAra sAgara uttAra
+T14	Tatpurusha 113 146	C4<saMsAra sAgara uttAra nAvam>C4
+T15	Dvandva 147 169	C3<kAla agni rudraH>C3
+T16	Tatpurusha 170 187	C2<vidyA sAram>C2
+T17	Bahuvrihi 188 212	C2<vaMSAnucarita AdeH>C2
+T18	Dvandva 213 229	C5<matsya kUrmma
+T19	Bahuvrihi 213 233	C5<matsya kUrmma Adi
+T20	Tatpurusha 213 238	C5<matsya kUrmma Adi rUpa
+T21	Tatpurusha 213 245	C5<matsya kUrmma Adi rUpa Dfk>C5
+T22	Dvandva 246 269	C5<fk yajuH sAma aTarva
+T23	Bahuvrihi 246 278	C5<fk yajuH sAma aTarva AKyAH>C5
+T24	Tatpurusha 279 296	C2<veda aNgAni>C2
+T25	Dvandva 297 326	C3<nyAya vEdyaka gAnDarvam>C3
+T26	Tatpurusha 327 344	C2<Danuz vedaH>C2
+T27	Tatpurusha 345 362	C2<arTa SAstra>C2
+T28	Tatpurusha 363 378	C2<na dfSyam>C2
+T29	Tatpurusha 379 395	C2<na grAhyam>C2
+T30	Bahuvrihi 396 417	C3<a gotra caraRam>C3
+T31	Dvandva 401 417	gotra caraRam>C3

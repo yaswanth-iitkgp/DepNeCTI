@@ -1,0 +1,41 @@
+T1	K1 0 10	lamba SiKA
+T2	T3 0 18	lamba SiKA BUzitam
+T3	Ds 31 44	aBara klinnam
+T4	T3 25 44	sveda aBara klinnam
+T5	T6 56 66	pada arTAH
+T6	T6 78 88	pada arTEH
+T7	T6 89 99	vAkya arTa
+T8	T6 89 108	vAkya arTa anuBavaH
+T9	Di 122 134	mAlya ambara
+T10	K1 116 134	divya mAlya ambara
+T11	U 116 140	divya mAlya ambara Daram
+T12	T6 147 163	ganDa anulepanam
+T13	Bs6 141 163	divya ganDa anulepanam
+T14	T6 170 179	arTa boDa
+T15	T6 170 186	arTa boDa janaka
+T16	T6 170 200	arTa boDa janaka tA avacCedaka
+T17	T6 207 221	saMketa jYAnam
+T18	Tn 230 244	na vijYAtatayA
+T19	U 245 254	dUra sTam
+T20	T6 255 268	varza sahasra
+T21	T6 255 274	varza sahasra kowyA
+T22	Tn 279 289	na viduzAm
+T23	Tn 290 303	na prApyatvAt
+T24	T6 316 328	evakAra arTa
+T25	T6 329 338	anya yoga
+T26	T6 329 349	anya yoga vyavacCeda
+T27	K1 316 349	evakAra arTa anya yoga vyavacCeda
+T28	K1 350 358	eka deSe
+T29	T6 316 358	evakAra arTa anya yoga vyavacCeda eka deSe
+T30	T6 391 402	yAga samaye
+T31	K1 403 416	viSizwa atiTi
+T32	T6 403 423	viSizwa atiTi rUpeRa
+T33	U 465 473	Atman hA
+T34	T6 508 519	SAstra arTa
+T35	T6 508 530	SAstra arTa saMpradAya
+T36	T3 508 541	SAstra arTa saMpradAya rahitatvAt
+T37	K1 542 555	saNkIrRa doza
+T38	T3 542 562	saNkIrRa doza rahitA
+T39	T6 578 589	rAjan putrA
+T40	T6 590 600	dAha kriyA
+T41	T4 590 606	dAha kriyA arTam

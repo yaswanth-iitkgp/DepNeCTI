@@ -1,0 +1,46 @@
+T1	T3 0 10	rozA aruRa
+T2	K1 0 18	rozA aruRa nayanaH
+T3	Bs6 137 150	pratyakza Adi
+T4	Tm 151 162	mAna antara
+T5	K1 137 162	pratyakza Adi mAna antara
+T6	T3 137 174	pratyakza Adi mAna antara upasTitasya
+T7	K1 175 185	SAbda boDe
+T8	T6 186 198	BAna aBAvena
+T9	Bs6 199 211	tad vizayaka
+T10	T6 212 222	SAbda boDe
+T11	K1 199 222	tad vizayaka SAbda boDe
+T12	T3 223 233	pada janya
+T13	T6 234 247	tad upasTiteH
+T14	K1 223 247	pada janya tad upasTiteH
+T15	T6 304 314	indra jAla
+T16	T7 304 321	indra jAla nipuRA
+T17	T6 345 354	sva gfham
+T18	T6 367 381	nArAyaRa cakra
+T19	T5 367 385	nArAyaRa cakra jaM
+T20	T3 397 407	pra nazwAn
+T21	T2 392 407	cira pra nazwAn
+T22	Tp 430 440	vi kAryatA
+T23	T3 430 448	vi kAryatA grastaH
+T24	U 461 472	prakfti sTa
+T25	K1 461 480	prakfti sTa SarIraH
+T26	K1 481 492	Arya putraH
+T27	K2 560 578	aDyApaka capaRquka
+T28	K2 560 590	aDyApaka capaRquka mahodayasya
+T29	Bs6 653 667	niScita budDim
+T30	K1 668 682	sarva pApeByaH
+T31	Di 689 701	Darma aDarma
+T32	K1 683 701	sarva Darma aDarma
+T33	T6 683 709	sarva Darma aDarma banDana
+T34	K6 683 718	sarva Darma aDarma banDana rUpeByaH
+T35	T6 732 740	sva Atma
+T36	T6 732 745	sva Atma BAva
+T37	T6 732 761	sva Atma BAva prakASIkaraRena
+T38	Di 762 774	vAcya vAcaka
+T39	T6 762 779	vAcya vAcaka BAva
+T40	T6 762 789	vAcya vAcaka BAva vyavahAra
+T41	T6 762 799	vAcya vAcaka BAva vyavahAra niyAmakaH
+T42	T6 810 819	pada arTa
+T43	Tm 810 827	pada arTa antaram
+T44	T6 848 859	ulUka svara
+T45	T6 848 867	ulUka svara SravaRa
+T46	T3 848 874	ulUka svara SravaRa BItayA

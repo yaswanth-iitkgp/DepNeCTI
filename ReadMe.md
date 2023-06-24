@@ -1,11 +1,13 @@
-Official code for the paper ["NeCTIS: Nested Compound Type Identification for Sanskrit - Introducing a Novel Task, Datasets and Framework"]
-If you use this code please cite our paper.
+Official code for the paper `"NeCTIS: Nested Compound Type Identification for Sanskrit - Introducing a Novel Task, Datasets and Framework"`
 
 ## Requirements
 
 * Python 3.7 
-
-And the rest of the dependencies can be installed by simply creating a new environment using the environment.yml file.
+* cuda  11.7
+* torch              1.13.0
+* torchaudio         0.13.0
+* torchvision        0.14.0
+* And the rest of the dependencies can be installed by simply creating a new environment using the `environment.yml` file.
 
 We assume that you have installed conda beforehand. 
 
@@ -25,7 +27,7 @@ And then activate this environment and you are good to go now !!
 
 
 ## Pretrained embeddings for NeCTIS datasets
-* Pretrained FastText embeddings for NeCTIS can be obtained from [here](https://drive.google.com/drive/folders/1dM4u3cb1XDF_Z866t6VQmn2NeyK4nirW?usp=sharing). 
+* Pretrained FastText embeddings for NeCTIS can be obtained from [here](https://drive.google.com/drive/folders/1dM4u3cb1XDF_Z866t6VQmn2NeyK4nirW?usp=drive_link).
 * Make sure that `cc.NeCTIS.300.txt` file is placed at `data/`. And place the rest of the files in `word_vectors` folder.
 * The main results are reported on the systems trained by combining train and dev splits. 
 
@@ -38,12 +40,16 @@ And then activate this environment and you are good to go now !!
 ## How to train Proposed model for NeCTIS
 * To run proposed system: simply run bash script `run_NeCTIS.sh` and place the respective dataset similar to those files in the data. With these scripts you will be able to reproduce our results for proposed model reported in Table 2.
 
-## How to calculate F1, P, R for NeCTIS format
-* Use the script given in `Evaluation` folder
+## How to Know F1, Precision, Recall scores
+* Use the script provided in `Evaluation` folder to get the scores.
+
 
 ## How to reproduce the results shown for other baselines
+* Download the dataset from this [link](https://drive.google.com/drive/folders/1nr5keSzfeQuNWabX4CcWEHn9269RWNNB?usp=sharing) which are in the required format for each baseline.
 * Go to the respective folders in the `Baselines` folder and follow the readme files given there.
+* If you face problem in using this dataset from this link you can generate your data format using the `data_format.ipynb` in `Datasets/data_format`
 * Note: for using any baseline the data will have names like "genia", "GENIA" etc but that data is NeCTIS data only, the names are left unchanged to avoid creating trouble when running the model.
+
 
 
 ## How to Use this NeCTIS model for getting compounds with labels, useful for Machine Translation task
@@ -53,7 +59,6 @@ And then activate this environment and you are good to go now !!
 * * the `label_type` flag to `Coarse` / `Finegrain` 
 * * the `input_format` to `IAST` / `DEVANAGIRI` / `SLP1` 
 * The Predictions will be saved in `/saved_models/$label_type/domain_san_test_model_domain_san_data_domain_san_pred.txt` and also in `/data_MT/pred_file.txt`
-* But the order of pred_file.txt is different so 
 * To run the system do this
 ```
 bash run_NeCTIS_for_MT.sh

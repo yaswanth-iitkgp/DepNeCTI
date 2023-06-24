@@ -1,0 +1,48 @@
+T1	Tp 15 31	ati indriyatvena
+T2	Km 38 49	eka pramARa
+T3	K1 32 49	Sabda eka pramARa
+T4	T3 32 59	Sabda eka pramARa gamyatvAt
+T5	Bs6 63 71	Gawa Adi
+T6	K7 76 87	uBaya budDi
+T7	T2 76 95	uBaya budDi anugata
+T8	K1 76 104	uBaya budDi anugata pratyaya
+T9	T6 76 112	uBaya budDi anugata pratyaya vizayam
+T10	T6 151 166	ADunika saMketa
+T11	T6 151 172	ADunika saMketa sTale
+T12	T6 173 188	boDakatva jYAna
+T13	T6 173 194	boDakatva jYAna aBAve
+T14	T6 199 213	saMketa jYAnAt
+T15	K1 218 228	SAbda boDa
+T16	T6 218 237	SAbda boDa utpattyA
+T17	T6 250 268	boDakatva jYAnasya
+T18	Tn 279 290	na samBavAt
+T19	T6 269 290	kAraRatva na samBavAt
+T20	Di 326 346	lozwa aSman kAYcanaH
+T21	Bs6 321 346	sama lozwa aSman kAYcanaH
+T22	Di 347 368	lozwa aSman kAYcanAni
+T23	Di 391 411	lozwa aSman kAYcanaH
+T24	Bs6 386 411	sama lozwa aSman kAYcanaH
+T25	T3 412 426	kriyA atiyogaH
+T26	Di 435 445	vega nidrA
+T27	T6 435 456	vega nidrA vinigrahaH
+T28	Tn 504 512	na nicCA
+T29	T3 504 517	na nicCA kfta
+T30	K1 504 524	na nicCA kfta pApena
+T31	T6 530 543	rAjan makuwaM
+T32	T3 544 556	kalA vihInaM
+T33	T4 583 596	pavano dDAnta
+T34	K2 583 601	pavano dDAnta vIci
+T35	T6 583 616	pavano dDAnta vIci viBramaBaNgure
+T36	Bv 620 632	praTamA anta
+T37	T6 620 637	praTamA anta arTa
+T38	K1 638 651	muKya viSezya
+T39	Bs6 620 655	praTamA anta arTa muKya viSezya kaH
+T40	T6 656 666	dina dvaya
+T41	T6 656 675	dina dvaya pUrvasya
+T42	Di 703 720	jYAna vijYAnAByAm
+T43	K7 736 750	alam pratyayaH
+T44	Bs6 728 750	saMjAta alam pratyayaH
+T45	Di 779 792	jYAna vijYAna
+T46	Bb 779 803	jYAna vijYAna tfpta AtmA
+T47	K7 808 820	BAgari smfti
+T48	Bs6 808 832	BAgari smfti aBiprAyakaH

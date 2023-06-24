@@ -1,0 +1,43 @@
+T1	Tatpurusha 0 14	C3<pada antara
+T2	Tatpurusha 0 23	C3<pada antara Sakya>C3
+T3	Tatpurusha 24 38	C3<pada antara
+T4	Tatpurusha 24 47	C3<pada antara Sakya>C3
+T5	Tatpurusha 48 69	C7<SakyatA avacCedaka
+T6	Tatpurusha 48 75	C7<SakyatA avacCedaka Aropa
+T7	Bahuvrihi 48 80	C7<SakyatA avacCedaka Aropa AKya
+T8	Tatpurusha 48 96	C7<SakyatA avacCedaka Aropa AKya vilakzaRa vftti
+T9	Tatpurusha 48 107	C7<SakyatA avacCedaka Aropa AKya vilakzaRa vftti svIkAre>C7
+T10	Tatpurusha 81 96	vilakzaRa vftti
+T11	Tatpurusha 108 121	C5<sarva arTa
+T12	Tatpurusha 108 128	C5<sarva arTa vAcaka
+T13	Tatpurusha 108 144	C5<sarva arTa vAcaka tva svIkAraH>C5
+T14	Tatpurusha 145 160	C2<tfwi kAle>C2
+T15	Tatpurusha 161 175	C3<daSa yojana
+T16	Tatpurusha 161 183	C3<daSa yojana dUre>C3
+T17	Tatpurusha 184 220	C8<druta turaga raTa iBa BrAnta yoDa
+T18	Bahuvrihi 184 233	C8<druta turaga raTa iBa BrAnta yoDa ugra nAda>C8
+T19	Dvandva 193 220	turaga raTa iBa BrAnta yoDa
+T20	Tatpurusha 209 220	BrAnta yoDa
+T21	Dvandva 221 233	ugra nAda>C8
+T22	Tatpurusha 234 253	C2<pAWya boDanam>C2
+T23	Tatpurusha 254 270	C4<nUtana vizaya
+T24	Tatpurusha 254 281	C4<nUtana vizaya saMgrahaRa
+T25	Tatpurusha 254 290	C4<nUtana vizaya saMgrahaRa arTam>C4
+T26	Tatpurusha 291 308	C3<navIna pustaka
+T27	Tatpurusha 291 319	C3<navIna pustaka paWanam>C3
+T28	Tatpurusha 320 335	C3<mAtf prasAda
+T29	Tatpurusha 320 345	C3<mAtf prasAda labDaH>C3
+T30	Tatpurusha 346 362	C2<mAyA pASaH>C2
+T31	Tatpurusha 363 378	C3<na buButsita
+T32	Tatpurusha 363 391	C3<na buButsita avaboDane>C3
+T33	Tatpurusha 392 403	C3<na ADeya
+T34	Bahuvrihi 392 413	C3<na ADeya vacana>C3
+T35	Dvandva 414 444	C3<hfllAsa Asya sravaRAByAm>C3
+T36	Tatpurusha 425 444	Asya sravaRAByAm>C3
+T37	Tatpurusha 445 457	C4<kari vara
+T38	Tatpurusha 445 462	C4<kari vara kara
+T39	Bahuvrihi 445 471	C4<kari vara kara yUpaH>C4
+T40	Tatpurusha 472 488	C3<bARa vinyasta
+T41	Bahuvrihi 472 498	C3<bARa vinyasta darBaH>C3
+T42	Dvandva 499 512	C3<Danuz bARa
+T43	Bahuvrihi 499 521	C3<Danuz bARa hastA>C3

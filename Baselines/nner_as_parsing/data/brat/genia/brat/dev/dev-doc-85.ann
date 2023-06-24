@@ -1,0 +1,46 @@
+T1	Tatpurusha 0 11	C3<mat muKa
+T2	Tatpurusha 0 19	C3<mat muKa agre>C3
+T3	Tatpurusha 20 36	C2<pfzWa BAga>C2
+T4	Tatpurusha 37 52	C3<laGu maYjUzA
+T5	Tatpurusha 37 61	C3<laGu maYjUzA kftaH>C3
+T6	Bahuvrihi 62 73	C8<deha Adi
+T7	Tatpurusha 62 81	C8<deha Adi saMGAta
+T8	Dvandva 62 100	C8<deha Adi saMGAta aBimAna rAga dveza
+T9	Bahuvrihi 62 104	C8<deha Adi saMGAta aBimAna rAga dveza Adi
+T10	Tatpurusha 62 112	C8<deha Adi saMGAta aBimAna rAga dveza Adi kftO>C8
+T11	Dvandva 113 131	C2<Darma aDarmO>C2
+T12	Tatpurusha 132 143	C3<tat Pala
+T13	Tatpurusha 132 155	C3<tat Pala anuBavaH>C3
+T14	Tatpurusha 156 179	C3<ucca nyAya AlayaH>C3
+T15	Tatpurusha 164 179	nyAya AlayaH>C3
+T16	Tatpurusha 180 194	C3<siriyA deSa
+T17	Tatpurusha 180 201	C3<siriyA deSa sTe>C3
+T18	Tatpurusha 202 220	C2<berut nagare>C2
+T19	Tatpurusha 221 236	C3<ganDa ASraya
+T20	Tatpurusha 221 246	C3<ganDa ASraya puzpam>C3
+T21	Tatpurusha 247 258	C6<tad gata
+T22	Tatpurusha 247 264	C6<tad gata ganDa
+T23	Bahuvrihi 247 273	C6<tad gata ganDa vizayaka
+T24	Tatpurusha 247 283	C6<tad gata ganDa vizayaka pratyakza
+T25	Tatpurusha 247 293	C6<tad gata ganDa vizayaka pratyakza AnanAt>C6
+T26	Dvandva 294 317	C3<Kara viSada rUkza>C3
+T27	Dvandva 318 353	C5<pakza vaDagraha apatAnaka ardita
+T28	Bahuvrihi 318 365	C5<pakza vaDagraha apatAnaka ardita praBftIn>C5
+T29	Tatpurusha 366 384	C2<vAta vikArAn>C2
+T30	Tatpurusha 385 399	C3<sarva karma
+T31	Tatpurusha 385 412	C3<sarva karma saMnyAsAt>C3
+T32	Bahuvrihi 413 432	C2<BAva praDAnam>C2
+T33	Tatpurusha 433 453	C2<nirukta smftiH>C2
+T34	Tatpurusha 454 472	C4<BAvanA atirikta
+T35	Tatpurusha 454 479	C4<BAvanA atirikta AKyAta
+T36	Tatpurusha 454 488	C4<BAvanA atirikta AKyAta arTam>C4
+T37	Tatpurusha 489 503	C3<AKyAta arTa
+T38	Tatpurusha 489 516	C3<AKyAta arTa BAvanAyAH>C3
+T39	Dvandva 517 544	C4<sAmadeva gAnDAra hindolA
+T40	Bahuvrihi 517 554	C4<sAmadeva gAnDAra hindolA AdInAm>C4
+T41	Bahuvrihi 555 568	C5<GakAra Adi
+T42	Tatpurusha 555 592	C5<GakAra Adi pUrva pUrva varRAnAm>C5
+T43	Dvandva 569 580	pUrva pUrva
+T44	Tatpurusha 569 592	pUrva pUrva varRAnAm>C5
+T45	Tatpurusha 593 612	C4<tAtparya grAhaka
+T46	Tatpurusha 593 630	C4<tAtparya grAhaka tva aNgIkAreRa>C4

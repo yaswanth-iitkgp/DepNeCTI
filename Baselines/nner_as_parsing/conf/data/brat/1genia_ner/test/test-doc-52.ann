@@ -1,0 +1,49 @@
+T1	Tp 25 35	vi kAryatA
+T2	T3 25 43	vi kAryatA grastaH
+T3	T4 52 68	sAkzAtkAra arTam
+T4	K7 79 89	rAma Sabda
+T5	T6 79 95	rAma Sabda arTaH
+T6	T6 111 121	mAna BaNga
+T7	T6 111 132	mAna BaNga prayojakaH
+T8	K7 138 147	rAma nAma
+T9	T3 152 161	sva vAcya
+T10	K1 152 166	sva vAcya arTa
+T11	T6 152 172	sva vAcya arTa dvArA
+T12	T6 173 183	mAna BaNga
+T13	T6 173 194	mAna BaNga prayojakam
+T14	T6 215 227	mAna BaYjaka
+T15	T6 247 263	tAdAtmya ADyAsaH
+T16	Bs6 273 283	Sata patra
+T17	K1 264 283	vikasita Sata patra
+T18	T6 264 288	vikasita Sata patra dAma
+T19	T6 295 308	kowara antara
+T20	Km 295 313	kowara antara deha
+T21	T7 295 318	kowara antara deha sTAH
+T22	K1 375 389	mahat nagarIya
+T23	K1 375 398	mahat nagarIya padArTAn
+T24	T6 443 456	SayyA pramARa
+T25	T5 443 463	SayyA pramARa aDikam
+T26	T6 495 504	guda SoTa
+T27	Di 495 515	guda SoTa arSaH SUla
+T28	U 495 523	guda SoTa arSaH SUla harARAM
+T29	Di 477 523	dIpanIya pAcanIya guda SoTa arSaH SUla harARAM
+T30	K7 561 570	rAma nAma
+T31	Bs6 561 582	rAma nAma japarUpasya
+T32	T6 609 622	nAma samudAya
+T33	Bs6 609 630	nAma samudAya Atmanka
+T34	K1 609 640	nAma samudAya Atmanka samAsasya
+T35	K1 641 649	eka arTa
+T36	T6 641 655	eka arTa BAvam
+T37	K3 667 674	tad tad
+T38	K1 667 682	tad tad viBakti
+T39	T6 667 687	tad tad viBakti arTa
+T40	Bs6 667 697	tad tad viBakti arTa prakAraka
+T41	K1 698 709	SAbda boDam
+T42	K1 667 709	tad tad viBakti arTa prakAraka SAbda boDam
+T43	K3 716 723	tad tad
+T44	T6 724 734	kriyA pada
+T45	K1 716 734	tad tad kriyA pada
+T46	T3 716 740	tad tad kriyA pada janya
+T47	K1 716 750	tad tad kriyA pada janya upasTitiH
+T48	Di 773 785	kArya kAraRa
+T49	T6 773 791	kArya kAraRa BAvaH

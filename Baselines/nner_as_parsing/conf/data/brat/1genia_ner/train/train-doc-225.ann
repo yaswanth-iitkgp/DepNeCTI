@@ -1,0 +1,52 @@
+T1	K1 5 10	nf pa
+T2	T6 0 17	ripu nf pa nagare
+T3	T7 46 58	samAsa Sakti
+T4	Tn 59 70	na aNgIkAre
+T5	T6 46 70	samAsa Sakti na aNgIkAre
+T6	T6 75 88	rAjan puruzaH
+T7	K1 97 114	nirukta vyutpatti
+T8	T3 97 122	nirukta vyutpatti virudDa
+T9	K1 128 137	tad vAkya
+T10	Tn 138 154	na prAmARikatvam
+T11	T6 128 154	tad vAkya na prAmARikatvam
+T12	Bv 182 194	praTamA anta
+T13	T6 182 199	praTamA anta arTa
+T14	Bs6 182 209	praTamA anta arTa viSezyaka
+T15	K1 182 214	praTamA anta arTa viSezyaka boDa
+T16	T6 182 222	praTamA anta arTa viSezyaka boDa svIkAre
+T17	K1 250 259	eka vAkya
+T18	Tn 289 298	na AGrAta
+T19	K1 289 306	na AGrAta saByatA
+T20	T6 289 312	na AGrAta saByatA ganDA
+T21	K1 348 359	pUrva janma
+T22	T6 348 366	pUrva janma banDaH
+T23	T6 427 443	rAmAyaRa SravaRa
+T24	T6 427 453	rAmAyaRa SravaRa anantaraM
+T25	K7 498 509	sItA devyAH
+T26	K7 521 533	vAlmIki fzeH
+T27	T6 555 567	jala pravAha
+T28	T6 555 576	jala pravAha vyavasTA
+T29	T6 594 605	karman aNga
+T30	T2 594 611	karman aNga BUtAH
+T31	Bvp 623 632	nir agniH
+T32	K1 633 650	vyatireka lakzaRA
+T33	T6 633 656	vyatireka lakzaRA sTale
+T34	T3 657 669	tad nirUpita
+T35	K1 657 676	tad nirUpita viroDa
+T36	T6 657 686	tad nirUpita viroDa aDikaraRa
+T37	Bs6 657 694	tad nirUpita viroDa aDikaraRa tva Adi
+T38	T6 657 704	tad nirUpita viroDa aDikaraRa tva Adi paramparA
+T39	T6 657 713	tad nirUpita viroDa aDikaraRa tva Adi paramparA saMbanDa
+T40	Bv 657 721	tad nirUpita viroDa aDikaraRa tva Adi paramparA saMbanDa mAtreRa
+T41	T6 731 746	lakzaRA klfpteH
+T42	Bsmn 759 765	na Adi
+T43	T3 774 786	sva prayojya
+T44	K1 787 797	SAbda boDa
+T45	K1 774 797	sva prayojya SAbda boDa
+T46	T6 774 804	sva prayojya SAbda boDa DvaMsa
+T47	T6 774 809	sva prayojya SAbda boDa DvaMsa kAla
+T48	T3 814 826	sva prayojya
+T49	K1 827 837	SAbda boDa
+T50	T6 827 845	SAbda boDa sAmAnya
+T51	K1 814 845	sva prayojya SAbda boDa sAmAnya
+T52	Bs6 774 848	sva prayojya SAbda boDa DvaMsa kAla Ina sva prayojya SAbda boDa sAmAnya ka

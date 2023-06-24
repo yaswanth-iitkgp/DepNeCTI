@@ -1,0 +1,51 @@
+T1	Ds 6 23	kAya Siras grIvam
+T2	Di 46 59	kOmAra kAlApa
+T3	Bs6 46 63	kOmAra kAlApa Adi
+T4	T6 64 74	mata Bedam
+T5	T6 46 74	kOmAra kAlApa Adi mata Bedam
+T6	T6 104 114	Sara mArga
+T7	T6 104 120	Sara mArga lakza
+T8	T2 104 126	Sara mArga lakza BUtAH
+T9	T7 127 140	samAsa Gawaka
+T10	K1 141 154	pratyeka pada
+T11	K1 127 154	samAsa Gawaka pratyeka pada
+T12	T6 127 160	samAsa Gawaka pratyeka pada Sakti
+T13	T3 127 171	samAsa Gawaka pratyeka pada Sakti upasTApita
+T14	K1 127 176	samAsa Gawaka pratyeka pada Sakti upasTApita arTa
+T15	T5 127 185	samAsa Gawaka pratyeka pada Sakti upasTApita arTa atirikta
+T16	Bb 127 197	samAsa Gawaka pratyeka pada Sakti upasTApita arTa atirikta na vizayaka
+T17	K1 213 230	karmaDArIya Sakti
+T18	T6 213 237	karmaDArIya Sakti grahaH
+T19	Tdt 253 262	trE lokya
+T20	T6 253 271	trE lokya kAraRAya
+T21	Tn 278 286	na Binna
+T22	T3 272 286	DAnya na Binna
+T23	K1 272 291	DAnya na Binna Dana
+T24	K1 299 310	SAbda boDaH
+T25	Bs6 333 344	gAyatri Adi
+T26	K1 333 350	gAyatri Adi Cando
+T27	T3 333 361	gAyatri Adi Cando viSizwAnAm
+T28	T3 397 413	prakarza viSizwa
+T29	K1 397 420	prakarza viSizwa namana
+T30	Bs6 397 429	prakarza viSizwa namana vizayaka
+T31	K1 430 441	SAbda boDam
+T32	K1 397 441	prakarza viSizwa namana vizayaka SAbda boDam
+T33	K7 448 457	pra Sabda
+T34	T3 448 471	pra Sabda samaBivyAhfta
+T35	K7 472 483	namana DAtu
+T36	K1 448 483	pra Sabda samaBivyAhfta namana DAtu
+T37	T6 448 491	pra Sabda samaBivyAhfta namana DAtu lakzaRA
+T38	T6 448 497	pra Sabda samaBivyAhfta namana DAtu lakzaRA graha
+T39	T3 448 503	pra Sabda samaBivyAhfta namana DAtu lakzaRA graha janya
+T40	T3 504 520	prakarza viSizwa
+T41	K1 504 527	prakarza viSizwa namana
+T42	T6 504 537	prakarza viSizwa namana upasTitiH
+T43	K1 448 537	pra Sabda samaBivyAhfta namana DAtu lakzaRA graha janya prakarza viSizwa namana upasTitiH
+T44	Di 546 558	kftya akftya
+T45	T6 546 566	kftya akftya vivekaH
+T46	K1 605 618	apara paryAya
+T47	Bs6 595 618	vyarTatva apara paryAya
+T48	T6 619 635	tAtparya grAhaka
+T49	K1 595 639	vyarTatva apara paryAya tAtparya grAhaka tva
+T50	T6 595 648	vyarTatva apara paryAya tAtparya grAhaka tva kalpanam
+T51	U 661 674	vArtika kAraH

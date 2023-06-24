@@ -1,0 +1,33 @@
+T1	Tp 9 17	ati kAle
+T2	Tn 6 17	na ati kAle
+T3	T6 71 80	loka Adim
+T4	Bsmn 81 90	a niDanam
+T5	T6 99 108	loka hita
+T6	T4 99 113	loka hita arTe
+T7	T6 114 124	kaMsa vaDa
+T8	T4 114 129	kaMsa vaDa arTe
+T9	T6 130 140	vfzRi kule
+T10	T6 209 223	sva sva sTAnaM
+T11	Tn 243 250	na kfta
+T12	Bs6 243 258	na kfta AtmAnaH
+T13	Bsmn 276 286	na cetasaH
+T14	K7 294 305	go Sabdasya
+T15	T3 306 320	Anayana anvita
+T16	K1 306 323	Anayana anvita go
+T17	Bs6 306 328	Anayana anvita go rUpa
+T18	K1 306 335	Anayana anvita go rUpa arTena
+T19	K7 371 380	go SabdaH
+T20	T3 381 395	Anayana anvita
+T21	K1 381 399	Anayana anvita gAm
+T22	Bv 416 425	go mAtram
+T23	Tp 437 447	ati svapna
+T24	Bs6 437 455	ati svapna SIlasya
+T25	T6 515 525	sUrya asta
+T26	K1 515 530	sUrya asta velA
+T27	A1 550 560	prati Pala
+T28	T6 550 567	prati Pala rUpeRa
+T29	Bb 614 634	aneka vaktra nayanam
+T30	Bb 680 700	aneka vaktra nayanam
+T31	T6 719 727	go kraya
+T32	T6 719 733	go kraya mUlya
+T33	T4 719 739	go kraya mUlya arTam

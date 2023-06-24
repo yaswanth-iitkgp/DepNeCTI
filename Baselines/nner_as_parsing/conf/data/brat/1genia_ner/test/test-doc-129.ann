@@ -1,0 +1,49 @@
+T1	T6 0 19	vyapadeSivat BAvena
+T2	K7 20 37	tAdAtmya saMbanDa
+T3	T7 20 51	tAdAtmya saMbanDa paryavasitena
+T4	T3 52 63	kriyA janya
+T5	Bs6 64 77	viklftti rUpa
+T6	K1 64 82	viklftti rUpa Pala
+T7	K1 52 82	kriyA janya viklftti rUpa Pala
+T8	T6 52 89	kriyA janya viklftti rUpa Pala ASraya
+T9	T6 103 116	lakzaRA sTale
+T10	K1 120 130	Sakya arTa
+T11	T6 120 141	Sakya arTa parityAgaH
+T12	K7 190 200	uttara dik
+T13	T6 190 209	uttara dik aBimuKaH
+T14	T6 232 245	yOvana unmeza
+T15	T3 232 253	yOvana unmeza SAlinaH
+T16	T6 261 272	rAja kumAra
+T17	T6 254 272	nizaDa rAja kumAra
+T18	T4 273 285	udvAha arTaM
+T19	T6 307 321	asmat svAminaH
+T20	K2 337 350	rAya mahASaya
+T21	T6 337 357	rAya mahASaya pArSva
+T22	T7 337 364	rAya mahASaya pArSva gatena
+T23	Tn 457 468	na prasidDa
+T24	K1 457 473	na prasidDa arTa
+T25	T6 457 478	na prasidDa arTa boDa
+T26	T6 457 486	na prasidDa arTa boDa Opayika
+T27	K1 457 493	na prasidDa arTa boDa Opayika SakteH
+T28	K1 498 512	lakzaRA padena
+T29	T6 526 544	SakyatA avacCedaka
+T30	T6 526 550	SakyatA avacCedaka Aropa
+T31	T6 526 555	SakyatA avacCedaka Aropa mUla
+T32	T6 556 570	Sakya sambanDa
+T33	K1 526 570	SakyatA avacCedaka Aropa mUla Sakya sambanDa
+T34	T6 526 576	SakyatA avacCedaka Aropa mUla Sakya sambanDa BedAt
+T35	Bs6 577 590	gORItva AdinA
+T36	K1 627 636	eka patnI
+T37	T7 627 642	eka patnI vrata
+T38	U 627 647	eka patnI vrata sTaH
+T39	T6 666 675	sva rAjya
+T40	T6 666 686	sva rAjya sTApanasya
+T41	T6 687 699	SuBa AramBaH
+T42	Tdu 716 726	sapta dina
+T43	T6 716 736	sapta dina anantaram
+T44	Tp 766 780	upa saMgrahaRa
+T45	T6 761 780	pada upa saMgrahaRa
+T46	T6 761 788	pada upa saMgrahaRa kAraRam
+T47	T7 797 809	SrezWin vara
+T48	Tn 825 831	na vAk
+T49	Bs6 825 836	na vAk manA

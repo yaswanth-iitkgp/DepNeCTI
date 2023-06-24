@@ -1,0 +1,86 @@
+# @package _global_
+
+defaults:
+  - override /data: brat/genia_ner
+  - override /embedding: en_transformer
+  - override /encoder: span_rel_sep_mix
+  - override /optimize: parsing_finetune
+  - override /metric: span
+  - override /runner: basic
+  - override /task: ner_onestage2_gonly
+  - override /dataloader@_global_.dataloader.default: constant_token_64b
+
+dataloader:
+  default:
+    token_size: 7500
+    batch_size: 64
+    force_same_len: false
+
+datamodule:
+  span_indicator: true
+  span_list: true
+  max_len:
+    train: 80
+  allow_empty: true
+
+task:
+  positional_biaffine: true
+  mlp_dropout: 0.33
+  fencepost_mode: 'transformer'
+  maximize_entropy: 0.
+  exp_opt_entropy: 1.0
+  bias_on_diff_head: 0.
+  entropy_on_all: false
+  label_mode: ~
+  loss_reduction_mode: num_span:num_span
+  arc_mlp_hidden: 500
+  span_ind_mlp_hidden: 500
+  label_mlp_hidden: 192
+  train_prune_threshold: 10
+  potential_normalize: true
+  potential_normalize_var: 1.0
+  decode_bias: 0.
+
+metric:
+  unique: false
+  label_as_string: false
+
+trainer:
+  accumulate_grad_batches: 8
+  stochastic_weight_avg: true
+  
+runner:
+  loss_reduction_mode: sum
+  ignore_punct: false
+
+model:
+  _target_: src.models.basic.BasicModel
+
+embedding:
+  _transformer_model: ${root}/data/biobert-large-cased-v1.1
+  _word_embedding: bio
+
+optimizer:
+  groups:
+    - pattern: ".*bias.*"
+      weight_decay: 0.
+    - pattern: ".*LayerNorm\\.weight.*"
+      weight_decay: 0
+    - pattern: ^embedding.bert
+      lr: 5.0e-5
+  args:
+    _target_: torch.optim.AdamW
+    lr: 0.002
+    betas: [ 0.9, 0.999 ]
+    weight_decay: 0.
+    eps: 1.0e-12
+
+scheduler:
+  args:
+    num_warmup_steps: '2 epoch'
+    num_training_steps: '100 epoch'
+
+project: brat_genia
+
+watch_field: val/f1
+watch_mode: max

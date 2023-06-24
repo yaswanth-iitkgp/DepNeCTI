@@ -1,0 +1,37 @@
+T1	T2 5 16	jYAna gatam
+T2	Di 17 40	pratyakzatva anumititva
+T3	Bs6 17 47	pratyakzatva anumititva Adikam
+T4	T7 65 75	garBa vAsa
+T5	T6 76 86	yoni dvAra
+T6	T3 76 97	yoni dvAra niHsaraRam
+T7	Ds 65 97	garBa vAsa yoni dvAra niHsaraRam
+T8	Tp 110 118	vi kzatA
+T9	T5 104 118	kzata vi kzatA
+T10	K6 145 154	guru deva
+T11	T6 155 165	Billa strI
+T12	T6 155 172	Billa strI saNgAt
+T13	K1 205 216	nata vadana
+T14	T4 251 261	etat arTam
+T15	d 291 300	nava nava
+T16	K1 291 306	nava nava Sabda
+T17	T6 291 315	nava nava Sabda anvezaRa
+T18	T6 291 323	nava nava Sabda anvezaRa vyasana
+T19	T6 411 421	raRa raNga
+T20	T6 411 431	raRa raNga gamanasya
+T21	T6 516 527	yuzmad muKa
+T22	T5 516 535	yuzmad muKa niHsfta
+T23	K1 516 541	yuzmad muKa niHsfta vAkya
+T24	K6 516 548	yuzmad muKa niHsfta vAkya amftam
+T25	Bsmn 583 591	na pUrva
+T26	T6 583 602	na pUrva darpaRasya
+T27	Bs7 636 659	AtmAn Aropita mahimAnaH
+T28	Tn 682 693	na atirikta
+T29	T5 673 693	pratyeka na atirikta
+T30	Bs6 699 712	Gawa vizayaka
+T31	T3 699 726	Gawa vizayaka tva avacCinna
+T32	K1 727 737	SAbda boDa
+T33	T6 699 737	Gawa vizayaka tva avacCinna SAbda boDa
+T34	Bv 699 743	Gawa vizayaka tva avacCinna SAbda boDa nizWa
+T35	K1 699 751	Gawa vizayaka tva avacCinna SAbda boDa nizWa janyatA
+T36	T3 699 760	Gawa vizayaka tva avacCinna SAbda boDa nizWa janyatA nirUpita
+T37	K1 699 771	Gawa vizayaka tva avacCinna SAbda boDa nizWa janyatA nirUpita janakatvam

@@ -1,0 +1,36 @@
+T1	K1 0 12	mahat mantrI
+T2	K1 18 28	mahat rAja
+T3	T6 29 39	dAna PalaM
+T4	T6 18 39	mahat rAja dAna PalaM
+T5	T3 45 56	asmad Sizwa
+T6	K1 57 68	sADu mArgam
+T7	K1 45 68	asmad Sizwa sADu mArgam
+T8	Tn 69 78	na prApya
+T9	T6 91 105	tattva arTavat
+T10	Tn 88 105	na tattva arTavat
+T11	T2 109 118	yaTA BUta
+T12	K1 109 126	yaTA BUta arTavat
+T13	Tn 106 126	na yaTA BUta arTavat
+T14	K1 133 145	miTyA jYAnam
+T15	K1 146 157	parama arTa
+T16	K1 146 163	parama arTa vastu
+T17	Tn 205 211	a ruci
+T18	Tp 212 220	ati agni
+T19	Di 205 220	a ruci ati agni
+T20	T6 205 228	a ruci ati agni nASanam
+T21	K1 229 244	katipaya divasa
+T22	T6 229 254	katipaya divasa anantaram
+T23	T6 291 302	sva BaginyA
+T24	T6 326 335	pada arTa
+T25	K1 317 335	vijAtIya pada arTa
+T26	T6 317 344	vijAtIya pada arTa upasTiti
+T27	T6 317 352	vijAtIya pada arTa upasTiti anukUla
+T28	K1 317 361	vijAtIya pada arTa upasTiti anukUla saMbanDa
+T29	Tp 388 399	dur vipAkAt
+T30	T6 383 399	dEva dur vipAkAt
+T31	T5 456 470	uBaya viBrazwa
+T32	K1 456 478	uBaya viBrazwa vacanam
+T33	T6 496 511	viBraMSa kAraRa
+T34	Tn 512 524	na upapatteH
+T35	T6 496 524	viBraMSa kAraRa na upapatteH
+T36	Ds 525 586	SEvAla padma utpala vetra tuNga prapORqarIkARya mfRAla loDram

@@ -1,0 +1,35 @@
+T1	K1 0 12	kftsna karma
+T2	U 0 16	kftsna karma kft
+T3	K1 17 30	samasta karma
+T4	U 17 34	samasta karma kft
+T5	Di 47 93	upakleda sneha banDa vizyanda mArdava prahlAda
+T6	U 47 100	upakleda sneha banDa vizyanda mArdava prahlAda karARi
+T7	T6 101 112	putra dvaya
+T8	T6 101 122	putra dvaya atiriktam
+T9	T7 137 145	tat gfhe
+T10	T6 205 218	pAda sparSena
+T11	T6 201 218	sva pAda sparSena
+T12	Di 283 292	kaPa vAta
+T13	U 283 297	kaPa vAta GnaH
+T14	U 298 308	krimi GnaH
+T15	T6 309 322	Bakta pAcanaH
+T16	T6 328 337	pada arTa
+T17	T6 328 343	pada arTa smfti
+T18	T6 328 349	pada arTa smfti dvArA
+T19	T6 365 376	vAkya boDaH
+T20	K1 377 390	muKya viSezya
+T21	T6 396 407	AKyAta arTa
+T22	K1 396 415	AKyAta arTa BAvanAm
+T23	T6 429 440	dEtya indra
+T24	T6 429 448	dEtya indra kuYjara
+T25	K1 449 460	nata aNkuSa
+T26	T6 429 460	dEtya indra kuYjara nata aNkuSa
+T27	K4 429 467	dEtya indra kuYjara nata aNkuSa tIkzRa
+T28	Bs6 429 474	dEtya indra kuYjara nata aNkuSa tIkzRa tuRqAH
+T29	Tn 482 490	a rocaka
+T30	Tn 491 497	a pAkO
+T31	Di 482 497	a rocaka a pAkO
+T32	Tp 545 553	pra gAQa
+T33	K1 545 559	pra gAQa mitre
+T34	Tp 571 580	nir vyAja
+T35	Bb 571 594	nir vyAja manohara aNgI

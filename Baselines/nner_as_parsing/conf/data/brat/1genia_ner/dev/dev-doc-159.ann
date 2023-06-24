@@ -1,0 +1,49 @@
+T1	Tn 11 17	na sat
+T2	K1 11 23	na sat vftte
+T3	Tp 84 93	anu priya
+T4	T6 79 93	deva anu priya
+T5	K1 191 205	sarva praTamaH
+T6	T6 212 221	mAtf BAzi
+T7	K6 206 221	hIbrU mAtf BAzi
+T8	T6 263 272	matu arTa
+T9	K1 263 279	matu arTa dravya
+T10	Bs6 263 290	matu arTa dravya viSezyakaH
+T11	Bs6 291 306	Gawa prakArakaH
+T12	K1 307 318	SAbda boDaH
+T13	T4 359 374	parIkzaRa arTaM
+T14	T6 353 374	BAgya parIkzaRa arTaM
+T15	T6 450 466	prAtipAdika arTa
+T16	Bv 450 472	prAtipAdika arTa nizWa
+T17	K7 473 486	Beda saMbanDa
+T18	T3 473 496	Beda saMbanDa avacCinna
+T19	K1 473 506	Beda saMbanDa avacCinna prakAratA
+T20	T3 473 515	Beda saMbanDa avacCinna prakAratA nirUpita
+T21	K1 473 525	Beda saMbanDa avacCinna prakAratA nirUpita viSezyatA
+T22	K1 450 525	prAtipAdika arTa nizWa Beda saMbanDa avacCinna prakAratA nirUpita viSezyatA
+T23	K7 450 536	prAtipAdika arTa nizWa Beda saMbanDa avacCinna prakAratA nirUpita viSezyatA saMbanDena
+T24	K1 537 549	SAbda budDim
+T25	T3 556 570	pratyaya janya
+T26	K1 556 580	pratyaya janya upasTitiH
+T27	K7 581 601	viSezyatA saMbanDena
+T28	T3 675 688	argala viSAlA
+T29	Tn 672 688	na argala viSAlA
+T30	T6 689 701	prAsAda mAlA
+T31	Di 702 714	kriyA kAraka
+T32	T6 702 723	kriyA kAraka samudAya
+T33	T6 702 730	kriyA kAraka samudAya boDaka
+T34	Bs6 743 762	boDakatva prakAraka
+T35	T6 763 774	ISvara icCA
+T36	K1 743 774	boDakatva prakAraka ISvara icCA
+T37	K1 792 803	aneka janma
+T38	K1 782 803	atikrAnta aneka janma
+T39	Tm 782 810	atikrAnta aneka janma antara
+T40	T7 782 818	atikrAnta aneka janma antara kftasya
+T41	Di 819 832	svarga naraka
+T42	Bs6 819 836	svarga naraka Adi
+T43	T6 819 843	svarga naraka Adi prApti
+T44	Bs6 819 851	svarga naraka Adi prApti Palasya
+T45	Tn 852 861	na ArabDa
+T46	Bs6 852 870	na ArabDa kAryasya
+T47	Tn 879 891	na upapatteH
+T48	T6 871 891	upaBoga na upapatteH
+T49	T6 892 904	kzaya aBAvaH

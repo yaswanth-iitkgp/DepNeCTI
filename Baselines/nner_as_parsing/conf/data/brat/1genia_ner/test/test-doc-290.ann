@@ -1,0 +1,46 @@
+T1	K1 10 25	paScima kzitija
+T2	T6 10 31	paScima kzitija upari
+T3	T6 40 58	kamalinI nAyakasya
+T4	T3 106 123	kalA paripUrRasya
+T5	T6 124 136	kalA nATasya
+T6	K6 243 254	karma banDa
+T7	T5 243 261	karma banDa muktaH
+T8	T6 313 323	vidyA dAna
+T9	T6 313 331	vidyA dAna kAraRAt
+T10	K1 363 376	sarva indriya
+T11	T6 363 381	sarva indriya guRa
+T12	T3 363 388	sarva indriya guRa ABAsam
+T13	Bs6 415 426	Srotf AdIni
+T14	T6 427 440	budDi indriya
+T15	T6 441 455	karman indriya
+T16	Bb 427 462	budDi indriya karman indriya AKyAni
+T17	T1 463 473	maDya ahna
+T18	T6 463 483	maDya ahna paryantam
+T19	T6 518 531	sarovara tIre
+T20	K7 568 578	naSa DAtoH
+T21	Tn 579 589	na darSana
+T22	T6 579 597	na darSana anukUla
+T23	K1 579 606	na darSana anukUla vyApAraH
+T24	K1 607 618	parama duKa
+T25	T3 607 627	parama duKa sammiSre
+T26	BvS 650 658	sa vAzpa
+T27	K1 714 727	Bagavat pAdAH
+T28	K1 728 742	nirukta SruteH
+T29	K3 743 750	tad tad
+T30	T6 743 757	tad tad vAcaka
+T31	K1 743 763	tad tad vAcaka Sabda
+T32	T6 743 774	tad tad vAcaka Sabda anusanDAna
+T33	Bs6 743 782	tad tad vAcaka Sabda anusanDAna pUrvaka
+T34	K3 783 790	tad tad
+T35	K1 783 796	tad tad sfzwi
+T36	K1 743 796	tad tad vAcaka Sabda anusanDAna pUrvaka tad tad sfzwi
+T37	T6 743 801	tad tad vAcaka Sabda anusanDAna pUrvaka tad tad sfzwi para
+T38	T6 807 823	devatA aDikaraRe
+T39	T6 884 897	kUzmARqa latA
+T40	T6 884 905	kUzmARqa latA samIpam
+T41	T7 952 966	Arya varyeByaH
+T42	Tm 942 966	viSvanATa Arya varyeByaH
+T43	K7 942 966	viSvanATa Arya varyeByaH
+T44	K1 942 966	viSvanATa Arya varyeByaH
+T45	Tn 977 984	na ekAn
+T46	K7 985 996	Danya vAdAn

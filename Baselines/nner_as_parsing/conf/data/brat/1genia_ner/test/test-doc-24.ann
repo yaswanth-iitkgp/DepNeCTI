@@ -1,0 +1,32 @@
+T1	Tp 0 8	dus kara
+T2	T3 0 15	dus kara viDeya
+T3	T6 0 21	dus kara viDeya jAtaM
+T4	T6 47 56	vAta mada
+T5	T3 47 64	vAta mada AvizwaM
+T6	Di 65 82	rUkza SyAva aruRa
+T7	Bs6 65 89	rUkza SyAva aruRa Akftim
+T8	Tp 96 106	nir gamana
+T9	T6 96 111	nir gamana kAle
+T10	Di 141 155	vAk manas kAya
+T11	Bb 134 162	tyakta vAk manas kAya cezwaH
+T12	Bvp 163 173	nir AyAsaH
+T13	Bs6 174 189	prasanna cittaH
+T14	T6 220 236	bAhya prayojanaH
+T15	Bb 206 236	nivftta sarva bAhya prayojanaH
+T16	K1 281 291	bahu mUlya
+T17	T6 281 300	bahu mUlya ratnAnAM
+T18	K1 325 334	BfSa Soka
+T19	T3 325 340	BfSa Soka tapta
+T20	Bs6 325 348	BfSa Soka tapta manasaH
+T21	U 357 369	kArya arTinA
+T22	Bs6 379 388	na vinaya
+T23	K1 379 394	na vinaya SIlaH
+T24	T6 435 447	dvitIyA arTa
+T25	K1 435 456	dvitIyA arTa karmatve
+T26	K6 498 509	anna dravya
+T27	T6 498 514	anna dravya ruci
+T28	U 498 522	anna dravya ruci karARAm
+T29	K7 540 558	karmatA saMbanDena
+T30	T6 559 568	DAtu arTa
+T31	K1 559 573	DAtu arTa pAke
+T32	T6 574 591	anvaya tAtparyeRa

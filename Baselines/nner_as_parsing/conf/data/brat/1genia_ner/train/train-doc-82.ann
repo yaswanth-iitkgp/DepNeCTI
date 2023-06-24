@@ -1,0 +1,42 @@
+T1	U 15 29	brahma cAriBiH
+T2	BvS 12 29	sa brahma cAriBiH
+T3	Tn 121 130	na avadya
+T4	K1 121 135	na avadya rUpa
+T5	T6 121 140	na avadya rUpa rASi
+T6	T3 121 147	na avadya rUpa rASi rAjitA
+T7	K1 148 163	rucira alaNkAra
+T8	T3 148 171	rucira alaNkAra BrAjitA
+T9	K1 172 182	Bavya BAva
+T10	T3 172 189	Bavya BAva BUzitA
+T11	T6 190 201	kokila kala
+T12	T3 190 208	kokila kala kUjitA
+T13	K1 239 254	cAru cikuracayA
+T14	K1 255 272	kamanIya kalevarA
+T15	U 287 297	aSva ArohI
+T16	T3 298 307	kara Dfta
+T17	Bs3 298 315	kara Dfta SaSakaM
+T18	T6 407 419	svarRa mudrA
+T19	T6 407 430	svarRa mudrA sahasrasya
+T20	Tn 486 497	na saMBavAt
+T21	T6 477 497	kartftva na saMBavAt
+T22	K1 526 536	sarva kAma
+T23	T6 526 546	sarva kAma parityAge
+T24	T6 547 559	tuzwi kAraRa
+T25	T6 547 566	tuzwi kAraRa aBAvAt
+T26	T6 567 580	SarIra DAraRa
+T27	T6 567 588	SarIra DAraRa nimitta
+T28	T6 567 593	SarIra DAraRa nimitta Seze
+T29	K1 602 621	unmatta pramattasya
+T30	T6 643 656	yajYa aSvasya
+T31	Di 666 690	Barata SatruGna lakzmaRa
+T32	Bs6 666 697	Barata SatruGna lakzmaRa AdayaH
+T33	BvS 698 707	sa sEnyam
+T34	T6 754 766	indriya bala
+T35	Di 721 766	dIpti ojaH smfti meDA agni budDi indriya bala
+T36	T6 721 774	dIpti ojaH smfti meDA agni budDi indriya bala arTinaH
+T37	Tn 785 791	a mita
+T38	Bs6 785 801	a mita saNkalpaH
+T39	Bs6 856 864	Gawa Adi
+T40	K1 856 872	Gawa Adi padasya
+T41	Bs6 873 882	nAnA arTa
+T42	T6 873 894	nAnA arTa tva ApattiH

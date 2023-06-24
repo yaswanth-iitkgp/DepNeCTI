@@ -1,0 +1,42 @@
+T1	Di 0 10	moha AveSa
+T2	T6 0 16	moha AveSa vaSAt
+T3	K7 41 57	anuSAsana padena
+T4	T3 58 71	sIradeva kfta
+T5	T6 72 86	pariBAzA vfttO
+T6	K1 58 86	sIradeva kfta pariBAzA vfttO
+T7	K7 87 95	Wak pAde
+T8	T3 96 109	jYApaka sidDi
+T9	T6 96 118	jYApaka sidDi pariBAzA
+T10	T6 193 204	arTa SAstra
+T11	T6 193 213	arTa SAstra sidDAnta
+T12	T6 221 236	lakzaRIya kriyA
+T13	K1 245 255	ukta sUtra
+T14	T6 256 265	na vizaya
+T15	Tn 279 291	na upapatteH
+T16	T6 221 291	lakzaRIya kriyA aBAvena ukta sUtra na vizaya tayA saptamI na upapatteH
+T17	Tp 298 310	pari pAlanam
+T18	T6 292 310	rAjya pari pAlanam
+T19	T6 333 347	grAma maryAdAm
+T20	Tp 348 359	pari pAlana
+T21	T7 348 368	pari pAlana parAyaRA
+T22	Tp 376 387	ava guRWana
+T23	T3 376 393	ava guRWana Avfta
+T24	Bs6 376 400	ava guRWana Avfta vadanA
+T25	Tp 458 469	aDi patayaH
+T26	T6 452 469	nyAya aDi patayaH
+T27	T6 479 492	advEta SAstra
+T28	T6 479 505	advEta SAstra vyavasTApana
+T29	T3 479 511	advEta SAstra vyavasTApana labDa
+T30	Bs6 479 520	advEta SAstra vyavasTApana labDa varRAnAm
+T31	K1 525 541	raNgoji BawwAnAm
+T32	Tm 521 541	SrI raNgoji BawwAnAm
+T33	U 542 550	tanU jAH
+T34	K1 555 567	kORqa BawwAH
+T35	Tm 551 567	SrI kORqa BawwAH
+T36	T6 568 580	daRqa Sabdam
+T37	T6 600 610	saBA sadaH
+T38	Tp 611 621	pra mudita
+T39	K1 611 629	pra mudita manasaH
+T40	T6 700 710	ratna mAlA
+T41	T6 700 717	ratna mAlA hetunA
+T42	T3 726 738	lABa anvitaH

@@ -1,0 +1,40 @@
+T1	Tn 8 14	a hita
+T2	Tm 8 25	a hita samAKyAtam
+T3	T6 26 40	karuRa pUrRena
+T4	K1 56 67	mahat rAjaH
+T5	K7 49 67	janaka mahat rAjaH
+T6	K1 88 99	tAdfSa boDa
+T7	T3 100 113	svarUpa yogya
+T8	T7 88 113	tAdfSa boDa svarUpa yogya
+T9	K1 145 160	viviDa lakzaRAH
+T10	K2 140 160	rogA viviDa lakzaRAH
+T11	Bs6 161 172	catur cakra
+T12	Bs6 173 182	tri cakra
+T13	Bs6 183 192	dvi cakra
+T14	Di 161 192	catur cakra tri cakra dvi cakra
+T15	K1 161 200	catur cakra tri cakra dvi cakra SakawAn
+T16	Bs6 231 245	SiTilita AsTAH
+T17	K1 255 265	bahu vitta
+T18	T6 255 271	bahu vitta vyaya
+T19	Di 255 277	bahu vitta vyaya AyAsa
+T20	T3 255 284	bahu vitta vyaya AyAsa sADyam
+T21	T6 285 294	veda arTa
+T22	T6 285 304	veda arTa anuzWAnam
+T23	K7 331 344	nyAya darSana
+T24	T6 331 351	nyAya darSana viBAge
+T25	Tp 432 439	vi hIna
+T26	T3 426 439	pucCa vi hIna
+T27	Bs6 459 476	samAna AnupUrvIka
+T28	K7 477 491	kamala padasya
+T29	K1 459 491	samAna AnupUrvIka kamala padasya
+T30	T6 496 508	uddeSya kowO
+T31	T6 509 520	viDeya kowO
+T32	K3 559 566	tad tad
+T33	K1 567 578	vAcaka pada
+T34	K1 559 578	tad tad vAcaka pada
+T35	Bs6 559 583	tad tad vAcaka pada rUpa
+T36	K1 559 594	tad tad vAcaka pada rUpa avacCedaka
+T37	T6 559 602	tad tad vAcaka pada rUpa avacCedaka Bedasya
+T38	T3 644 658	gotva viSezita
+T39	K1 644 664	gotva viSezita karma
+T40	Bs6 686 697	go karmanka

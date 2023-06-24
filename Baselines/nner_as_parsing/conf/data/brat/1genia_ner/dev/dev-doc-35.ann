@@ -1,0 +1,37 @@
+T1	Tp 15 25	pra sAdite
+T2	T3 10 25	gIta pra sAdite
+T3	Tp 41 52	pra karaRam
+T4	Bss 63 72	dvi trezu
+T5	T6 80 93	rAjan saBAyAM
+T6	Bs6 101 113	viSAla dehaH
+T7	T3 114 124	teja dIpta
+T8	Bb 114 132	teja dIpta vadanaH
+T9	K1 133 143	mahAn AtmA
+T10	T6 159 173	anujYA prApteH
+T11	Tp 199 210	pari tyAgaH
+T12	T6 193 210	grAma pari tyAgaH
+T13	T3 225 237	yadfcCA lABa
+T14	T3 225 247	yadfcCA lABa santuzwaH
+T15	Tn 248 259	na prArTita
+T16	T3 248 268	na prArTita upanataH
+T17	T3 275 288	yadfcCA lABaH
+T18	K7 312 326	alam pratyayaH
+T19	Bs6 304 326	saMjAta alam pratyayaH
+T20	T4 342 355	darSana arTam
+T21	T6 334 355	Bagavat darSana arTam
+T22	Tn 390 398	na datta
+T23	K1 390 403	na datta BUmi
+T24	T6 390 411	na datta BUmi praveSa
+T25	T6 390 424	na datta BUmi praveSa praDarzaRena
+T26	K1 534 547	sakala SAstra
+T27	T6 534 558	sakala SAstra pAraNgatam
+T28	Tp 575 583	pra kfti
+T29	U 575 587	pra kfti jEH
+T30	Bs6 650 660	sva BAvAdi
+T31	T6 650 670	sva BAvAdi vivaraRam
+T32	T6 712 723	gupti parAn
+T33	T6 706 723	Atman gupti parAn
+T34	K7 750 762	SAnti senAyA
+T35	Di 763 787	viSvasta balizWa vayasya
+T36	K1 763 794	viSvasta balizWa vayasya yuvaka
+T37	T3 763 800	viSvasta balizWa vayasya yuvaka upeta
