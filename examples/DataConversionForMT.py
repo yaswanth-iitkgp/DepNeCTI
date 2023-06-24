@@ -54,11 +54,11 @@ def data_conversion(file,outfile_path):
     for line in lines:
         tokens = line.strip().split()
         i = 0
-        tok_len = len(tokens)
+        tok_len = len(raw_to_clean(line).split())
         for token in tokens:
             if '-' not in token:
                 i += 1
-                new_lines.append(f'{i}\t{token}\tCompNo\t_\t{tok_len+1}\t_\n')
+                new_lines.append(f'{i}\t{token}\tCompNo\t_\t{tok_len+1}\tNo_rel\n')
             else:
                 tokens_lst = raw_to_clean(token).split()
                 length = len(tokens_lst)
@@ -66,10 +66,11 @@ def data_conversion(file,outfile_path):
                 for token in tokens_lst:
                     i += 1
                     if j!=len(tokens_lst)-1:
-                        new_lines.append(f'{i}\t{token}\tComp{length}\t_\t{tok_len+1}\t_\n')
+                        new_lines.append(f'{i}\t{token}\tComp{length}\t_\t{0}\t_\n')
                     else:
                         new_lines.append(f'{i}\t{token}\tComp{length}\t_\t{tok_len+1}\tComp_root\n')
                     j+= 1
+        i += 1
         new_lines.append(f'{i}\tDUMMY\tCompNo\t_\t{0}\troot\n')
         new_lines.append('\n')
     with open(outfile_path,'w') as o:
