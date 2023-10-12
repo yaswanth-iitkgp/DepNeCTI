@@ -3,4 +3,6 @@ data/cc.NeCTIS.300.txt
 data/cc.NeCTIS.300.txt.pkl
 #data/ud_pos_ner_dp_test_san
 .gitattributes
-*.zip
+readme for MT.md
+data_MT/*
+run_DepNeCTI_LSTM_for_MT.sh
