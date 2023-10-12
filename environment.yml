@@ -1,4 +1,4 @@
-name: nectis3
+name: DepNeCTI
 channels:
   - pytorch
   - nvidia
