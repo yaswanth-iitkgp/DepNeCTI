@@ -1,0 +1,56 @@
+
+Without Context Finegrain
+Results for Without Context Finegrain0 are:
+Precision: 83.36
+Recall: 83.36
+F1: 83.36
+Exact match: 63.92
+
+Results for Without Context Finegrain1 are:
+Precision: 74.26
+Recall: 74.26
+F1: 74.26
+Exact match: 45.7
+
+
+Without Context Coarse
+Results for Without Context Coarse0 are:
+Precision: 90.83
+Recall: 90.83
+F1: 90.83
+Exact match: 79.85
+
+Results for Without Context Coarse1 are:
+Precision: 84.24
+Recall: 84.24
+F1: 84.24
+Exact match: 65.5
+
+
+With Context Finegrain
+Results for With Context Finegrain0 are:
+Precision: 83.19
+Recall: 83.19
+F1: 83.19
+Exact match: 63.3
+
+Results for With Context Finegrain1 are:
+Precision: 73.54
+Recall: 73.54
+F1: 73.54
+Exact match: 44.37
+
+
+With Context Coarse
+Results for With Context Coarse0 are:
+Precision: 90.67
+Recall: 90.67
+F1: 90.67
+Exact match: 79.45
+
+Results for With Context Coarse1 are:
+Precision: 84.45
+Recall: 84.45
+F1: 84.45
+Exact match: 65.0
+
