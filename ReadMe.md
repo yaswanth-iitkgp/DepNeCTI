@@ -1,4 +1,4 @@
-Official code for the paper `"[DepNeCTI: Dependency-based Nested Compound Type Identification for Sanskrit](http://arxiv.org/abs/2310.09501)"`
+Official code for the paper [DepNeCTI: Dependency-based Nested Compound Type Identification for Sanskrit](http://arxiv.org/abs/2310.09501)
 
 ## Requirements for running DepNeCTI-LSTM model
 
