@@ -1,4 +1,4 @@
-Official code for the paper `"NeCTIS: Nested Compound Type Identification for Sanskrit - Introducing a Novel Task, Datasets and Framework"`
+Official code for the paper `"[DepNeCTI: Dependency-based Nested Compound Type Identification for Sanskrit](http://arxiv.org/abs/2310.09501)"`
 
 ## Requirements for running DepNeCTI-LSTM model
 
@@ -50,7 +50,7 @@ bash run_DepNeCTI_LSTM.sh
 * Use the script (`eval_f1.py`) provided in `Evaluation` folder to get the scores.
 
 ## How to Know USS, LSS scores
-* Use the script (`eval_USS.py`) provided in `Evaluation` folder to get the scores.
+* Use the script (`eval_USS_LSS.py`) provided in `Evaluation` folder to get the scores.
 
 ## How to reproduce the results shown for other baselines
 * Download the dataset from this [link](https://drive.google.com/drive/folders/1nr5keSzfeQuNWabX4CcWEHn9269RWNNB?usp=sharing) which are in the required format for each baseline.
@@ -58,6 +58,20 @@ bash run_DepNeCTI_LSTM.sh
 * If you face problem in using this dataset from this link you can generate your data format using the `data_format.ipynb` in `Datasets/data_format`
 * Note: for using any baseline the data will have names like "genia", "GENIA" etc but that data is DepNeCTI data only, the names are left unchanged to avoid creating trouble when running the model.
 
+
+## Citing DepNeCTI
+If you use DepNeCTI in your research, please consider citing our work:
+
+```
+@misc{sandhan2023depnecti,
+      title={DepNeCTI: Dependency-based Nested Compound Type Identification for Sanskrit}, 
+      author={Jivnesh Sandhan and Yaswanth Narsupalli and Sreevatsa Muppirala and Sriram Krishnan and Pavankumar Satuluri and Amba Kulkarni and Pawan Goyal},
+      year={2023},
+      eprint={2310.09501},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
 
 
 
